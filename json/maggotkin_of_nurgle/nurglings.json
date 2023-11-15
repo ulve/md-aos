@@ -1,0 +1,69 @@
+{
+ "IsLegends": false,
+ "Url": "https://wahapedia.ru/aos3/factions/maggotkin-of-nurgle/Nurglings",
+ "Faction": "Maggotkin of Nurgle",
+ "Title": "Nurglings",
+ "Legend": "Nurglings are daemon mites that tumble from the innards of larger daemons or spill up from sewers and fissures in reality. They pour across the battlefield in a stinking tide, burying the foe beneath waves of infectious foulness.",
+ "PitchBattleProfile": {
+  "UnitSize": "3",
+  "Points": "100",
+  "Role": "None",
+  "BaseSize": "40",
+  "Notes": ""
+ },
+ "Intro": "This unit is referred to as a Nurgling Swarm. Each model in a Nurgling Swarm is armed with Tiny Razor-sharp Teeth.",
+ "Rules": [
+  {
+   "Name": "Battalions",
+   "Fluff": "",
+   "Rule": "BATTALIONS: This warscroll can be used in the following warscroll battalions: • Tallyband of Nurgle"
+  },
+  {
+   "Name": "Endless Swarm",
+   "Fluff": "The presence of Nurglings in the realms continuously draws more of their number from the Grandfather’s Garden, making their swarms extremely hard to eradicate.",
+   "Rule": "At the end of the battleshock phase, heal all wounds that have been allocated to this unit."
+  },
+  {
+   "Name": "Hidden Infestations",
+   "Fluff": "Capering forth from neglected middens and ancient sewers, the diminutive Nurglings overcome their victims through their sheer weight of numbers and collective virulence.",
+   "Rule": "During deployment, instead of setting up this unit on the battlefield, you can place it to one side and say that it is set up in a hidden infestation as a reserve unit. If you do so, at the end of your first movement phase, you must set up this unit on the battlefield, wholly outside of your territory, within 3\" of a terrain feature and more than 9\" from all enemy units."
+  }
+ ],
+ "Keywords": [
+  "Chaos",
+  "Daemon",
+  "Nurgle",
+  "Maggotkin Of Nurgle",
+  "Nurgling",
+  "Nurgling",
+  "Swarm"
+ ],
+ "Profile": {
+  "Movement": "4\"",
+  "Wounds": "4",
+  "Save": "6+",
+  "Bravery": "10"
+ },
+ "Tables": [
+  [
+   [
+    "MELEE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Tiny Razor-sharp Teeth",
+    "1\"",
+    "5",
+    "5+",
+    "5+",
+    "-",
+    "1"
+   ]
+  ]
+ ]
+}

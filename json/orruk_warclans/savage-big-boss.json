@@ -1,0 +1,65 @@
+{
+ "IsLegends": false,
+ "Url": "https://wahapedia.ru/aos3/factions/orruk-warclans/Savage-Big-Boss",
+ "Faction": "Orruk Warclans",
+ "Title": "Savage Big Boss",
+ "Legend": "Savage Big Bosses lead by brutal example, carving a bloody path deep into the ranks of the foe as they sever limbs and hack off heads. At his bellowed command, the Bonesplitter hordes renew their attack, stampeding forth with howls of battle lust.",
+ "PitchBattleProfile": {
+  "UnitSize": "1",
+  "Points": "80",
+  "Role": "Leader",
+  "BaseSize": "32",
+  "Notes": "Single"
+ },
+ "Intro": "A Savage Big Boss is armed with a Boss Chompa.",
+ "Rules": [
+  {
+   "Name": "Battalions",
+   "Fluff": "",
+   "Rule": "BATTALIONS: This warscroll can be used in the following warscroll battalions: • Brutal Rukk • Kunnin’ Rukk • Teef Rukk • Da Snorter’s Kop Rukk"
+  },
+  {
+   "Name": "Let Me At ’Em",
+   "Fluff": "A Savage Big Boss cannot wait to get to grips with the foe, and his manic fervour inspires any Bonesplitterz nearby to get into the fight as soon as possible.",
+   "Rule": "After this unit has fought in the combat phase for the first time, you can pick 1 friendly BONESPLITTERZ unit that has not yet fought in that combat phase, that is within 3\" of an enemy unit and that is wholly within 12\" of this unit. That unit fights immediately."
+  }
+ ],
+ "Keywords": [
+  "Destruction",
+  "Orruk Warclans",
+  "Orruk",
+  "Bonesplitterz",
+  "Hero",
+  "Savage",
+  "Big",
+  "Boss"
+ ],
+ "Profile": {
+  "Movement": "5\"",
+  "Wounds": "6",
+  "Save": "6+",
+  "Bravery": "7"
+ },
+ "Tables": [
+  [
+   [
+    "MELEE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Boss Chompa",
+    "1\"",
+    "6",
+    "3+",
+    "3+",
+    "-1",
+    "2"
+   ]
+  ]
+ ]
+}

@@ -1,0 +1,66 @@
+{
+ "IsLegends": false,
+ "Url": "https://wahapedia.ru/aos3/factions/maggotkin-of-nurgle/Sloppity-Bilepiper-Herald-of-Nurgle",
+ "Faction": "Maggotkin of Nurgle",
+ "Title": "Sloppity Bilepiper, Herald of Nurgle",
+ "Legend": "Sloppity Bilepipers caper through the ranks of Nurgle’s legions as they advance. Infected with a plague of mirth, they prance and quip, entertaining their fellow daemons even as they cause the enemy to literally die laughing.",
+ "PitchBattleProfile": {
+  "UnitSize": "1",
+  "Points": "120",
+  "Role": "Leader",
+  "BaseSize": "32",
+  "Notes": "Single"
+ },
+ "Intro": "A Sloppity Bilepiper, Herald of Nurgle, is armed with a Marotter.",
+ "Rules": [
+  {
+   "Name": "Battalions",
+   "Fluff": "",
+   "Rule": "BATTALIONS: This warscroll can be used in the following warscroll battalions: • Rancid Retinue • Invidian Plaguehost"
+  },
+  {
+   "Name": "",
+   "Fluff": "",
+   "Rule": "A Stabbing We Will Go! Add 1 to wound rolls for attacks made by friendly NURGLE DAEMON units wholly within 14\" of any friendly SLOPPITY BILEPIPERS playing this tune."
+  }
+ ],
+ "Keywords": [
+  "Chaos",
+  "Daemon",
+  "Nurgle",
+  "Maggotkin Of Nurgle",
+  "Hero",
+  "Totem",
+  "Herald Of Nurgle",
+  "Sloppity",
+  "Bilepiper"
+ ],
+ "Profile": {
+  "Movement": "4\"",
+  "Wounds": "5",
+  "Save": "5+",
+  "Bravery": "10"
+ },
+ "Tables": [
+  [
+   [
+    "MELEE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Marotter",
+    "1\"",
+    "4",
+    "4+",
+    "3+",
+    "-1",
+    "2"
+   ]
+  ]
+ ]
+}

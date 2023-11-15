@@ -1,0 +1,24 @@
+{
+ "IsLegends": false,
+ "Url": "https://wahapedia.ru/aos3/factions/gloomspite-gitz/Skulkmob-Horde",
+ "Faction": "Gloomspite Gitz",
+ "Title": "Skulkmob Horde",
+ "Legend": "A Moonclan Skrap consists of every single Moonclan Grot that could be rousted, bullied or lured out of their lurklair and shoved hastily into some semblance of battle order. Any reluctance for the upcoming fight that this greenskin horde might possess is swiftly eclipsed as the Bad Moon rises and the Gloomspite seizes hold of them.",
+ "PitchBattleProfile": {
+  "UnitSize": "",
+  "Points": "160",
+  "Role": "Warscroll Battalion",
+  "BaseSize": "",
+  "Notes": ""
+ },
+ "Intro": "",
+ "Rules": null,
+ "Keywords": null,
+ "Profile": {
+  "Movement": "",
+  "Wounds": "",
+  "Save": "",
+  "Bravery": ""
+ },
+ "Tables": null
+}

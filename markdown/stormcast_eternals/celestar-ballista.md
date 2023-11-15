@@ -1,0 +1,55 @@
+# Celestar Ballista
+
+_Mobile artillery of the Ordinatos conclaves, Celestar Ballistas are weapons of terrible power. Their Sacristan operators are skilled combat engineers, and the sigmarite bolts these weapons spit forth explode with the force of the thunderbolt._
+
+
+| Movement | Wounds | Save | Bravery |
+|:--------:|:------:|:----:|:-------:|
+| 3" | 9 | 4+ | 7 |
+
+* Unit Size: **1**
+* Points: **130**
+* Notes: **Single**
+
+| MISSILE WEAPONS | Range | Attacks | To Hit | To WoundTo Wnd | Rend | DamageDmg |
+|:---|:--:|:--:|:--:|:--:|:--:|:--:|
+| Celestar Stormbolts: Lightning-charged Shot | 36" | 1 | 3+ | 2+ | -3 | D6 |
+| Celestar Stormbolts: Rapid Fire | 18" | 2D6 | 4+ | 3+ | -2 | 1 |
+
+
+| MELEE WEAPONS | Range | Attacks | To Hit | To WoundTo Wnd | Rend | DamageDmg |
+|:---|:--:|:--:|:--:|:--:|:--:|:--:|
+| Sigmarite Blades | 1" | 4 | 3+ | 3+ | -1 | 1 |
+
+
+_A Celestar Ballista is armed with Celestar Stormbolts._
+
+## Battalions
+
+BATTALIONS: This warscroll can be used in the following warscroll battalions: • Hailstorm Battery • Sempiternals Hailstorm Battery
+
+## Crew
+
+CREW: A Celestar Ballista has a crew of 2 Sacristan Engineers, who are armed with Sigmarite Blades. The crew must remain within 1" of the Celestar Ballista. For rules purposes, the Celestar Ballista and its crew are treated as a single model.
+
+## Versatile Weapon
+
+_A Celestar Ballista can switch between two firing methods, taking down long-range targets with a single shot or unleashing a volley of fire at closer foes._
+
+Each time this unit shoots, choose either the Lightning-charged Shot or Rapid Fire weapon characteristics for all the attacks it makes with its Celestar Stormbolts.
+
+## Keywords
+
+* Order
+* Stormcast Eternals
+* Sacrosanct
+* Ordinators
+* War
+* Machine
+* Celestar
+* Ballista
+
+
+## Source
+
+[Celestar Ballista](https://wahapedia.ru/aos3/factions/stormcast-eternals/Celestar-Ballista)

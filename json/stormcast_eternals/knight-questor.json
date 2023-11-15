@@ -1,0 +1,67 @@
+{
+ "IsLegends": false,
+ "Url": "https://wahapedia.ru/aos3/factions/stormcast-eternals/Knight-Questor",
+ "Faction": "Stormcast Eternals",
+ "Title": "Knight-Questor",
+ "Legend": "Sigmar himself dictates the missions of the Knights-Questor. These heroes will travel any distance and brave any danger to see their task done, meeting every challenge head on in their adventures across the realms.",
+ "PitchBattleProfile": {
+  "UnitSize": "1",
+  "Points": "100",
+  "Role": "Leader",
+  "BaseSize": "40",
+  "Notes": "Single"
+ },
+ "Intro": "A Knight-Questor is armed with a Questor Warblade.",
+ "Rules": [
+  {
+   "Name": "Battalions",
+   "Fluff": "",
+   "Rule": "BATTALIONS: This warscroll can be used in the following warscroll battalions: • Lords of the Exemplar Chamber • Lords of the Harbinger Chamber • Lords of the Warrior Chamber"
+  },
+  {
+   "Name": "Heroic Challenge",
+   "Fluff": "Calling out to the enemy horde’s most powerful warriors, the Knight-Questor challenges them to single combat.",
+   "Rule": "Add 1 to hit rolls for attacks made by this unit that target a HERO."
+  },
+  {
+   "Name": "Thundercharged Strike",
+   "Fluff": "Knights-Questor can imbue their blades with deadly energy.",
+   "Rule": "If the unmodified hit roll for an attack made with a Questor Warblade is 6, the target suffers 2 mortal wounds and the attack sequence ends (do not make a wound or save roll)."
+  }
+ ],
+ "Keywords": [
+  "Order",
+  "Stormcast Eternals",
+  "Hero",
+  "Knight",
+  "Knight-Questor"
+ ],
+ "Profile": {
+  "Movement": "5\"",
+  "Wounds": "5",
+  "Save": "3+",
+  "Bravery": "8"
+ },
+ "Tables": [
+  [
+   [
+    "MELEE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Questor Warblade",
+    "1\"",
+    "5",
+    "3+",
+    "3+",
+    "-1",
+    "2"
+   ]
+  ]
+ ]
+}

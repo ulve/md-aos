@@ -1,0 +1,64 @@
+{
+ "IsLegends": false,
+ "Url": "https://wahapedia.ru/aos3/factions/orruk-warclans/Savage-Big-Stabbas",
+ "Faction": "Orruk Warclans",
+ "Title": "Savage Big Stabbas",
+ "Legend": "Carrying Gorktoof spears, massive weapons capable of felling a Stardrake, Big Stabbas seek to slay the greatest of beasts. Even should these daring orruks be killed, they will hurl their huge spears to bring down their target in a final act of defiance.",
+ "PitchBattleProfile": {
+  "UnitSize": "2",
+  "Points": "100",
+  "Role": "None",
+  "BaseSize": "60 x 35",
+  "Notes": ""
+ },
+ "Intro": "Each model in a Savage Big Stabbas unit is armed with a Gorktoof.",
+ "Rules": [
+  {
+   "Name": "Battalions",
+   "Fluff": "",
+   "Rule": "BATTALIONS: This warscroll can be used in the following warscroll battalions: • Teef Rukk • Da Snorter’s Kop Rukk"
+  },
+  {
+   "Name": "Da Final Fling",
+   "Fluff": "Should a BigStabba team be slain, they will use their final breath to hurl their Gorktoof at the foe.",
+   "Rule": "Each time a model in this unit is slain by an attack made with a melee weapon, before the model is removed from play, pick 1 enemy unit within 3\" of the slain model and roll a dice. Add 2 to the roll if that enemy unit is a MONSTER. On a 4+, that enemy unit suffers D3 mortal wounds."
+  }
+ ],
+ "Keywords": [
+  "Destruction",
+  "Orruk Warclans",
+  "Orruk",
+  "Bonesplitterz",
+  "Savage",
+  "Big",
+  "Stabbas"
+ ],
+ "Profile": {
+  "Movement": "5\"",
+  "Wounds": "4",
+  "Save": "6+",
+  "Bravery": "6"
+ },
+ "Tables": [
+  [
+   [
+    "MELEE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Gorktoof",
+    "3\"",
+    "3",
+    "3+",
+    "3+",
+    "-2",
+    "2"
+   ]
+  ]
+ ]
+}

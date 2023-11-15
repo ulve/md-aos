@@ -1,0 +1,69 @@
+{
+ "IsLegends": false,
+ "Url": "https://wahapedia.ru/aos3/factions/stormcast-eternals/Knight-Arcanum",
+ "Faction": "Stormcast Eternals",
+ "Title": "Knight-Arcanum",
+ "Legend": "Members of the mysterious Valedictor temple, Knights-Arcanum are mages charged with protecting ancient lore. Many of their number are skilled in deadly arcano-meteorological sorceries, summoning squalls of thunderous power or downpours of purifying Azyrite energy.",
+ "PitchBattleProfile": {
+  "UnitSize": "1",
+  "Points": "100",
+  "Role": "Leader",
+  "BaseSize": "40",
+  "Notes": "Single"
+ },
+ "Intro": "A Knight-Arcanum is armed with a Valedictor's Stave.",
+ "Rules": [
+  {
+   "Name": "Wizard",
+   "Fluff": "",
+   "Rule": "WIZARD: This unit can attempt to cast 1 spell in your hero phase and attempt to unbind 1 spell in the enemy hero phase."
+  },
+  {
+   "Name": "Indomitable Loreseekers",
+   "Fluff": "The thick tomes carried by Knights-Arcanum are filled with the magical secrets they have learnt, including how to resist the raging sorcerous energies of the realms.",
+   "Rule": "Predatory endless spells cannot pass across this unit or finish a move within 3\" of this unit."
+  },
+  {
+   "Name": "Blaze Of The Heavens",
+   "Fluff": "With one outstretched hand, the Knight-Arcanum draws upon the strength of their fellow warriors, conjuring a sleeting downpour that culminates in a scouring bolt from the heavens.",
+   "Rule": "Blaze of the Heavens: Blaze of the Heavens is a spell that has a casting value of 7 and a range of 18\". If successfully cast, pick 1 enemy unit within range and visible to the caster. That unit suffers D3 mortal wounds. Add 2\" to the range of this spell for each other friendly STORMCAST ETERNALS THUNDERSTRIKE unit wholly within 12\" of the caster."
+  }
+ ],
+ "Keywords": [
+  "Order",
+  "Stormcast Eternals",
+  "Thunderstrike",
+  "Hero",
+  "Wizard",
+  "Knight",
+  "Knight-Arcanum"
+ ],
+ "Profile": {
+  "Movement": "5\"",
+  "Wounds": "6",
+  "Save": "3+",
+  "Bravery": "8"
+ },
+ "Tables": [
+  [
+   [
+    "MELEE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Valedictor’s Stave",
+    "2\"",
+    "3",
+    "3+",
+    "4+",
+    "-1",
+    "D3"
+   ]
+  ]
+ ]
+}

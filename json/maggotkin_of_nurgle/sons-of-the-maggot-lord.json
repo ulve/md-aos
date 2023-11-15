@@ -1,0 +1,24 @@
+{
+ "IsLegends": true,
+ "Url": "https://wahapedia.ru/aos3/factions/maggotkin-of-nurgle/Sons-of-the-Maggot-Lord",
+ "Faction": "Maggotkin of Nurgle",
+ "Title": "Sons of the Maggot Lord",
+ "Legend": "Great are the armies assembled by Tamurkhan the Maggot Lord, chosen champion of Nurgle. In his quest for ascension, a trail of foul creatures follow in his wake, each a match for dozens of lesser warriors.",
+ "PitchBattleProfile": {
+  "UnitSize": "",
+  "Points": "",
+  "Role": "Warscroll Battalion",
+  "BaseSize": "",
+  "Notes": ""
+ },
+ "Intro": "",
+ "Rules": null,
+ "Keywords": null,
+ "Profile": {
+  "Movement": "",
+  "Wounds": "",
+  "Save": "",
+  "Bravery": ""
+ },
+ "Tables": null
+}

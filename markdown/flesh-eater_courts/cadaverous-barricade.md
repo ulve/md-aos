@@ -1,0 +1,31 @@
+# Cadaverous Barricade
+
+_With a word of command the buried dead are brought writhing to the surface. The corpses of those who once served Ushoran rise up from the grave, dragging with them the detritus of their forgotten civilisation, and with lifeless hands they claw at the living who draw too near._
+
+
+| Movement | Wounds | Save | Bravery |
+|:--------:|:------:|:----:|:-------:|
+|  |  |  |  |
+
+* Points: **20**
+* Battlefield Role: **Endless Spell**
+
+_SUMMONING: This endless spell is summoned with a spell that has a casting value of 5 and a range of 24". If successfully cast, set up this endless spell wholly within range and visible to the caster, and more than 1" from all models, terrain features, other endless spells and invocations. Only FLESH-EATER COURTS WIZARDS can attempt to summon this endless spell._
+
+## Grasping Hands
+
+TERRAIN FEATURE: After it is set up, this endless spell is treated as a terrain feature that has the Grasping Hands scenery rule below, except that it can still be dispelled as if it were an endless spell.
+
+## Grasping Hands
+
+_The animated corpses trapped in a Cadaverous Barricade grab at any living creature that approaches too closely._
+
+If a model starts a move within 3" of this terrain feature, halve the distance that model can move when it makes that move. DEATH models are not affected by this scenery rule.
+
+## Keywords
+
+
+
+## Source
+
+[Cadaverous Barricade](https://wahapedia.ru/aos3/factions/flesh-eater-courts/Cadaverous-Barricade)

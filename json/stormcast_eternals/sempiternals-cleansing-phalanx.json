@@ -1,0 +1,24 @@
+{
+ "IsLegends": true,
+ "Url": "https://wahapedia.ru/aos3/factions/stormcast-eternals/Sempiternals-Cleansing-Phalanx",
+ "Faction": "Stormcast Eternals",
+ "Title": "Sempiternals Cleansing Phalanx",
+ "Legend": "",
+ "PitchBattleProfile": {
+  "UnitSize": "",
+  "Points": "170",
+  "Role": "Warscroll Battalion",
+  "BaseSize": "",
+  "Notes": ""
+ },
+ "Intro": "",
+ "Rules": null,
+ "Keywords": null,
+ "Profile": {
+  "Movement": "",
+  "Wounds": "",
+  "Save": "",
+  "Bravery": ""
+ },
+ "Tables": null
+}

@@ -1,0 +1,134 @@
+{
+ "IsLegends": true,
+ "Url": "https://wahapedia.ru/aos3/factions/orruk-warclans/Orruk-Warboss-on-Wyvern",
+ "Faction": "Orruk Warclans",
+ "Title": "Orruk Warboss on Wyvern",
+ "Legend": "",
+ "PitchBattleProfile": {
+  "UnitSize": "1",
+  "Points": "265",
+  "Role": "Leader, Behemoth",
+  "BaseSize": "",
+  "Notes": "Single"
+ },
+ "Intro": "An Orruk Warboss on Wyvern is armed with one of the following weapon options: Boss Choppa and Boss Shield; or two Boss Choppas.",
+ "Rules": [
+  {
+   "Name": "Shield",
+   "Fluff": "",
+   "Rule": "SHIELD: If this unit is armed with a Boss Choppa and Boss Shield, it has a Save characteristic of 3+ instead of 4+."
+  },
+  {
+   "Name": "Mount",
+   "Fluff": "",
+   "Rule": "MOUNT: This unit’s Wyvern is armed with Horns, Claws and Teeth, and a Venomous Barbed Tail."
+  },
+  {
+   "Name": "Fly",
+   "Fluff": "",
+   "Rule": "FLY: This unit can fly."
+  },
+  {
+   "Name": "Agonising Venom",
+   "Fluff": "",
+   "Rule": "ABILITIES If the unmodified hit roll for an attack made with a Venomous Barbed Tail is 6, the target suffers 3 mortal wounds and the attack sequence ends (do not make a wound or save roll)."
+  }
+ ],
+ "Keywords": [
+  "Destruction",
+  "Orruk Warclans",
+  "Greenskinz",
+  "Orruk",
+  "Wyvern",
+  "Monster",
+  "Hero",
+  "Orruk Warboss"
+ ],
+ "Profile": {
+  "Movement": "*",
+  "Wounds": "11",
+  "Save": "4+",
+  "Bravery": "7"
+ },
+ "Tables": [
+  [
+   [
+    "MELEE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Boss Choppa",
+    "1\"",
+    "6",
+    "3+",
+    "3+",
+    "-1",
+    "1"
+   ],
+   [
+    "Pair of Boss Choppas",
+    "1\"",
+    "8",
+    "3+",
+    "3+",
+    "-1",
+    "1"
+   ],
+   [
+    "Horns, Claws and Teeth",
+    "2\"",
+    "*",
+    "4+",
+    "3+",
+    "-1",
+    "2"
+   ],
+   [
+    "Venomous Barbed Tail",
+    "3\"",
+    "2",
+    "4+",
+    "*",
+    "-1",
+    "3"
+   ]
+  ],
+  [
+   [
+    "Wounds Suffered",
+    "Move",
+    "Horns, Claws and Teeth",
+    "Venomous Barbed Tail"
+   ],
+   [
+    "0-4",
+    "12\"",
+    "5",
+    "2+"
+   ],
+   [
+    "5-6",
+    "10\"",
+    "4",
+    "3+"
+   ],
+   [
+    "7-8",
+    "8\"",
+    "3",
+    "4+"
+   ],
+   [
+    "9+",
+    "6\"",
+    "2",
+    "5+"
+   ]
+  ]
+ ]
+}

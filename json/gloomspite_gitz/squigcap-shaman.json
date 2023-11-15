@@ -1,0 +1,80 @@
+{
+ "IsLegends": true,
+ "Url": "https://wahapedia.ru/aos3/factions/gloomspite-gitz/Squigcap-Shaman",
+ "Faction": "Gloomspite Gitz",
+ "Title": "Squigcap Shaman",
+ "Legend": "Black-clad Squigcap Shamans caper into battle, chanting and jabbering madly. They stuff madcap mushrooms into their gobs, eyes crackling with power as they channel the Gloomspite into deadly magical attacks.",
+ "PitchBattleProfile": {
+  "UnitSize": "1",
+  "Points": "240",
+  "Role": "Leader",
+  "BaseSize": "",
+  "Notes": "Squigmonger, Squigmancer, Squigcap Shaman and Squig Herder with Mini-Mangler must be taken as a set for a total of 240 points. Although taken as a set, each is a separate unit."
+ },
+ "Intro": "BATTALIONSThis warscroll can be used in the following warscroll battalions: • Bosses of the Skrap • Squigapalooza",
+ "Rules": [
+  {
+   "Name": "",
+   "Fluff": "",
+   "Rule": "DESCRIPTIONA Squigcap Shaman is a single model armed with a Moon Staff."
+  },
+  {
+   "Name": "Fly",
+   "Fluff": "",
+   "Rule": "FLY: This unit can fly."
+  },
+  {
+   "Name": "Squig-Cap Mushroom",
+   "Fluff": "This mushroom enhances the eater’s magical capabilities – as long as it is not a deadly poisonous madcap toadstool…",
+   "Rule": "ABILITIESSquig-cap Mushroom: Once per battle, in your hero phase, you can attempt to cast one additional spell with this model. If you do so, and the casting roll is a double, this model suffers D3 mortal wounds after the effects of the spell (if any) have been resolved."
+  },
+  {
+   "Name": "Night Shroud",
+   "Fluff": "",
+   "Rule": "MAGICThis model is a WIZARD. It can attempt to cast one spell in your hero phase, and attempt to unbind one spell in the enemy hero phase. It knows the Arcane Bolt, Mystic Shield and Night Shroud spells."
+  },
+  {
+   "Name": "Night Shroud",
+   "Fluff": "The shaman throws a black-capped nightshade mushroom into the air, which bursts to form a cloud of pitch blackness.",
+   "Rule": "Night Shroud has a casting value of 5. If successfully cast, pick 1 friendly unit wholly within 12\" of the caster that is visible to them. Until your next hero phase, subtract 1 from hit rolls for attacks made with missile weapons that target that unit."
+  }
+ ],
+ "Keywords": [
+  "Destruction",
+  "Squig",
+  "Gloomspite Gitz",
+  "Moonclan",
+  "Squigapalooza",
+  "Wizard",
+  "Squigcap",
+  "Shaman"
+ ],
+ "Profile": {
+  "Movement": "2D6\"",
+  "Wounds": "5",
+  "Save": "6+",
+  "Bravery": "4"
+ },
+ "Tables": [
+  [
+   [
+    "MELEE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Moon Staff",
+    "2\"",
+    "1",
+    "4+",
+    "4+",
+    "-1",
+    "D3"
+   ]
+  ]
+ ]
+}

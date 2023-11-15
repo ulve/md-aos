@@ -1,0 +1,24 @@
+{
+ "IsLegends": true,
+ "Url": "https://wahapedia.ru/aos3/factions/stormcast-eternals/Sempiternal-Sacrosanct-Chamber",
+ "Faction": "Stormcast Eternals",
+ "Title": "Sempiternal Sacrosanct Chamber",
+ "Legend": "Austere souls all, the Sempiternals Sancrosanct Chamber have pledged to atone for a great failure in their past by any means necessary. Led by the reserved yet formidable Lord-Arcanum Lynus Ghalmorian, these masters of purifying magic channel the power of the Heavens to shatter hostile curses and to cleanse the taint of undeath and corruption from the realms.",
+ "PitchBattleProfile": {
+  "UnitSize": "",
+  "Points": "90",
+  "Role": "Warscroll Battalion",
+  "BaseSize": "",
+  "Notes": ""
+ },
+ "Intro": "",
+ "Rules": null,
+ "Keywords": null,
+ "Profile": {
+  "Movement": "",
+  "Wounds": "",
+  "Save": "",
+  "Bravery": ""
+ },
+ "Tables": null
+}

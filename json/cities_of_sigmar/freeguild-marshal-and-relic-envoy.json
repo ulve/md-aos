@@ -1,0 +1,101 @@
+{
+ "IsLegends": false,
+ "Url": "https://wahapedia.ru/aos3/factions/cities-of-sigmar/Freeguild-Marshal-and-Relic-Envoy",
+ "Faction": "Cities of Sigmar",
+ "Title": "Freeguild Marshal and Relic Envoy",
+ "Legend": "Freeguild Marshals who lead from the front are perhaps the most heroic of all. The respect they have won from their warriors is stronger than any shield, and their Relic Envoys ensure their orders always get to where they are needed. When battlelines clash, their skill with sword, hammer and pistol swiftly becomes clear.",
+ "PitchBattleProfile": {
+  "UnitSize": "1",
+  "Points": "90",
+  "Role": "Leader",
+  "BaseSize": "",
+  "Notes": "Single"
+ },
+ "Intro": "A Freeguild Marshal and Relic Envoy is armed with 1 of the following weapon options: Duelling Pistols and Silvered Shortsword; Master-forged Longsword; or Heirloom Warhammer.",
+ "Rules": [
+  {
+   "Name": "",
+   "Fluff": "",
+   "Rule": "HEROIC ACTIONDeliver Rousing Speech Pick up to 3 friendly CITIES OF SIGMAR HUMAN units wholly within 18\" of this unit. For each unit picked, roll 2D6. If the score is less than or equal to that unit’s Bravery characteristic, until the end of the turn, models in that unit count as 2 models for the purposes of contesting objectives."
+  }
+ ],
+ "Keywords": [
+  "Order",
+  "Cities Of Sigmar",
+  "Human",
+  "Freeguild",
+  "Hero",
+  "Freeguild Marshal",
+  "Freeguild",
+  "Marshal",
+  "And",
+  "Relic",
+  "Envoy"
+ ],
+ "Profile": {
+  "Movement": "5\"",
+  "Wounds": "5",
+  "Save": "3+",
+  "Bravery": "7"
+ },
+ "Tables": [
+  [
+   [
+    "MISSILE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Duelling Pistols",
+    "9\"",
+    "4",
+    "3+",
+    "3+",
+    "-1",
+    "1"
+   ]
+  ],
+  [
+   [
+    "MELEE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Master-forged Longsword",
+    "1\"",
+    "4",
+    "3+",
+    "3+",
+    "-1",
+    "2"
+   ],
+   [
+    "Heirloom Warhammer",
+    "1\"",
+    "3",
+    "4+",
+    "2+",
+    "-2",
+    "3"
+   ],
+   [
+    "Silvered Shortsword",
+    "1\"",
+    "4",
+    "3+",
+    "3+",
+    "-1",
+    "1"
+   ]
+  ]
+ ]
+}

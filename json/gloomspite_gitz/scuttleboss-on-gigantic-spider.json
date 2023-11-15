@@ -1,0 +1,87 @@
+{
+ "IsLegends": false,
+ "Url": "https://wahapedia.ru/aos3/factions/gloomspite-gitz/Scuttleboss-on-Gigantic-Spider",
+ "Faction": "Gloomspite Gitz",
+ "Title": "Scuttleboss on Gigantic Spider",
+ "Legend": "Swaggering bullies whose twisted anatomies are part arachnid, Scuttlebosses charge into battle upon the backs of Gigantic Spiders, exhorting nearby skittermobs to follow their violent example and ride the foe into the ground.",
+ "PitchBattleProfile": {
+  "UnitSize": "1",
+  "Points": "130",
+  "Role": "Leader",
+  "BaseSize": "60",
+  "Notes": "Single"
+ },
+ "Intro": "A Scuttleboss on Gigantic Spider is armed with an Envenomed Spear.",
+ "Rules": [
+  {
+   "Name": "Battalions",
+   "Fluff": "",
+   "Rule": "BATTALIONS: This warscroll can be used in the following warscroll battalions: • Spider Rider Skitterswarm"
+  },
+  {
+   "Name": "Mount",
+   "Fluff": "",
+   "Rule": "MOUNT: This unit’s Gigantic Spider is armed with Gigantic Fangs."
+  },
+  {
+   "Name": "Spider Venom",
+   "Fluff": "Both the Scuttleboss’s spear and his mount’s fangs glisten with lethal venom.",
+   "Rule": "If the unmodified hit roll for an attack made by this unit is 6, that attack causes 2 mortal wounds to the target and the attack sequence ends (do not make a wound roll or save roll)."
+  },
+  {
+   "Name": "Wall Crawler",
+   "Fluff": "The Spiderfang’s arachnid allies can skitter up and down vertical surfaces as if they were flat ground.",
+   "Rule": "When this unit makes a move, it can pass across terrain features in the same manner as a unit that can fly."
+  },
+  {
+   "Name": "‘Scuttle Away!’",
+   "Fluff": "Masters of feigned flight and other such sneaky tactics, the Scuttleboss orders his Spider Riders to flee to a more advantageous position.",
+   "Rule": "Once per battle, at the end of the combat phase, you can say this unit will order his warriors to scuttle away. If you do so, you can pick 1 friendly SPIDER RIDERS unit wholly within 12\" of this unit. This unit and the unit you picked can retreat, one after the other in the order of your choice."
+  }
+ ],
+ "Keywords": [
+  "Destruction",
+  "Gloomspite Gitz",
+  "Grot",
+  "Spiderfang",
+  "Hero",
+  "Scuttleboss"
+ ],
+ "Profile": {
+  "Movement": "10\"",
+  "Wounds": "8",
+  "Save": "4+",
+  "Bravery": "6"
+ },
+ "Tables": [
+  [
+   [
+    "MELEE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Envenomed Spear",
+    "2\"",
+    "4",
+    "3+",
+    "3+",
+    "-1",
+    "2"
+   ],
+   [
+    "Gigantic Fangs",
+    "1\"",
+    "4",
+    "4+",
+    "3+",
+    "-1",
+    "2"
+   ]
+  ]
+ ]
+}

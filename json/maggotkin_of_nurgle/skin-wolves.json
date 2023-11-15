@@ -1,0 +1,65 @@
+{
+ "IsLegends": true,
+ "Url": "https://wahapedia.ru/aos3/factions/maggotkin-of-nurgle/Skin-Wolves",
+ "Faction": "Maggotkin of Nurgle",
+ "Title": "Skin Wolves",
+ "Legend": "Creatures of pure nightmare, Skin Wolves are draped in the tattered remains of their human flesh. Their malice and fury are incomparable, and with long-clawed fingers they shred their victims to ribbons and feast upon the remains.",
+ "PitchBattleProfile": {
+  "UnitSize": "3",
+  "Points": "170",
+  "Role": "None",
+  "BaseSize": "",
+  "Notes": ""
+ },
+ "Intro": "Each model in a skin Wolves unit is armed with Teeth and Claws.",
+ "Rules": [
+  {
+   "Name": "Monstrous Ally",
+   "Fluff": "",
+   "Rule": "MONSTROUS ALLY: This unit can be included as an allied unit in an army whose general has the CHAOS keyword."
+  },
+  {
+   "Name": "Bounding Predators",
+   "Fluff": "These deadly creatures can move at frightening speed.",
+   "Rule": "ABILITIES This unit can run and still charge later in the turn."
+  },
+  {
+   "Name": "Terrifying Bloodlust",
+   "Fluff": "Skin Wolves have a natural predatory instinct to hunt. With the taint of Chaos running through their veins, this bloodlust is amplified beyond imagining.",
+   "Rule": "If the unmodified hit roll for an attack made by this unit is 6, that attack scores 2 hits on the target instead of 1. Make a wound and save roll for each hit."
+  }
+ ],
+ "Keywords": [
+  "Chaos",
+  "Skin",
+  "Wolves"
+ ],
+ "Profile": {
+  "Movement": "8\"",
+  "Wounds": "4",
+  "Save": "5+",
+  "Bravery": "5"
+ },
+ "Tables": [
+  [
+   [
+    "MELEE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Teeth and Claws",
+    "1\"",
+    "4",
+    "3+",
+    "3+",
+    "-1",
+    "2"
+   ]
+  ]
+ ]
+}

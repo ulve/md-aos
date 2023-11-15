@@ -1,0 +1,94 @@
+{
+ "IsLegends": true,
+ "Url": "https://wahapedia.ru/aos3/factions/cities-of-sigmar/Witch-Hunter",
+ "Faction": "Cities of Sigmar",
+ "Title": "Witch Hunter",
+ "Legend": "",
+ "PitchBattleProfile": {
+  "UnitSize": "1",
+  "Points": "50",
+  "Role": "Leader",
+  "BaseSize": "",
+  "Notes": "Single"
+ },
+ "Intro": "A Witch Hunter is armed with one of the following weapon options: Baroque Pistol and Silver Greatsword; or Baroque Pistol and Blessed Rapier.",
+ "Rules": [
+  {
+   "Name": "Grim Resolve",
+   "Fluff": "",
+   "Rule": "ABILITIES This unit has a ward of 5+."
+  },
+  {
+   "Name": "Sigmar’s Judgement",
+   "Fluff": "",
+   "Rule": "Add 1 to the damage inflicted by each successful attack made by this unit if the target is a WIZARD or DAEMON."
+  }
+ ],
+ "Keywords": [
+  "Order",
+  "Cities Of Sigmar",
+  "Human",
+  "Celestial",
+  "Devoted Of Sigmar",
+  "Hero",
+  "Witch",
+  "Hunter"
+ ],
+ "Profile": {
+  "Movement": "5\"",
+  "Wounds": "5",
+  "Save": "5+",
+  "Bravery": "7"
+ },
+ "Tables": [
+  [
+   [
+    "MISSILE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Baroque Pistol",
+    "9\"",
+    "1",
+    "3+",
+    "3+",
+    "-1",
+    "1"
+   ]
+  ],
+  [
+   [
+    "MELEE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Blessed Rapier",
+    "1\"",
+    "4",
+    "3+",
+    "4+",
+    "-",
+    "1"
+   ],
+   [
+    "Silver Greatsword",
+    "1\"",
+    "3",
+    "3+",
+    "3+",
+    "-1",
+    "1"
+   ]
+  ]
+ ]
+}

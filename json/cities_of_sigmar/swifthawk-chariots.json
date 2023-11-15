@@ -1,0 +1,96 @@
+{
+ "IsLegends": true,
+ "Url": "https://wahapedia.ru/aos3/factions/cities-of-sigmar/Swifthawk-Chariots",
+ "Faction": "Cities of Sigmar",
+ "Title": "Swifthawk Chariots",
+ "Legend": "",
+ "PitchBattleProfile": {
+  "UnitSize": "1",
+  "Points": "90",
+  "Role": "None",
+  "BaseSize": "",
+  "Notes": ""
+ },
+ "Intro": "Each model in a Swifthawk Charioteers unit is armed with Charioteers’ Bows and Swifthawk Spears.",
+ "Rules": [
+  {
+   "Name": "Mount",
+   "Fluff": "",
+   "Rule": "MOUNT: This unit’s Aelven Purebreeds are armed with Swift Hooves."
+  },
+  {
+   "Name": "Graceful Charge",
+   "Fluff": "",
+   "Rule": "ABILITIES You can re-roll wound rolls for attacks made with melee weapons by this unit if it made a charge move in the same turn."
+  },
+  {
+   "Name": "Swift And Deadly",
+   "Fluff": "",
+   "Rule": "Swift and Deadly: When you pick this unit to run, you do not need to make a run roll. Instead, add 6\" to the Move characteristic of the models in this unit in that phase.In addition, this unit is eligible to fight in the combat phase if it is within 6\" of an enemy unit instead of 3\", and it can move an extra 3\" when it piles in."
+  }
+ ],
+ "Keywords": [
+  "Order",
+  "Cities Of Sigmar",
+  "Aelf",
+  "Swifthawk Agents",
+  "Chariots"
+ ],
+ "Profile": {
+  "Movement": "12\"",
+  "Wounds": "5",
+  "Save": "5+",
+  "Bravery": "6"
+ },
+ "Tables": [
+  [
+   [
+    "MISSILE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Charioteers’ Bows",
+    "2\"",
+    "2",
+    "4+",
+    "3+",
+    "-",
+    "2"
+   ]
+  ],
+  [
+   [
+    "MELEE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Swifthawk Spears",
+    "2\"",
+    "3",
+    "4+",
+    "4+",
+    "-",
+    "1"
+   ],
+   [
+    "Swift Hooves",
+    "3\"",
+    "3",
+    "3+",
+    "4+",
+    "-1",
+    "1"
+   ]
+  ]
+ ]
+}

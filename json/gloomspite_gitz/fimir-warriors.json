@@ -1,0 +1,80 @@
+{
+ "IsLegends": true,
+ "Url": "https://wahapedia.ru/aos3/factions/gloomspite-gitz/Fimir-Warriors",
+ "Faction": "Gloomspite Gitz",
+ "Title": "Fimir Warriors",
+ "Legend": "From unnatural clouds of mist come the hulking reptilian brutes known as Fimir Warriors. Possessed of prodigious strength and tenacity, they charge to wherever the fighting is thickest in order to savage their startled foes.",
+ "PitchBattleProfile": {
+  "UnitSize": "3",
+  "Points": "150",
+  "Role": "None",
+  "BaseSize": "50",
+  "Notes": "Battleline if general is a FIMIRACH NOBLE"
+ },
+ "Intro": "Each model in a Fimir Warriors unit is armed with a Baleglyph Maul and Club Tail.",
+ "Rules": [
+  {
+   "Name": "Monstrous Ally",
+   "Fluff": "",
+   "Rule": "MONSTROUS ALLY: This unit can be included as an allied unit in an army whose general has the DESTRUCTION keyword."
+  },
+  {
+   "Name": "Baleglyph Mauls",
+   "Fluff": "Etched by Balefiends and imbued with vile magic, a weapon bearing these glyphs brings withering atrophy to anything it strikes.",
+   "Rule": "ABILITIES If the unmodified wound roll for an attack made with a Baleglyph Maul is 6, that attack causes 1 mortal wound to the target in addition to any damage it inflicts."
+  },
+  {
+   "Name": "Shrouding Mists",
+   "Fluff": "Fimir despise the light, wrapping themselves in sorcerous mists whenever they venture from their dank lairs. Such mist serves to hide them from their enemies’ sight.",
+   "Rule": "This unit has a ward of 6+."
+  },
+  {
+   "Name": "Unnatural Flesh",
+   "Fluff": "Fimir are wholly unnatural creatures whose flesh twists and writhes, sealing wounds mere moments after they are inflicted.",
+   "Rule": "In your hero phase, you can heal 1 wound allocated to this unit."
+  }
+ ],
+ "Keywords": [
+  "Destruction",
+  "Fimir",
+  "Fimir",
+  "Warriors"
+ ],
+ "Profile": {
+  "Movement": "5\"",
+  "Wounds": "3",
+  "Save": "4+",
+  "Bravery": "7"
+ },
+ "Tables": [
+  [
+   [
+    "MELEE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Baleglyph Maul",
+    "2\"",
+    "3",
+    "3+",
+    "3+",
+    "-2",
+    "1"
+   ],
+   [
+    "Club Tail",
+    "1\"",
+    "1",
+    "4+",
+    "3+",
+    "-",
+    "1"
+   ]
+  ]
+ ]
+}

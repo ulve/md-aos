@@ -1,0 +1,58 @@
+{
+ "IsLegends": true,
+ "Url": "https://wahapedia.ru/aos3/factions/cities-of-sigmar/Free-City-Gryph-hounds",
+ "Faction": "Cities of Sigmar",
+ "Title": "Free City Gryph-hounds",
+ "Legend": "Gryph-hounds are pack-hunting creatures from the realm of Azyr, noble beasts that detest corruption. Their sharp senses pierce deception as easily as their beaks and claws shred the flesh of the unfaithful. Packs of Gryph-hounds are known to ally themselves to those fighting for a just cause, and they offer loyal protection to their companions.",
+ "PitchBattleProfile": {
+  "UnitSize": "",
+  "Points": "",
+  "Role": "",
+  "BaseSize": "",
+  "Notes": ""
+ },
+ "Intro": "Each model in a Free City Gryphhounds unit is armed with a Vicious Beak and Claws.",
+ "Rules": [
+  {
+   "Name": "Darting Attacks",
+   "Fluff": "",
+   "Rule": "ABILITIES After this unit has fought and all of its attacks have been resolved, it can retreat 6\"."
+  }
+ ],
+ "Keywords": [
+  "Order",
+  "Cities Of Sigmar",
+  "Celestial",
+  "Free",
+  "City",
+  "Gryph-Hounds"
+ ],
+ "Profile": {
+  "Movement": "9\"",
+  "Wounds": "2",
+  "Save": "-",
+  "Bravery": "6"
+ },
+ "Tables": [
+  [
+   [
+    "MELEE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Vicious Beak and Claws",
+    "1\"",
+    "4",
+    "3+",
+    "4+",
+    "-",
+    "1"
+   ]
+  ]
+ ]
+}

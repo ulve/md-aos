@@ -1,0 +1,96 @@
+{
+ "IsLegends": true,
+ "Url": "https://wahapedia.ru/aos3/factions/orruk-warclans/Orruk-Boarboys",
+ "Faction": "Orruk Warclans",
+ "Title": "Orruk Boarboys",
+ "Legend": "",
+ "PitchBattleProfile": {
+  "UnitSize": "5",
+  "Points": "110",
+  "Role": "None",
+  "BaseSize": "",
+  "Notes": ""
+ },
+ "Intro": "Each model in an Orruk Boarboys unit is armed with one of the following weapon options: Choppa; or Boarboy Spear. All models in the unit must be armed with the same weapon option.",
+ "Rules": [
+  {
+   "Name": "Mount",
+   "Fluff": "",
+   "Rule": "MOUNT: This unit’s War Boars are each armed with Jagged Tusks."
+  },
+  {
+   "Name": "Champion",
+   "Fluff": "",
+   "Rule": "CHAMPION: 1 model in this unit can be an Orruk Boarboy Boss. Add 1 to the Attacks characteristic of that model’s melee weapon."
+  },
+  {
+   "Name": "Standard Bearer",
+   "Fluff": "",
+   "Rule": "STANDARD BEARER: 1 in every 5 models in this unit can be a Glyph Bearer. Add 1 to the Bravery characteristic of this unit if it includes any Glyph Bearers."
+  },
+  {
+   "Name": "Musician",
+   "Fluff": "",
+   "Rule": "MUSICIAN: 1 in every 5 models in this unit can be a Waaagh! Hornblower. Add 1 to charge rolls for this unit if it includes any Waaagh! Hornblowers."
+  },
+  {
+   "Name": "Boarboy Charge",
+   "Fluff": "",
+   "Rule": "ABILITIES Add 1 wound rolls for attacks made with a Boarboy Spear or Jagged Tusks if the attacking unit made a charge move in the same turn."
+  }
+ ],
+ "Keywords": [
+  "Destruction",
+  "Orruk Warclans",
+  "Greenskinz",
+  "Оrruk",
+  "Orruk",
+  "Boarboys"
+ ],
+ "Profile": {
+  "Movement": "9\"",
+  "Wounds": "2",
+  "Save": "4+",
+  "Bravery": "5"
+ },
+ "Tables": [
+  [
+   [
+    "MELEE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Choppa",
+    "1\"",
+    "1",
+    "4+",
+    "4+",
+    "-1",
+    "1"
+   ],
+   [
+    "Boarboy Spear",
+    "2\"",
+    "1",
+    "4+",
+    "4+",
+    "-",
+    "1"
+   ],
+   [
+    "Jagged Tusks",
+    "1\"",
+    "2",
+    "4+",
+    "4+",
+    "-",
+    "1"
+   ]
+  ]
+ ]
+}

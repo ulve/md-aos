@@ -1,0 +1,64 @@
+# Dracothian Guard Desolators
+
+_To the Desolators falls the honour of eradicating the enemies of the Extremis chambers. Neither they nor their Dracoths heed any desperate calls for mercy, and their thunderaxes take a fearsome toll with each swing._
+
+
+| Movement | Wounds | Save | Bravery |
+|:--------:|:------:|:----:|:-------:|
+| 10" | 6 | 3+ | 7 |
+
+* Unit Size: **2**
+* Points: **200**
+* Battlefield Role: **None**
+* Base size: **90 x 52mmNotes: Battleline in a Ha**
+* Notes: **Battleline in a Hammers of Sigmar army**
+
+| MISSILE WEAPONS | Range | Attacks | To Hit | To WoundTo Wnd | Rend | DamageDmg |
+|:---|:--:|:--:|:--:|:--:|:--:|:--:|
+| Stormblast | 12" | 1 | See below |
+
+
+| MELEE WEAPONS | Range | Attacks | To Hit | To WoundTo Wnd | Rend | DamageDmg |
+|:---|:--:|:--:|:--:|:--:|:--:|:--:|
+| Thunderaxe | 1" | 5 | 3+ | 3+ | -2 | 1 |
+| Claws and Fangs | 1" | 3 | 3+ | 3+ | -2 | 2 |
+
+
+_Each model in a Dracothian Guard Desolators unit is armed with a Thunderaxe._
+
+## Battalions
+
+BATTALIONS: This warscroll can be used in the following warscroll battalions: • Thunderwave Echelon
+
+## Elite
+
+ELITE: Models in this unit can issue commands to their own unit.
+
+## Mount
+
+MOUNT: This unit’s Dracoths are each armed with a Stormblast and Claws and Fangs.
+
+## Stormblast
+
+_Dracoths can unleash the power of Sigmar’s storm from within their maws._
+
+Do not use the attack sequence for an attack made with a Stormblast. Instead, roll a dice. On a 4+, the target suffers D3 mortal wounds.
+
+## Cleaving Blow
+
+_A single swing of a thunderaxe can carve through several foes._
+
+Add 2 to the Attacks characteristic of a Thunderaxe if the number of models in the target unit is greater than the number of models in this unit.
+
+## Keywords
+
+* Order
+* Stormcast Eternals
+* Dracothian Guard
+* Dracoth
+* Desolators
+
+
+## Source
+
+[Dracothian Guard Desolators](https://wahapedia.ru/aos3/factions/stormcast-eternals/Dracothian-Guard-Desolators)

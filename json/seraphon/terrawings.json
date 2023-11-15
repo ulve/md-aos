@@ -1,0 +1,70 @@
+{
+ "IsLegends": false,
+ "Url": "https://wahapedia.ru/aos3/factions/seraphon/Terrawings",
+ "Faction": "Seraphon",
+ "Title": "Terrawings",
+ "Legend": "Smaller – but no less vicious – cousins of the Terradons, Terrawings are often found accompanying Hunters of Huanchi. Their natural aggression and ear-splitting shrieks can hold the attention of any foe, allowing the skinks to slip away.",
+ "PitchBattleProfile": {
+  "UnitSize": "3",
+  "Points": "70",
+  "Role": "None",
+  "BaseSize": "32",
+  "Notes": ""
+ },
+ "Intro": "Each model in a Terrawings unit is armed with Snapping Beaks.",
+ "Rules": [
+  {
+   "Name": "Battalions",
+   "Fluff": "",
+   "Rule": "BATTALIONS: This warscroll can be used in the following warscroll battalions: • Shadowstrike Starhost"
+  },
+  {
+   "Name": "Fly",
+   "Fluff": "",
+   "Rule": "FLY: This unit can fly."
+  },
+  {
+   "Name": "Nerve-Shredding Screeches",
+   "Fluff": "Despite their small stature, the shrill cries of a Terrawing flock can cause disarray across the enemy line as orders are drowned out by the cacophony.",
+   "Rule": "Nerve-shredding Screeches: At the start of the shooting phase, you can pick 1 enemy unit within 12\" of this unit and roll 2D6. If the roll is higher than that unit’s Bravery characteristic, that enemy unit cannot issue or receive commands until the end of the turn."
+  },
+  {
+   "Name": "Symbiotic Relationship",
+   "Fluff": "Terrawings are often used by Hunters of Huanchi cohorts to surprise and confuse the enemy when they spring their ambush.",
+   "Rule": "During deployment, instead of setting up this unit on the battlefield, if you have any HUNTERS OF HUANCHI units in reserve, you can place this unit to one side and say that it is hiding as a reserve unit. If you do so, at the end of your movement phase, you can set up this unit on the battlefield, within 3\" of a friendly HUNTERS OF HUANCHI unit and more than 9\" from all enemy units."
+  }
+ ],
+ "Keywords": [
+  "Order",
+  "Seraphon",
+  "Terrawings"
+ ],
+ "Profile": {
+  "Movement": "12\"",
+  "Wounds": "2",
+  "Save": "6+",
+  "Bravery": "5"
+ },
+ "Tables": [
+  [
+   [
+    "MELEE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Snapping Beak",
+    "1\"",
+    "4",
+    "4+",
+    "4+",
+    "-",
+    "1"
+   ]
+  ]
+ ]
+}

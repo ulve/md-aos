@@ -1,0 +1,63 @@
+# Savage Boarboys
+
+_Mobs of Savage Boarboys thunder across the land, hunting endlessly for new monsters to slay. Their sharp, primitive weapons skewer the enemy with ease, while their snorting war boar mounts trample over any foolish enough to get in their way._
+
+
+| Movement | Wounds | Save | Bravery |
+|:--------:|:------:|:----:|:-------:|
+| 12" | 3 | 5+ | 5 |
+
+* Unit Size: **5**
+* Points: **140**
+* Battlefield Role: **None**
+* Base size: **60 x 35**
+* Notes: **Battleline in an Icebone army**
+
+| MELEE WEAPONS | Range | Attacks | To Hit | To WoundTo Wnd | Rend | DamageDmg |
+|:---|:--:|:--:|:--:|:--:|:--:|:--:|
+| Chompa | 1" | 2 | 4+ | 3+ | - | 1 |
+| Savage Stikka | 2" | 2 | 4+ | 4+ | - | 1 |
+| Tusks and Hooves | 1" | 3 | 4+ | 4+ | - | 1 |
+
+
+_Each model in a Savage Boarboys unit is armed with 1 of the following weapon options: Chompa; or Savage Stikka. All models in the unit must be armed with the same weapon option._
+
+## Battalions
+
+BATTALIONS: This warscroll can be used in the following warscroll battalions: • Brutal Rukk
+
+## Mount
+
+MOUNT: This unit’s War Boars are each armed with Tusks and Hooves.
+
+## Champion
+
+CHAMPION: 1 model in this unit can be a Savage Boar Boss. Add 1 to the Attacks characteristic of that model’s melee weapons, excluding those of its mount.
+
+## Standard Bearer
+
+STANDARD BEARER: 1 in every 5 models in this unit can be a Bone Totem Bearer. Add 1 to the Bravery characteristic of a unit that includes any Bone Totem Bearers.
+
+## Musician
+
+MUSICIAN: 1 in every 5 models in this unit can be a Skull Thumper. You can add 1 to charge rolls for a unit that includes any Skull Thumpers.
+
+## Tusker Charge
+
+_The charge of a maddened war boar is terrifying to behold._
+
+Add 1 to hit rolls and wound rolls for attacks made with a Savage Stikka or Tusks and Hooves by this unit if this unit made a charge move in the same turn.
+
+## Keywords
+
+* Destruction
+* Orruk Warclans
+* Orruk
+* Bonesplitterz
+* Savage
+* Boarboys
+
+
+## Source
+
+[Savage Boarboys](https://wahapedia.ru/aos3/factions/orruk-warclans/Savage-Boarboys)

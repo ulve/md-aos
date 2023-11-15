@@ -1,0 +1,104 @@
+{
+ "IsLegends": false,
+ "Url": "https://wahapedia.ru/aos3/factions/seraphon/Bastiladon",
+ "Faction": "Seraphon",
+ "Title": "Bastiladon",
+ "Legend": "With scales thicker than the hull of a Steam Tank, a Bastiladon is nearly impervious to attack. They lumber forth heedless of even the mightiest blows while the skinks who ride upon their armoured shells operating deadly relics of the Old Ones.",
+ "PitchBattleProfile": {
+  "UnitSize": "1",
+  "Points": "180",
+  "Role": "Behemoth",
+  "BaseSize": "120 x 92",
+  "Notes": "Single,If a Bastiladon is equipped with an Ark of Sotek it costs 180 points.If a Bastiladon is equipped with a Solar Engine it costs 250 points."
+ },
+ "Intro": "A Bastiladon is armed with a Bludgeoning Tail and 1 of the following weapon options: Solar Engine; or Ark of Sotek.Designer’s Note: The weapon option determines this unit’s Pitched Battle profile.",
+ "Rules": [
+  {
+   "Name": "Battalions",
+   "Fluff": "",
+   "Rule": "BATTALIONS: This warscroll can be used in the following warscroll battalions: • Thunderquake Starhost • Thunderquake Temple-host • The Celestial Stampede"
+  },
+  {
+   "Name": "Companion",
+   "Fluff": "",
+   "Rule": "COMPANION: This unit is accompanied by skink handlers armed with Meteoric Javelins."
+  },
+  {
+   "Name": "Tide Of Snakes",
+   "Fluff": "So numerous are the snakes unleashed by an Ark of Sotek that it is almost inevitable that some will find their way past the foe’s defences to deliver a lethal venomous bite.",
+   "Rule": "Tide of Snakes: If the unmodified hit roll for an attack made with an Ark of Sotek is 6, the target suffers 1 mortal wound and the attack sequence ends (do not make a wound roll or save roll)."
+  }
+ ],
+ "Keywords": [
+  "Order",
+  "Seraphon",
+  "Monster",
+  "Bastiladon"
+ ],
+ "Profile": {
+  "Movement": "5\"",
+  "Wounds": "12",
+  "Save": "2+",
+  "Bravery": "6"
+ },
+ "Tables": [
+  [
+   [
+    "MISSILE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Solar Engine",
+    "24\"",
+    "3",
+    "3+",
+    "3+",
+    "-3",
+    "3"
+   ],
+   [
+    "Meteoric Javelins",
+    "8\"",
+    "4",
+    "4+",
+    "5+",
+    "-1",
+    "1"
+   ]
+  ],
+  [
+   [
+    "MELEE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Ark of Sotek",
+    "3\"",
+    "20",
+    "4+",
+    "3+",
+    "-",
+    "1"
+   ],
+   [
+    "Bludgeoning Tail",
+    "2\"",
+    "3",
+    "3+",
+    "3+",
+    "-1",
+    "D3"
+   ]
+  ]
+ ]
+}

@@ -1,0 +1,69 @@
+{
+ "IsLegends": false,
+ "Url": "https://wahapedia.ru/aos3/factions/stormcast-eternals/Knight-Incantor",
+ "Faction": "Stormcast Eternals",
+ "Title": "Knight-Incantor",
+ "Legend": "The Knights-Incantor are veteran mages of the Sacrosanct chambers. With their powerful voices, they summon furious tempests and howling gales to unleash against the foe, wielding potent artefacts to nullify enemy sorceries.",
+ "PitchBattleProfile": {
+  "UnitSize": "1",
+  "Points": "120",
+  "Role": "Leader",
+  "BaseSize": "40",
+  "Notes": "Single"
+ },
+ "Intro": "A Knight-Incantor is armed with an Incantor's Staff.",
+ "Rules": [
+  {
+   "Name": "Wizard",
+   "Fluff": "",
+   "Rule": "WIZARD: This unit can attempt to cast 1 spell in your hero phase and attempt to unbind 1 spell in the enemy hero phase."
+  },
+  {
+   "Name": "Voidstorm Scroll",
+   "Fluff": "Each Knight-Incantor bears a scroll infused with potent void magic.",
+   "Rule": "Once per battle, in the enemy hero phase, when this unit attempts to unbind a spell, you can say that it is using its voidstorm scroll. If you do so, that spell is automatically unbound (do not make an unbinding roll)."
+  },
+  {
+   "Name": "Spirit Storm",
+   "Fluff": "The Knight-Incantor conjures a whirl of gusting winds and eldritch lightning.",
+   "Rule": "Spirit Storm is a spell that has a casting value of 7 and a range of 18\". If successfully cast, subtract 1 from run and charge rolls for enemy units within range until your next hero phase."
+  }
+ ],
+ "Keywords": [
+  "Order",
+  "Stormcast Eternals",
+  "Sacrosanct",
+  "Hero",
+  "Wizard",
+  "Knight",
+  "Knight-Incantor"
+ ],
+ "Profile": {
+  "Movement": "5\"",
+  "Wounds": "5",
+  "Save": "3+",
+  "Bravery": "8"
+ },
+ "Tables": [
+  [
+   [
+    "MELEE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Incantor’s Staff",
+    "1\"",
+    "3",
+    "3+",
+    "3+",
+    "-1",
+    "2"
+   ]
+  ]
+ ]
+}

@@ -1,0 +1,82 @@
+{
+ "IsLegends": true,
+ "Url": "https://wahapedia.ru/aos3/factions/cities-of-sigmar/Ironweld-Arsenal-Cannon-1",
+ "Faction": "Cities of Sigmar",
+ "Title": "Ironweld Arsenal Cannon",
+ "Legend": "",
+ "PitchBattleProfile": {
+  "UnitSize": "1",
+  "Points": "160",
+  "Role": "Artillery",
+  "BaseSize": "",
+  "Notes": "Single"
+ },
+ "Intro": "An Ironweld Arsenal Cannon is armed with Cannon Shells.",
+ "Rules": [
+  {
+   "Name": "Crew",
+   "Fluff": "",
+   "Rule": "CREW: An Ironweld Arsenal Cannon has 3 Duardin Crew, who are armed with Artillery Tools. The crew must remain within 1\" of the Ironweld Arsenal Cannon. For rules purposes, the Ironweld Arsenal Cannon and its crew are treated as a single model."
+  },
+  {
+   "Name": "Explosive Shells",
+   "Fluff": "",
+   "Rule": "Add 1 to hit rolls for a Cannon Shell if the target unit has more than 5 models."
+  }
+ ],
+ "Keywords": [
+  "Order",
+  "Cities Of Sigmar",
+  "Ironweld Arsenal",
+  "War Machine",
+  "Cannon"
+ ],
+ "Profile": {
+  "Movement": "2\"",
+  "Wounds": "4",
+  "Save": "5+",
+  "Bravery": "6"
+ },
+ "Tables": [
+  [
+   [
+    "MISSILE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Cannon Shell",
+    "32\"",
+    "2",
+    "4+",
+    "2+",
+    "-2",
+    "D6"
+   ]
+  ],
+  [
+   [
+    "MELEE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Artillery Toolss",
+    "1\"",
+    "3",
+    "4+",
+    "5+",
+    "-",
+    "1"
+   ]
+  ]
+ ]
+}

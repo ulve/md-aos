@@ -1,0 +1,72 @@
+# Freeguild Command Corps
+
+_The battlefield aides of the Freeguild Marshals range from towering Arch-Knight champions to soul-priests, from War Surgeons to sinister Whisperblades. Together they are a force far greater than the sum of their parts._
+
+
+| Movement | Wounds | Save | Bravery |
+|:--------:|:------:|:----:|:-------:|
+| 5" | 3 | 4+ | 7 |
+
+* Unit Size: **6**
+* Points: **170**
+* Battlefield Role: **None**
+* Notes: **Single**
+
+| MELEE WEAPONS | Range | Attacks | To Hit | To WoundTo Wnd | Rend | DamageDmg |
+|:---|:--:|:--:|:--:|:--:|:--:|:--:|
+| Sigmarite Great Weapon | 2" | 4 | 3+ | 3+ | -1 | D3 |
+| Enchanted Rapier | 1" | 1 | 2+ | 2+ | -3 | D6 |
+| Assortment of Weapons | 1" | 2 | 3+ | 4+ | - | 1 |
+| Gargoylian Bite | 1" | 3 | 4+ | 3+ | -1 | D3 |
+
+
+_The models in a Freeguild Command Corps are 1 Arch-Knight, 1 Whisperblade, 1 Great Herald, 1 War Surgeon, 1 Soul Shepherd and 1 Mascot Gargoylian. The Arch-Knight is armed with a Sigmarite Great Weapon. The Whisperblade is armed with an Enchanted Rapier. The Great Herald, War Surgeon and the Soul Shepherd are each armed with an Assortment of Weapons. The Mascot Gargoylian is armed with a Gargoylian Bite._
+
+## Great Herald
+
+GREAT HERALD: This unit has the TOTEM keyword while it has a Great Herald.
+
+## The Marshal’s Retinue
+
+_As well as bringing their diverse range of skills to the battlefield, the warriors and wisemen of the Command Corps have each sworn to guard the life of a Marshal with their own._
+
+At the start of the first battle round, before determining who has the first turn, you can pick 1 friendly FREEGUILD MARSHAL AND RELIC ENVOY on the battlefield for this unit to be assigned to. The same FREEGUILD MARSHAL cannot have more than 1 FREEGUILD COMMAND CORPS assigned to it. That FREEGUILD MARSHAL has a ward of 4+ while it is within 3" of this unit.
+
+## Sawbones
+
+_The War Surgeon performs a vital role on the battlefield: keeping the soldiery around them fighting for as long as possible._
+
+You can only use this ability while this unit has a War Surgeon. At the end of your hero phase, you can pick up to 3 friendly CITIES OF SIGMAR HUMAN units wholly within 12" of this unit. For each unit picked, you can either heal up to D3 wounds allocated to that unit or, if no wounds have been allocated to that unit, you can return a number of slain models to it that have a combined Wounds characteristic of D3 or less.
+
+## Dispatch Spies
+
+_The Whisperblades have networks of informants and operatives at their disposal that they use to unravel the best-laid plans of the enemy._
+
+You can only use this ability while this unit has a Whisperblade. Once per turn, when an enemy unit issues a command, you can say that the Whisperblade will attempt to disrupt it. If you do so, roll a dice. On a 4+, that command is not received (the command ability still counts as having been used) and the command point that was spent to issue that command is lost. Each time a command is issued, no more than 1 attempt to disrupt it can be made.
+
+## Sound The Advance
+
+_The role of the Great Herald is to direct the movement of the soldiery around them._
+
+Sound the Advance: You can only use this ability while this unit has a Great Herald. Add 1 to run rolls and charge rolls for friendly CITIES OF SIGMAR HUMAN units while they are wholly within 12" of any friendly units that have a Great Herald. In addition, when a friendly CITIES OF SIGMAR HUMAN unit wholly within 12" of any friendly units that have a Great Herald retreats, you can add D3" to the Move characteristic of all models in that unit until the end of the phase.
+
+## Tune Of The Corpus Somni
+
+_It is said only Sigmarites who are close to death can hear the pipe of the Corpus Somni. Those who are yet deaf to its melancholy notes, however, are inexplicably filled with an odd sense of certainty that they will see the day through to its end._
+
+Tune of the Corpus Somni: You can only use this ability while this unit has a Soul Shepherd. In the battleshock phase, each time a model would flee from a friendly CITIES OF SIGMAR HUMAN unit while that friendly unit is wholly within 12" of this unit, roll a dice. On a 4+, that model does not flee. The same unit cannot be affected by this ability more than once in the same phase.
+
+## Keywords
+
+* Order
+* Cities Of Sigmar
+* Human
+* Freeguild
+* Freeguild
+* Command
+* Corps
+
+
+## Source
+
+[Freeguild Command Corps](https://wahapedia.ru/aos3/factions/cities-of-sigmar/Freeguild-Command-Corps)

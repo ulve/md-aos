@@ -1,0 +1,66 @@
+# Mannok da Kunnin’
+
+_Mannok da Kunnin’ is a member of the Beastbreakaz tribe; with his envenomed tri-prodda and cruel lash, he can reduce even the toughest opponents to spasming wrecks._
+
+
+| Movement | Wounds | Save | Bravery |
+|:--------:|:------:|:----:|:-------:|
+| 5" | 6 | 4+ | 7 |
+
+* Unit Size: **1**
+* Points: **150**
+* Battlefield Role: **Leader**
+* Base size: **40**
+* Notes: **Single, Unique. Mannok da Kunnin’ and Da Kunnin’ Krew units must be taken as a set. Although taken as a set, each is a separate unit.**
+
+| MISSILE WEAPONS | Range | Attacks | To Hit | To WoundTo Wnd | Rend | DamageDmg |
+|:---|:--:|:--:|:--:|:--:|:--:|:--:|
+| Scary Beak and Talons | 3D6" | 3 | 4+ | 5+ | - | 1 |
+
+
+| MELEE WEAPONS | Range | Attacks | To Hit | To WoundTo Wnd | Rend | DamageDmg |
+|:---|:--:|:--:|:--:|:--:|:--:|:--:|
+| Tri-prodda and Lash | 3" | 4 | 3+ | 3+ | -1 | D3 |
+
+
+_Mannok da Kunnin’ is armed with a Tri-prodda and Lash._
+
+## Companion
+
+COMPANION: This unit is accompanied by a Morkrow armed with a Scary Beak and Talons.
+
+## Kunnin’ Tricks
+
+_Mannok is renowned amongst the Kruleboyz for the depth and effectiveness of his dirty tricks._
+
+If this unit is part of a Kruleboyz army, after you have picked which Dirty Tricks to employ during the battle, roll a dice. Add 1 to the roll if this unit is your general. On a 5+, you can pick another Dirty Trick to employ during the battle. This Dirty Trick must be different to the others that you picked.
+
+## Spasming Wreck
+
+_The venom that coats Mannok’s tri-prodda and lash is especially virulent._
+
+When you use the Venom-encrusted Weapons battle trait for this unit, mortal wounds are caused on an unmodified hit roll of 5+ instead of 6.
+
+## You Lot Hold ’Em Off
+
+_Mannok is not above using his lackeys as a living shield when things get dicey._
+
+Before you allocate a wound or mortal wound to this unit, or instead of making a ward roll for a wound or mortal wound that would be allocated to this unit, if this unit is within 3" of a friendly DA KUNNIN’ KREW unit, you can roll a dice.On a 1, that wound or mortal wound is allocated to this unit as normal. On a 2-5, that wound or mortal wound is allocated to that friendly DA KUNNIN’ KREW unit instead of this unit. On a 6, that wound or mortal wound is negated.
+
+## Keywords
+
+* Destruction
+* Orruk Warclans
+* Orruk
+* Kruleboyz
+* Grinnin’ Blades
+* Hero
+* Breaka-Boss
+* Mannok
+* Da
+* Kunnin’
+
+
+## Source
+
+[Mannok da Kunnin’](https://wahapedia.ru/aos3/factions/orruk-warclans/Mannok-da-Kunnin-)

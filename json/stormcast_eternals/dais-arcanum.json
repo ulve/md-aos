@@ -1,0 +1,30 @@
+{
+ "IsLegends": false,
+ "Url": "https://wahapedia.ru/aos3/factions/stormcast-eternals/Dais-Arcanum",
+ "Faction": "Stormcast Eternals",
+ "Title": "Dais Arcanum",
+ "Legend": "Groundbound Stormcast mages forced to travel swiftly will summon a construct known as a Dais Arcanum. These mystical discs are empowered by the winds of Azyr, bolstering the arcane arts of any who stand upon them.",
+ "PitchBattleProfile": {
+  "UnitSize": "",
+  "Points": "20",
+  "Role": "Endless Spell",
+  "BaseSize": "50",
+  "Notes": ""
+ },
+ "Intro": "Arcane Enhancement: The magical energies of a Dais Arcanum are attuned to those of the wizard who rides upon it.A WIZARD on a Dais Arcanum can attempt to unbind 1 extra spell in the enemy hero phase.",
+ "Rules": [
+  {
+   "Name": "Winds Of Azyr",
+   "Fluff": "The Dais Arcanum glides on arcane currents to evade incoming attacks.",
+   "Rule": "Winds of Azyr: Subtract 1 from hit rolls for attacks that target a WIZARD on a Dais Arcanum."
+  }
+ ],
+ "Keywords": null,
+ "Profile": {
+  "Movement": "",
+  "Wounds": "",
+  "Save": "",
+  "Bravery": ""
+ },
+ "Tables": null
+}

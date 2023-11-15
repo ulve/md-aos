@@ -1,0 +1,24 @@
+{
+ "IsLegends": false,
+ "Url": "https://wahapedia.ru/aos3/factions/seraphon/Thunderquake-Temple-host",
+ "Faction": "Seraphon",
+ "Title": "Thunderquake Temple-host",
+ "Legend": "",
+ "PitchBattleProfile": {
+  "UnitSize": "",
+  "Points": "",
+  "Role": "",
+  "BaseSize": "",
+  "Notes": ""
+ },
+ "Intro": "",
+ "Rules": null,
+ "Keywords": null,
+ "Profile": {
+  "Movement": "",
+  "Wounds": "",
+  "Save": "",
+  "Bravery": ""
+ },
+ "Tables": null
+}

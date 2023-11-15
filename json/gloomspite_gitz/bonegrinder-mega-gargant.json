@@ -1,0 +1,146 @@
+{
+ "IsLegends": true,
+ "Url": "https://wahapedia.ru/aos3/factions/gloomspite-gitz/Bonegrinder-Mega-Gargant",
+ "Faction": "Gloomspite Gitz",
+ "Title": "Bonegrinder Mega-Gargant",
+ "Legend": "The Bonegrinder Mega-Gargant’s coming is heralded by earth-shaking footsteps and a deafening roar of battle-lust. Each Bonegrinder thinks of itself as the next Behemat, and will stomp flat or batter to death anything foolish enough to stand in its way.",
+ "PitchBattleProfile": {
+  "UnitSize": "1",
+  "Points": "535",
+  "Role": "Behemoth",
+  "BaseSize": "120 x 92",
+  "Notes": "Single"
+ },
+ "Intro": "A Bonegrinder Mega-Gargant is armed with a Gargantuan Club, Thunderous Stomp and Hurled Boulders.",
+ "Rules": [
+  {
+   "Name": "Thunderous Stomp",
+   "Fluff": "A Bonegrinder Mega- Gargant’s massive, stomping feet are devastating against smaller opponents.",
+   "Rule": "ABILITIES Add 1 to hit rolls for attacks made with a Thunderous Stomp unless the target is a MONSTER."
+  },
+  {
+   "Name": "I’ll Bite Your Head Off!",
+   "Fluff": "A Bonegrinder Mega-Gargant’s cavernous mouth makes for an especially deadly weapon, should the brute fancy a light snack during a battle.",
+   "Rule": "After this model piles in, you can pick 1 enemy model that is within 3\" of this model, and roll a dice. If the roll is greater than that enemy model’s Wounds characteristic, that enemy model is slain."
+  },
+  {
+   "Name": "Longshanks",
+   "Fluff": "A Bonegrinder Mega-Gargant towers high above the battlefield, and although it moves ponderously, it can step over most obstacles.",
+   "Rule": "When this model makes a normal move, run or retreat, it can ignore other models and terrain features when you trace the path of its move across the battlefield, but it cannot finish that move within 3\" of an enemy unit."
+  },
+  {
+   "Name": "Sons Of Behemat",
+   "Fluff": "The Sons of Behemat are nearly as difficult to kill as their mighty progenitor.",
+   "Rule": "Sons of Behemat: If this model is affected by an ability that slays the target without any wounds or mortal wounds being allocated, then this model suffers D6 mortal wounds instead."
+  },
+  {
+   "Name": "Terror",
+   "Fluff": "This terrifying monstrosity strikes fear into the hearts of its foes.",
+   "Rule": "Subtract 1 from the Bravery characteristic of enemy units if they are within 3\" of any friendly units with this ability."
+  },
+  {
+   "Name": "Timberrr!!!",
+   "Fluff": "A dying Bonegrinder Mega-Gargant is indiscriminating in their choice of where – and on whom – their body falls.",
+   "Rule": "If this model is slain, before removing it from play, the players must roll off. The winner must pick 1 point on the battlefield 5\" from this model. Each unit within 3\" of that point suffers D3 mortal wounds unless it is a MEGA-GARGANT. This model is then removed from play."
+  }
+ ],
+ "Keywords": [
+  "Destruction",
+  "Sons",
+  "Of",
+  "Behemat",
+  "Gargant",
+  "Mega-Gargant",
+  "Monster",
+  "Bonegrinder"
+ ],
+ "Profile": {
+  "Movement": "*",
+  "Wounds": "35",
+  "Save": "4+",
+  "Bravery": "7"
+ },
+ "Tables": [
+  [
+   [
+    "MISSILE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Hurled Boulder",
+    "*",
+    "1",
+    "3+",
+    "2+",
+    "-3",
+    "4"
+   ]
+  ],
+  [
+   [
+    "MELEE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Gargantuan Club",
+    "3\"",
+    "*",
+    "3+",
+    "3+",
+    "-2",
+    "3"
+   ],
+   [
+    "Thunderous Stomp",
+    "1\"",
+    "1",
+    "3+",
+    "3+",
+    "-2",
+    "D6"
+   ]
+  ],
+  [
+   [
+    "Wounds Suffered",
+    "Move",
+    "Hurled Boulder",
+    "Gargantuan Club"
+   ],
+   [
+    "0-18",
+    "11\"",
+    "18\"",
+    "7"
+   ],
+   [
+    "19-24",
+    "10\"",
+    "15\"",
+    "5"
+   ],
+   [
+    "25-30",
+    "9\"",
+    "12\"",
+    "4"
+   ],
+   [
+    "31+",
+    "8\"",
+    "9\"",
+    "3"
+   ]
+  ]
+ ]
+}

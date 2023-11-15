@@ -1,0 +1,83 @@
+{
+ "IsLegends": true,
+ "Url": "https://wahapedia.ru/aos3/factions/gloomspite-gitz/Sourbreath-Troggoths",
+ "Faction": "Gloomspite Gitz",
+ "Title": "Sourbreath Troggoths",
+ "Legend": "",
+ "PitchBattleProfile": {
+  "UnitSize": "3",
+  "Points": "175",
+  "Role": "None",
+  "BaseSize": "",
+  "Notes": ""
+ },
+ "Intro": "Each model in a Sourbreath Troggoths unit is armed with Noxiou Vomit and a Troggoth Club.",
+ "Rules": [
+  {
+   "Name": "Regeneration",
+   "Fluff": "",
+   "Rule": "ABILITIES In your hero phase, you can roll a dice for this unit. If you do so, on a 4+, heal up to D3 wounds allocated to this unit."
+  },
+  {
+   "Name": "Too Dumb To Die",
+   "Fluff": "",
+   "Rule": "Too Dumb to Die: This unit has a ward of 5+."
+  }
+ ],
+ "Keywords": [
+  "Destruction",
+  "Gloomspite Gitz",
+  "Troggoth",
+  "Sourbreath",
+  "Sourbreath",
+  "Troggoths"
+ ],
+ "Profile": {
+  "Movement": "6\"",
+  "Wounds": "4",
+  "Save": "5+",
+  "Bravery": "5"
+ },
+ "Tables": [
+  [
+   [
+    "MISSILE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Noxious Vomit",
+    "6\"",
+    "1",
+    "3+",
+    "3+",
+    "-2",
+    "D3"
+   ]
+  ],
+  [
+   [
+    "MELEE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Troggoth Club",
+    "2\"",
+    "3",
+    "4+",
+    "3+",
+    "-1",
+    "2"
+   ]
+  ]
+ ]
+}

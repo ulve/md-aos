@@ -1,0 +1,74 @@
+{
+ "IsLegends": false,
+ "Url": "https://wahapedia.ru/aos3/factions/maggotkin-of-nurgle/Rotbringer-Sorcerer",
+ "Faction": "Maggotkin of Nurgle",
+ "Title": "Rotbringer Sorcerer",
+ "Legend": "Rotbringer Sorcerers are masters of unclean magics, capable of vomiting forth streams of slime or imbuing , their allies with pestilent might. They revel in acts of corruption, and are even able to infect wild arcane phenomena.",
+ "PitchBattleProfile": {
+  "UnitSize": "1",
+  "Points": "120",
+  "Role": "Leader",
+  "BaseSize": "32",
+  "Notes": "Single"
+ },
+ "Intro": "A Rotbringer Sorcerer is armed with a Rotwood Staff.",
+ "Rules": [
+  {
+   "Name": "Battalions",
+   "Fluff": "",
+   "Rule": "BATTALIONS: This warscroll can be used in the following warscroll battalions: • Blight Cyst • Contagium Overlord • Plague Cyst"
+  },
+  {
+   "Name": "Wizard",
+   "Fluff": "",
+   "Rule": "WIZARD: This unit can attempt to cast 1 spell in your hero phase and attempt to unbind 1 spell in the enemy hero phase."
+  },
+  {
+   "Name": "Tainted Endless Spell",
+   "Fluff": "Rotbringer Sorcerers hold that there is nothing they cannot corrupt, and many prove this point by tainting the autonomous spells that roam the lands.",
+   "Rule": "If this unit summons an endless spell, then for the purposes of the Diseased battle trait, that endless spell is treated as a unit with the MAGGOTKIN OF NURGLE keyword that is in the same army as this unit."
+  },
+  {
+   "Name": "Stream Of Corruption",
+   "Fluff": "Uttering glottal curses, the Sorcerer unleashes a torrent of bile and brackish filth upon their enemies.",
+   "Rule": "Stream of Corruption: Stream of Corruption is a spell with a casting value of 6 and a range of 7\". If successfully cast, pick 1 enemy unit within range and visible to the caster. Roll 1 dice for each model in that unit that is within range of the caster. For each 5+, that unit suffers 1 mortal wound.Before attempting to cast this spell, you can say that the caster will project the stream across a greater distance. If you do so, the spell has a range of 14\" but only inflicts 1 mortal wound for each roll of 6 instead of each roll of 5+."
+  }
+ ],
+ "Keywords": [
+  "Chaos",
+  "Mortal",
+  "Nurgle",
+  "Maggotkin Of Nurgle",
+  "Hero",
+  "Wizard",
+  "Rotbringer Sorcerer"
+ ],
+ "Profile": {
+  "Movement": "4\"",
+  "Wounds": "6",
+  "Save": "5+",
+  "Bravery": "7"
+ },
+ "Tables": [
+  [
+   [
+    "MELEE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Rotwood Staff",
+    "3\"",
+    "3",
+    "4+",
+    "3+",
+    "-1",
+    "1"
+   ]
+  ]
+ ]
+}

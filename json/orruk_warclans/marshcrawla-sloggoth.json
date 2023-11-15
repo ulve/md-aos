@@ -1,0 +1,83 @@
+{
+ "IsLegends": false,
+ "Url": "https://wahapedia.ru/aos3/factions/orruk-warclans/Marshcrawla-Sloggoth",
+ "Faction": "Orruk Warclans",
+ "Title": "Marshcrawla Sloggoth",
+ "Legend": "Creeping along on all fours come the Marshcrawla Sloggoths, sniffing the air to home in on fresh prey. On their backs are howdahs full of sneaky grots, banging war-drums and cackling as their vile beasts catch and squish the foe.",
+ "PitchBattleProfile": {
+  "UnitSize": "1",
+  "Points": "170",
+  "Role": "None",
+  "BaseSize": "105 x 70",
+  "Notes": "Single"
+ },
+ "Intro": "A Marshcrawla Sloggoth is armed with Catchin’ Nets and Snatcha-stikks, and Raking Claws.",
+ "Rules": [
+  {
+   "Name": "Battalions",
+   "Fluff": "",
+   "Rule": "BATTALIONS: This warscroll can be used in the following warscroll battalions: • Trophy Finga"
+  },
+  {
+   "Name": "Grot Snatcha-Krew",
+   "Fluff": "The grots that ride atop a Marshcrawla Sloggoth are constantly on the lookout for new victims to grab and chain up.",
+   "Rule": "Grot Snatcha-krew: At the end of the combat phase, you can pick 1 enemy model within 2\" of this unit and roll a dice. If the roll is at least double that model’s Wounds characteristic, it is slain."
+  },
+  {
+   "Name": "Krew Drummer",
+   "Fluff": "The drummer that rides with a snatcha-krew beats out a powerful rhythm that inspires nearby allies to fight at their hardest.",
+   "Rule": "Add 1 to hit rolls for attacks made with melee weapons by friendly units that are wholly within 18\" of any friendly units with this ability."
+  },
+  {
+   "Name": "Regeneration",
+   "Fluff": "Being a type of troggoth, the sloggoth is able to regrow injured flesh almost as quickly as it is harmed.",
+   "Rule": "In your hero phase, you can roll a dice for this unit. If you do so, on a 4+, heal up to D3 wounds allocated to this unit."
+  }
+ ],
+ "Keywords": [
+  "Destruction",
+  "Orruk Warclans",
+  "Kruleboyz",
+  "Grot",
+  "Troggoth",
+  "Marshcrawla",
+  "Sloggoth"
+ ],
+ "Profile": {
+  "Movement": "6\"",
+  "Wounds": "12",
+  "Save": "4+",
+  "Bravery": "5"
+ },
+ "Tables": [
+  [
+   [
+    "MELEE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Catchin’ Nets and Snatcha-stikks",
+    "2\"",
+    "4",
+    "4+",
+    "4+",
+    "-",
+    "1"
+   ],
+   [
+    "Raking Claws",
+    "1\"",
+    "4",
+    "3+",
+    "3+",
+    "-1",
+    "2"
+   ]
+  ]
+ ]
+}

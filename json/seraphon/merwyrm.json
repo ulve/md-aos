@@ -1,0 +1,130 @@
+{
+ "IsLegends": true,
+ "Url": "https://wahapedia.ru/aos3/factions/seraphon/Merwyrm",
+ "Faction": "Seraphon",
+ "Title": "Merwyrm",
+ "Legend": "Merwyrms are nightmarish creatures able to traverse both land and sea. Harbouring a malice cultivated in their endless struggle for survival upon the ocean floor, they loose this hatred upon any foolish enough to go into battle against them.",
+ "PitchBattleProfile": {
+  "UnitSize": "1",
+  "Points": "280",
+  "Role": "Behemoth",
+  "BaseSize": "",
+  "Notes": "Single"
+ },
+ "Intro": "A Merwyrm is armed with Chill Breath, Hideous Jaws and a Powerful Tail.",
+ "Rules": [
+  {
+   "Name": "Monstrous Ally",
+   "Fluff": "",
+   "Rule": "MONSTROUS ALLY: This unit can be included as an allied unit in an army whose general has the DESTRUCTION or ORDER keyword."
+  },
+  {
+   "Name": "Abyssal Predator",
+   "Fluff": "The Merwyrm’s usual prey are the leviathans of the deep, and they have a talent for latching onto their quarry and tearing away great chunks of flesh.",
+   "Rule": "ABILITIES If the unmodified wound roll for an attack made with this model’s Hideous Jaws is 6, the Damage characteristic of that weapon for that attack is D6 instead of D3."
+  },
+  {
+   "Name": "Stench Of The Deep",
+   "Fluff": "The air around this beast is filled with an unholy stench of rotting flesh and brackish filth. This putrid smell upturns stomachs and stings eyes, weakening and blinding its enemies before they can attack.",
+   "Rule": "Stench of the Deep: Subtract 1 from hit rolls for attacks made with melee weapons that target this model."
+  },
+  {
+   "Name": "Unnatural Metabolism",
+   "Fluff": "The Merwyrm’s cavernous jaws are so huge that stories abound of its ability to swallow a person whole, its wounds sealing each time it devours an unfortunate victim.",
+   "Rule": "At the end of the combat phase, if any enemy models were slain by wounds inflicted by this model’s attacks in that combat phase, you can heal up to D3 wounds allocated to this model."
+  }
+ ],
+ "Keywords": [
+  "Monster",
+  "Merwyrm"
+ ],
+ "Profile": {
+  "Movement": "*",
+  "Wounds": "12",
+  "Save": "4+",
+  "Bravery": "5"
+ },
+ "Tables": [
+  [
+   [
+    "MISSILE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Chill Breath",
+    "8\"",
+    "6",
+    "4+",
+    "3+",
+    "-1",
+    "1"
+   ]
+  ],
+  [
+   [
+    "MELEE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Hideous Jaws",
+    "1\"",
+    "3",
+    "3+",
+    "3+",
+    "*",
+    "D3"
+   ],
+   [
+    "Powerful Tail",
+    "2\"",
+    "1",
+    "4+",
+    "3+",
+    "-1",
+    "*"
+   ]
+  ],
+  [
+   [
+    "Wounds Suffered",
+    "Move",
+    "Hideous Jaws",
+    "Powerful Tail"
+   ],
+   [
+    "0-5",
+    "8\"",
+    "-3",
+    "6"
+   ],
+   [
+    "6-7",
+    "7\"",
+    "-2",
+    "D6"
+   ],
+   [
+    "8-9",
+    "6\"",
+    "-2",
+    "D3"
+   ],
+   [
+    "10+",
+    "5\"",
+    "-1",
+    "2"
+   ]
+  ]
+ ]
+}

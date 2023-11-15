@@ -1,0 +1,78 @@
+{
+ "IsLegends": true,
+ "Url": "https://wahapedia.ru/aos3/factions/gloomspite-gitz/Squigmonger",
+ "Faction": "Gloomspite Gitz",
+ "Title": "Squigmonger",
+ "Legend": "The Squigmonger capers and hoots from behind his terrifying Glareface mask. Riding upon the grot-borne skull of a Cave Squig representing the immolated godbeast Boingob, he puts the fear of the Moonclan bogeyman into the Gloomspite hordes.",
+ "PitchBattleProfile": {
+  "UnitSize": "1",
+  "Points": "240",
+  "Role": "Leader",
+  "BaseSize": "",
+  "Notes": "Squigmonger, Squigmancer, Squigcap Shaman and Squig Herder with Mini-Mangler must be taken as a set for a total of 240 points. Although taken as a set, each is a separate unit."
+ },
+ "Intro": "BATTALIONSThis warscroll can be used in the following warscroll battalions: • Squigapalooza",
+ "Rules": [
+  {
+   "Name": "",
+   "Fluff": "",
+   "Rule": "DESCRIPTIONA Squigmonger is a single model armed with Boingob’s Tusks and Fangs."
+  },
+  {
+   "Name": "Fly",
+   "Fluff": "",
+   "Rule": "FLY: This unit can fly."
+  },
+  {
+   "Name": "Hallucinogenic Fungus Brews",
+   "Fluff": "Squigapalooza shamans drink long draughts of hallucinogenic fungus brew before the battle begins, making them almost impervious to pain. However, as the battle progresses the effects start to wear off.",
+   "Rule": "ABILITIES In the first battle round, this unit has a ward of 5+. In the second battle round, this unit has a ward of 6+."
+  },
+  {
+   "Name": "Bogeysquig",
+   "Fluff": "The Squigmonger generates palpable waves of fear that scare nearby squigs into fighting with renewed vigour.",
+   "Rule": "In your hero phase, you can make a Squigapalooza Know-wotz roll for this model. If you do so, roll a dice. On a 3+ pick 1 friendly MOONCLAN SQUIG unit wholly within 18\" of this model that is visible to them. You can re-roll charge rolls and run rolls for that unit until your next hero phase."
+  },
+  {
+   "Name": "Slippery Git",
+   "Fluff": "Squigapalooza shamans seek to put as many of their fellow squigs between themselves and incoming enemy fire as possible.",
+   "Rule": "Subtract 1 from hit rolls for attacks made with missile weapons that target this model while it is within 3\" of a friendly MOONCLAN unit with 3 or more models."
+  }
+ ],
+ "Keywords": [
+  "Destruction",
+  "Squig",
+  "Gloomspite Gitz",
+  "Moonclan",
+  "Squigapalooza",
+  "Squigmonger"
+ ],
+ "Profile": {
+  "Movement": "2D6\"",
+  "Wounds": "5",
+  "Save": "5+",
+  "Bravery": "5"
+ },
+ "Tables": [
+  [
+   [
+    "MELEE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Boingob’s Tusks and Fangs",
+    "1\"",
+    "4",
+    "4+",
+    "3+",
+    "-1",
+    "D3"
+   ]
+  ]
+ ]
+}

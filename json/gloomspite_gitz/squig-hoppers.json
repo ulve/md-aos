@@ -1,0 +1,88 @@
+{
+ "IsLegends": false,
+ "Url": "https://wahapedia.ru/aos3/factions/gloomspite-gitz/Squig-Hoppers",
+ "Faction": "Gloomspite Gitz",
+ "Title": "Squig Hoppers",
+ "Legend": "Squig Hoppers bounce madly into battle, wreaking havoc on anything they collide with. Each ill-tempered squig has a cackling grot clinging to its back, who flails wildly at nearby enemies as he tries vainly to steer his weird steed.",
+ "PitchBattleProfile": {
+  "UnitSize": "10",
+  "Points": "190",
+  "Role": "Battleline",
+  "BaseSize": "32",
+  "Notes": ""
+ },
+ "Intro": "Each model in a Squig Hoppers unit is armed with a Slitta.",
+ "Rules": [
+  {
+   "Name": "Battalions",
+   "Fluff": "",
+   "Rule": "BATTALIONS: This warscroll can be used in the following warscroll battalions: • Squigalanche • Squiggly Hangerz-on"
+  },
+  {
+   "Name": "Mount",
+   "Fluff": "",
+   "Rule": "MOUNT: This unit’s Cave Squigs are each armed with a Fang-filled Gob."
+  },
+  {
+   "Name": "Fly",
+   "Fluff": "",
+   "Rule": "FLY: This unit can fly."
+  },
+  {
+   "Name": "Champion",
+   "Fluff": "",
+   "Rule": "CHAMPION: 1 model in this unit can be a Squig Hopper Boss. Add 1 to the Attacks characteristic of that model’s Slitta."
+  },
+  {
+   "Name": "Boing! Boing! Boing!",
+   "Fluff": "Squig Hoppers can cause considerable damage simply by bouncing on top of their foes as they make their way across the battlefield.",
+   "Rule": "After this unit has made a normal move, run or retreat, pick 1 enemy unit and roll a dice for each model in this unit that passed across a model in that unit. For each 4+, that unit suffers 1 mortal wound."
+  }
+ ],
+ "Keywords": [
+  "Destruction",
+  "Gloomspite Gitz",
+  "Grot",
+  "Squig",
+  "Moonclan",
+  "Squig",
+  "Hoppers"
+ ],
+ "Profile": {
+  "Movement": "D6+10\"",
+  "Wounds": "2",
+  "Save": "6+",
+  "Bravery": "4"
+ },
+ "Tables": [
+  [
+   [
+    "MELEE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Slitta",
+    "1\"",
+    "1",
+    "4+",
+    "4+",
+    "-",
+    "1"
+   ],
+   [
+    "Fang-filled Gob",
+    "1\"",
+    "3",
+    "4+",
+    "3+",
+    "-1",
+    "1"
+   ]
+  ]
+ ]
+}

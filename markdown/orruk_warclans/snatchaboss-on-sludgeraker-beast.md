@@ -1,0 +1,68 @@
+# Snatchaboss on Sludgeraker Beast
+
+_Experts at capturing prisoners in the mayhem of battle, Snatchabosses regard war as an opportunity to scoop up some prize captives. The Sludgeraker Beasts that bear them into the fighting smell so appalling their scent alone can unman a prospective target._
+
+
+| Movement | Wounds | Save | Bravery |
+|:--------:|:------:|:----:|:-------:|
+| 8" | 14 | 4+ | 6 |
+
+* Unit Size: **1**
+* Points: **290**
+* Battlefield Role: **Leader, Behemoth**
+* Base size: **120 x 92**
+* Notes: **Single**
+
+| MELEE WEAPONS | Range | Attacks | To Hit | To WoundTo Wnd | Rend | DamageDmg |
+|:---|:--:|:--:|:--:|:--:|:--:|:--:|
+| Chain-linked Grappling Hook | 3" | 3 | 3+ | 3+ | -1 | 3 |
+| Grasping Talons | 3" | * | 3+ | 3+ | -1 | 2 |
+| Noisome Bite | 1" | 1 | 3+ | 2+ | -1 | * |
+| Thrashing Tail | 1" | 2 | 3+ | * | -2 | 2 |
+
+
+| Wounds Suffered | Grasping Talons | Noisome Bite | Thrashing Tail |
+|:---|:--:|:--:|:--:|
+| 0-5 | 6 | D3+3 | 2+ |
+| 6-8 | 5 | D3+2 | 3+ |
+| 9-11 | 4 | D3+1 | 4+ |
+| 12+ | 3 | D3 | 5+ |
+
+
+_A Snatchaboss on Sludgeraker Beast is armed with a Chain-linked Grappling Hook._
+
+## Battalions
+
+BATTALIONS: This warscroll can be used in the following warscroll battalions: • Trophy Finga
+
+## Mount
+
+MOUNT: This unit’s Sludgeraker Beast is armed with Grasping Talons, a Noisome Bite and a Thrashing Tail. The Venom-encrusted Weapons battle trait applies to attacks made with a Sludgeraker Beast’s Grasping Talons and Noisome Bite even though it is a mount.
+
+## Poisons And Elixirs
+
+_The underbelly of a Sludgeraker Beast is coated in rotting detritus, encrusted marsh-slime and the beast’s own excretions - a highly virulent mixture which is used by nearby Kruleboyz to coat their weapons._
+
+Sludgeraker Venom: Add 1 to the number of mortal wounds caused by the Venom-encrusted Weapons battle trait if the unmodified hit roll was 6 and the attacking unit is wholly within 12" of any friendly units with this ability.Designer’s Note: If a unit is affected by this ability and has been given a poison from the Swampcalla Shaman’s Poisons and Elixirs ability, this ability does not affect unmodified hit rolls of 5 and only affects unmodified hit rolls of 6.
+
+## Snatch And Grab
+
+_A Snatchaboss and their Sludgeraker Beast work together with terrifying precision to seize a victim, disarm them and stuff them into a waiting cage._
+
+Snatch and Grab: Once per battle, at the end of the combat phase, you can pick 1 enemy model that has a Wounds characteristic of 7 or less, does not have a mount and is within 3" of this unit, and roll 2D6. If the roll is greater than that enemy model’s Wounds characteristic, it is slain.
+
+## Keywords
+
+* Destruction
+* Orruk Warclans
+* Orruk
+* Sludgeraker Beast
+* Kruleboyz
+* Hero
+* Monster
+* Snatchaboss
+
+
+## Source
+
+[Snatchaboss on Sludgeraker Beast](https://wahapedia.ru/aos3/factions/orruk-warclans/Snatchaboss-on-Sludgeraker-Beast)

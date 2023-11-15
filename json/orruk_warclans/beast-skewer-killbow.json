@@ -1,0 +1,102 @@
+{
+ "IsLegends": false,
+ "Url": "https://wahapedia.ru/aos3/factions/orruk-warclans/Beast-skewer-Killbow",
+ "Faction": "Orruk Warclans",
+ "Title": "Beast-skewer Killbow",
+ "Legend": "The idea of an orruk that can shoot straight seems like a contradiction, but they do exist - those who operate the portable ballistas known as Beast-skewer Killbows can not only bullseye a target but also slay several smaller enemies with a single shot.",
+ "PitchBattleProfile": {
+  "UnitSize": "1",
+  "Points": "80",
+  "Role": "Artillery",
+  "BaseSize": "90 x 52",
+  "Notes": "Single"
+ },
+ "Intro": "A Beast-skewer Killbow is armed with Beast-skewer Bolts.",
+ "Rules": [
+  {
+   "Name": "Battalions",
+   "Fluff": "",
+   "Rule": "BATTALIONS: This warscroll can be used in the following warscroll battalions: • Middul Finga • Big Grikk’s Kruleshots"
+  },
+  {
+   "Name": "Companion",
+   "Fluff": "",
+   "Rule": "COMPANION: This unit is accompanied by loading grots that are armed with Jaggedy Blades."
+  },
+  {
+   "Name": "Pick ’Em Off",
+   "Fluff": "Boltboyz prefer to keep well away from the main battleline when possible, remaining stationary to fire carefully aimed shots at their enemies.",
+   "Rule": "When this unit attacks with Beast-skewer Bolts, use the Aimed Shot missile weapon characteristics if it did not make a normal move in the same turn and is more than 3\" from all enemy units. Otherwise, use the Hasty Shot missile weapon characteristics."
+  },
+  {
+   "Name": "Skewered",
+   "Fluff": "Beast-skewer bolts can punch straight through a monster or several ranks of enemy warriors.",
+   "Rule": "To determine the Damage characteristic for an attack made with Beast-skewer Bolts, roll a number of dice equal to the Wounds characteristic of the target unit. The Damage characteristic is equal to 2, plus 1 for each roll of 5+, up to a maximum Damage characteristic of 12."
+  }
+ ],
+ "Keywords": [
+  "Destruction",
+  "Orruk Warclans",
+  "Orruk",
+  "Kruleboyz",
+  "Beast-Skewer",
+  "Killbow"
+ ],
+ "Profile": {
+  "Movement": "5\"",
+  "Wounds": "5",
+  "Save": "5+",
+  "Bravery": "5"
+ },
+ "Tables": [
+  [
+   [
+    "MISSILE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Beast-skewer Bolts: Hasty Shot",
+    "12\"",
+    "1",
+    "4+",
+    "3+",
+    "-2",
+    "See below"
+   ],
+   [
+    "Beast-skewer Bolts: Aimed Shot",
+    "24\"",
+    "1",
+    "2+",
+    "3+",
+    "-2",
+    "See below"
+   ]
+  ],
+  [
+   [
+    "MELEE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Jaggedy Blades",
+    "1\"",
+    "3",
+    "4+",
+    "4+",
+    "-",
+    "1"
+   ]
+  ]
+ ]
+}

@@ -1,0 +1,83 @@
+{
+ "IsLegends": true,
+ "Url": "https://wahapedia.ru/aos3/factions/gloomspite-gitz/Grot-Shaman",
+ "Faction": "Gloomspite Gitz",
+ "Title": "Grot Shaman",
+ "Legend": "",
+ "PitchBattleProfile": {
+  "UnitSize": "1",
+  "Points": "90",
+  "Role": "Leader",
+  "BaseSize": "",
+  "Notes": "Single"
+ },
+ "Intro": "A Grot Shaman is armed with a Shaman Stick.",
+ "Rules": [
+  {
+   "Name": "Wizard",
+   "Fluff": "",
+   "Rule": "WIZARD: This unit can attempt to cast 1 spell in your hero phase and attempt to unbind 1 spell in the enemy hero phase."
+  },
+  {
+   "Name": "Mount",
+   "Fluff": "",
+   "Rule": "MOUNT: This unit can have a Giant Wolf mount that is armed with Slavering Jaws. If this unit has a Giant Wolf mount, it has a Move characteristic of 12\" instead of 5\"."
+  },
+  {
+   "Name": "Kunnin’ (Or Just Lucky)",
+   "Fluff": "",
+   "Rule": "ABILITIESKunnin’ (or just Lucky): This unit has a ward of 5+."
+  },
+  {
+   "Name": "Sneaky Stabbin’",
+   "Fluff": "",
+   "Rule": "Sneaky Stabbin’ is a spell that has a casting value of 7 and a range of 16\". If successfully cast, you can pick 1 friendly GROT unit within range and visible to the caster. Add 1 to wound rolls for that unit until your next hero phase."
+  }
+ ],
+ "Keywords": [
+  "Destruction",
+  "Gloomspite Gitz",
+  "Grot",
+  "Hero",
+  "Wizard",
+  "Grot",
+  "Shaman"
+ ],
+ "Profile": {
+  "Movement": "5\"",
+  "Wounds": "4",
+  "Save": "6+",
+  "Bravery": "5"
+ },
+ "Tables": [
+  [
+   [
+    "MELEE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Shaman Stick",
+    "2\"",
+    "1",
+    "4+",
+    "4+",
+    "-1",
+    "D3"
+   ],
+   [
+    "Slavering Jaws",
+    "1\"",
+    "2",
+    "4+",
+    "4+",
+    "-",
+    "1"
+   ]
+  ]
+ ]
+}

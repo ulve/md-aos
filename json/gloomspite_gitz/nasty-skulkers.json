@@ -1,0 +1,57 @@
+{
+ "IsLegends": true,
+ "Url": "https://wahapedia.ru/aos3/factions/gloomspite-gitz/Nasty-Skulkers",
+ "Faction": "Gloomspite Gitz",
+ "Title": "Nasty Skulkers",
+ "Legend": "",
+ "PitchBattleProfile": {
+  "UnitSize": "3",
+  "Points": "50",
+  "Role": "None",
+  "BaseSize": "",
+  "Notes": ""
+ },
+ "Intro": "Each model in a Nasty Skulkers unit is armed with vicious Back Stabbas.",
+ "Rules": [
+  {
+   "Name": "Right In Da ’Urty Bitz!",
+   "Fluff": "",
+   "Rule": "Right in da ’Urty Bitz!: If the unmodified hit roll for an attack made with a Back Stabba is 6, the target suffers 1 mortal wound and the attack sequence ends (do not make a wound roll or save roll)."
+  }
+ ],
+ "Keywords": [
+  "Destruction",
+  "Gloomspite Gitz",
+  "Grot",
+  "Nasty",
+  "Skulkers"
+ ],
+ "Profile": {
+  "Movement": "5\"",
+  "Wounds": "1",
+  "Save": "6+",
+  "Bravery": "4"
+ },
+ "Tables": [
+  [
+   [
+    "MELEE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Back Stabba",
+    "1\"",
+    "2",
+    "5+",
+    "5+",
+    "-1",
+    "1"
+   ]
+  ]
+ ]
+}

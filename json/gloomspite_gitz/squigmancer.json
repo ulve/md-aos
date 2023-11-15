@@ -1,0 +1,84 @@
+{
+ "IsLegends": true,
+ "Url": "https://wahapedia.ru/aos3/factions/gloomspite-gitz/Squigmancer",
+ "Faction": "Gloomspite Gitz",
+ "Title": "Squigmancer",
+ "Legend": "Squigmancers experience such vivid fungus-brew hallucinations that their magics spill out to animate the fungi around them and bring their visions to life. This can have deeply unpleasant effects for anyone stood too close!",
+ "PitchBattleProfile": {
+  "UnitSize": "1",
+  "Points": "240",
+  "Role": "Leader",
+  "BaseSize": "",
+  "Notes": "Squigmonger, Squigmancer, Squigcap Shaman and Squig Herder with Mini-Mangler must be taken as a set for a total of 240 points. Although taken as a set, each is a separate unit."
+ },
+ "Intro": "BATTALIONSThis warscroll can be used in the following warscroll battalions: • Bosses of the Skrap • Squigapalooza",
+ "Rules": [
+  {
+   "Name": "",
+   "Fluff": "",
+   "Rule": "DESCRIPTIONA Squigmancer is a single model armed with a Moon Staff and Jaggedy Knife."
+  },
+  {
+   "Name": "Fly",
+   "Fluff": "",
+   "Rule": "FLY: This unit can fly."
+  },
+  {
+   "Name": "Hallucinogenic Fungus Brews",
+   "Fluff": "Squigapalooza shamans drink long draughts of hallucinogenic fungus brew before the battle begins, making them almost impervious to pain. However, as the battle progresses the effects start to wear off.",
+   "Rule": "ABILITIES In the first battle round, this unit has a ward of 5+. In the second battle round, this unit has a ward of 6+."
+  },
+  {
+   "Name": "Slippery Git",
+   "Fluff": "Squigapalooza shamans seek to put as many of their fellow squigs between themselves and incoming enemy fire as possible.",
+   "Rule": "Subtract 1 from hit rolls for attacks made with missile weapons that target this model while it is within 3\" of a friendly MOONCLAN unit with 3 or more models."
+  },
+  {
+   "Name": "Fungoid Cloud",
+   "Fluff": "",
+   "Rule": "MAGICThis model is a WIZARD. It can attempt to cast one spell in your hero phase and attempt to unbind one spell in the enemy hero phase. It knows the Fungoid Cloud spell."
+  },
+  {
+   "Name": "Fungoid Cloud",
+   "Fluff": "The Squigmancer stamps upon the squig he rides, releasing a cloud of magical spores that engulfs the enemy.",
+   "Rule": "Fungoid Cloud has a casting value of 6. If successfully cast, pick 1 enemy unit within 8\" of the caster that is visible to them. Until your next hero phase, subtract 1 from hit rolls for attacks made by that unit, and subtract 1 from save rolls for attacks that target that unit."
+  }
+ ],
+ "Keywords": [
+  "Destruction",
+  "Squig",
+  "Gloomspite Gitz",
+  "Moonclan",
+  "Squigapalooza",
+  "Wizard",
+  "Squigmancer"
+ ],
+ "Profile": {
+  "Movement": "2D6\"",
+  "Wounds": "5",
+  "Save": "6+",
+  "Bravery": "5"
+ },
+ "Tables": [
+  [
+   [
+    "MELEE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Moon Staff and Jaggedy Knife",
+    "2\"",
+    "2",
+    "4+",
+    "3+",
+    "-1",
+    "D3"
+   ]
+  ]
+ ]
+}

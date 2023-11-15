@@ -1,0 +1,80 @@
+{
+ "IsLegends": false,
+ "Url": "https://wahapedia.ru/aos3/factions/maggotkin-of-nurgle/Spoilpox-Scrivener-Herald-of-Nurgle",
+ "Faction": "Maggotkin of Nurgle",
+ "Title": "Spoilpox Scrivener, Herald of Nurgle",
+ "Legend": "Spoilpox Scriveners keep a strict watch over the tallying of the Plaguebearers. Should an enemy stray too close, they bite off heads and limbs with their trunklike maws, or blanket them in foul mucus with almighty sneezes.",
+ "PitchBattleProfile": {
+  "UnitSize": "1",
+  "Points": "100",
+  "Role": "Leader",
+  "BaseSize": "40",
+  "Notes": "Single"
+ },
+ "Intro": "A Spoilpox Scrivener, Herald of Nurgle, is armed with a Distended Maw and Disgusting Sneezes.",
+ "Rules": [
+  {
+   "Name": "Battalions",
+   "Fluff": "",
+   "Rule": "BATTALIONS: This warscroll can be used in the following warscroll battalions: • Rancid Retinue • Invidian Plaguehost"
+  }
+ ],
+ "Keywords": [
+  "Chaos",
+  "Daemon",
+  "Nurgle",
+  "Maggotkin Of Nurgle",
+  "Hero",
+  "Herald Of Nurgle",
+  "Spoilpox",
+  "Scrivener"
+ ],
+ "Profile": {
+  "Movement": "4\"",
+  "Wounds": "5",
+  "Save": "5+",
+  "Bravery": "10"
+ },
+ "Tables": [
+  [
+   [
+    "MISSILE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Disgusting Sneeze",
+    "7\"",
+    "D6",
+    "2+",
+    "4+",
+    "-",
+    "1"
+   ]
+  ],
+  [
+   [
+    "MELEE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Distended Maw",
+    "2\"",
+    "2",
+    "3+",
+    "3+",
+    "-2",
+    "2"
+   ]
+  ]
+ ]
+}

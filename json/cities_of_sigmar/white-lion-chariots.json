@@ -1,0 +1,73 @@
+{
+ "IsLegends": true,
+ "Url": "https://wahapedia.ru/aos3/factions/cities-of-sigmar/White-Lion-Chariots",
+ "Faction": "Cities of Sigmar",
+ "Title": "White Lion Chariots",
+ "Legend": "",
+ "PitchBattleProfile": {
+  "UnitSize": "1",
+  "Points": "90",
+  "Role": "None",
+  "BaseSize": "",
+  "Notes": ""
+ },
+ "Intro": "Each model in a White Lion Chariots unit is armed with Ranger Greataxes.",
+ "Rules": [
+  {
+   "Name": "Mount",
+   "Fluff": "",
+   "Rule": "MOUNT: This unit’s War Lions are armed with Fangs and Claws."
+  },
+  {
+   "Name": "Unbridled Ferocity",
+   "Fluff": "",
+   "Rule": "ABILITIES After a model in this unit finishes a charge move, roll a dice for each enemy unit within 1\" of that model. On a 3+, that unit suffers D3 mortal wounds. If this unit has more than 1 model, roll to determine if mortal wounds are inflicted after each model finishes its charge move, but do not allocate the mortal wounds until all of the models in the unit have finished their charge moves."
+  }
+ ],
+ "Keywords": [
+  "Order",
+  "Cities Of Sigmar",
+  "Aelf",
+  "Lion Rangers",
+  "White",
+  "Lion",
+  "Chariots"
+ ],
+ "Profile": {
+  "Movement": "9\"",
+  "Wounds": "6",
+  "Save": "4+",
+  "Bravery": "7"
+ },
+ "Tables": [
+  [
+   [
+    "MELEE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Ranger Greataxes",
+    "1\"",
+    "4",
+    "3+",
+    "3+",
+    "-1",
+    "1"
+   ],
+   [
+    "Fangs and Claws",
+    "1\"",
+    "4",
+    "4+",
+    "3+",
+    "-",
+    "1"
+   ]
+  ]
+ ]
+}

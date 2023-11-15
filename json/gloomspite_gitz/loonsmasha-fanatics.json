@@ -1,0 +1,64 @@
+{
+ "IsLegends": false,
+ "Url": "https://wahapedia.ru/aos3/factions/gloomspite-gitz/Loonsmasha-Fanatics",
+ "Faction": "Gloomspite Gitz",
+ "Title": "Loonsmasha Fanatics",
+ "Legend": "Armed with massive wrecking balls attached to lengths of chain, Loonsmasha Fanatics are driven loopy with fungus brew then unleashed upon the enemy in a whirling storm. Though they inevitably come to grief, they are sure to cause bloody carnage first.",
+ "PitchBattleProfile": {
+  "UnitSize": "5",
+  "Points": "110",
+  "Role": "None",
+  "BaseSize": "32",
+  "Notes": ""
+ },
+ "Intro": "Each model in a Loonsmasha Fanatics unit is armed with a Ball and Chain.",
+ "Rules": [
+  {
+   "Name": "Battalions",
+   "Fluff": "",
+   "Rule": "BATTALIONS: This warscroll can be used in the following warscroll battalions: • Skulkmob Horde"
+  },
+  {
+   "Name": "Whirling Death",
+   "Fluff": "To attack a grot Fanatic you must first dodge past their ball and chain.",
+   "Rule": "The strike-first effect applies to this unit."
+  }
+ ],
+ "Keywords": [
+  "Destruction",
+  "Gloomspite Gitz",
+  "Grot",
+  "Moonclan",
+  "Fanatic",
+  "Loonsmasha",
+  "Fanatics"
+ ],
+ "Profile": {
+  "Movement": "2D6\"",
+  "Wounds": "1",
+  "Save": "6+",
+  "Bravery": "10"
+ },
+ "Tables": [
+  [
+   [
+    "MELEE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Ball and Chain",
+    "3\"",
+    "D6",
+    "4+",
+    "3+",
+    "-2",
+    "D3"
+   ]
+  ]
+ ]
+}

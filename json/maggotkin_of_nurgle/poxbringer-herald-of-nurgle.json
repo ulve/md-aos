@@ -1,0 +1,75 @@
+{
+ "IsLegends": false,
+ "Url": "https://wahapedia.ru/aos3/factions/maggotkin-of-nurgle/Poxbringer-Herald-of-Nurgle",
+ "Faction": "Maggotkin of Nurgle",
+ "Title": "Poxbringer, Herald of Nurgle",
+ "Legend": "Poxbringers serve as the festering right hands of the Great Unclean Ones. They lead the tallybands into the thick of battle, wielding gangrenous magics and befouled blades to strike down their enemies.",
+ "PitchBattleProfile": {
+  "UnitSize": "1",
+  "Points": "130",
+  "Role": "Leader",
+  "BaseSize": "32",
+  "Notes": "Single"
+ },
+ "Intro": "A Poxbringer, Herald of Nurgle, is armed with a Balesword.",
+ "Rules": [
+  {
+   "Name": "Battalions",
+   "Fluff": "",
+   "Rule": "BATTALIONS: This warscroll can be used in the following warscroll battalions: • Rancid Retinue"
+  },
+  {
+   "Name": "Wizard",
+   "Fluff": "",
+   "Rule": "WIZARD: This unit can attempt to cast 1 spell in your hero phase and attempt to unbind 1 spell in the enemy hero phase."
+  },
+  {
+   "Name": "Captain Of The Tallybands",
+   "Fluff": "Poxbringers lead their fellow Plaguebearers into battle and ensure that the orders of the Great Unclean Ones are followed to the letter.",
+   "Rule": "Captain of the Tallybands: In the combat phase, when you pick this unit to fight for the first time in that phase, you can pick 1 friendly PLAGUEBEARER HOST wholly within 12\" of this unit and that has not yet fought in that phase. This unit and that PLAGUEBEARER HOST can fight one after the other in the order of your choice."
+  },
+  {
+   "Name": "Eruptive Infestation",
+   "Fluff": "The wizard causes the buboes on a group of Plaguebearers to rapidly swell and erupt, showering nearby foes with toxic pus.",
+   "Rule": "Eruptive Infestation is a spell that has a casting value of 6. If successfully cast, pick 1 enemy unit that is within 3\" of a friendly PLAGUEBEARER HOST that is visible to the caster. That enemy unit suffers D3 mortal wounds."
+  }
+ ],
+ "Keywords": [
+  "Chaos",
+  "Daemon",
+  "Nurgle",
+  "Maggotkin Of Nurgle",
+  "Hero",
+  "Wizard",
+  "Herald Of Nurgle",
+  "Poxbringer"
+ ],
+ "Profile": {
+  "Movement": "4\"",
+  "Wounds": "5",
+  "Save": "4+",
+  "Bravery": "10"
+ },
+ "Tables": [
+  [
+   [
+    "MELEE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Balesword",
+    "1\"",
+    "4",
+    "3+",
+    "3+",
+    "-1",
+    "D3"
+   ]
+  ]
+ ]
+}

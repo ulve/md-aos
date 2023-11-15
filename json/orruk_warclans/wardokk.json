@@ -1,0 +1,64 @@
+{
+ "IsLegends": false,
+ "Url": "https://wahapedia.ru/aos3/factions/orruk-warclans/Wardokk",
+ "Faction": "Orruk Warclans",
+ "Title": "Wardokk",
+ "Legend": "Each Wardokk is a potent shaman, their maddened capering a tribute to the Great Green God. The magic of their ritual dances can shield their allies from harm, attract yet more Waaagh! energy, and even heal the most grievous of wounds.",
+ "PitchBattleProfile": {
+  "UnitSize": "1",
+  "Points": "80",
+  "Role": "Leader",
+  "BaseSize": "32",
+  "Notes": "Single"
+ },
+ "Intro": "A Wardokk is armed with a Bonebeast Stikk.",
+ "Rules": [
+  {
+   "Name": "Battalions",
+   "Fluff": "",
+   "Rule": "BATTALIONS: This warscroll can be used in the following warscroll battalions: • Kop Rukk • Da Snorter’s Kop Rukk"
+  },
+  {
+   "Name": "Wizard",
+   "Fluff": "",
+   "Rule": "WIZARD: This unit can attempt to cast 1 spell in your hero phase and attempt to unbind 1 spell in the enemy hero phase."
+  }
+ ],
+ "Keywords": [
+  "Destruction",
+  "Orruk Warclans",
+  "Orruk",
+  "Bonesplitterz",
+  "Hero",
+  "Wizard",
+  "Wardokk"
+ ],
+ "Profile": {
+  "Movement": "5\"",
+  "Wounds": "5",
+  "Save": "6+",
+  "Bravery": "7"
+ },
+ "Tables": [
+  [
+   [
+    "MELEE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Bonebeast Stikk",
+    "1\"",
+    "1",
+    "4+",
+    "3+",
+    "-",
+    "D3"
+   ]
+  ]
+ ]
+}

@@ -1,0 +1,136 @@
+{
+ "IsLegends": true,
+ "Url": "https://wahapedia.ru/aos3/factions/orruk-warclans/Dread-Maw",
+ "Faction": "Orruk Warclans",
+ "Title": "Dread Maw",
+ "Legend": "Dread Maws are massive reptilian worms that spend most of their lives below ground, only surfacing to hunt. They use their hard rock-like coils to bind and crush their prey, and are able to tunnel through rock and soil as a fish swims through water.",
+ "PitchBattleProfile": {
+  "UnitSize": "1",
+  "Points": "495",
+  "Role": "Behemoth",
+  "BaseSize": "120 x 92",
+  "Notes": "Single"
+ },
+ "Intro": "A Dread Maw is armed with a Cavernous Maw, Writhing Coils and Slime Spray.",
+ "Rules": [
+  {
+   "Name": "Monstrous Ally",
+   "Fluff": "",
+   "Rule": "MONSTROUS ALLY: This unit can be included as an allied unit in an army whose general has the DESTRUCTION or ORDER keyword."
+  },
+  {
+   "Name": "Devourer From Below",
+   "Fluff": "The Dread Maw’s ability to burrow through the ground means that it can emerge from any part of a battlefield without hindrance, taking its prey by surprise.",
+   "Rule": "ABILITIES During deployment, instead of setting up this model on the battlefield, you can place it to one side and say that it is tunnelling through the earth in reserve. If you do so, at the end of your second movement phase, you must set up this model anywhere on the battlefield more than 9\" from all enemy units."
+  },
+  {
+   "Name": "Impenetrable Hide",
+   "Fluff": "Long exposure to the taint left behind from the Age of Chaos has made the armoured scales of Dread Maws all but impervious to harm.",
+   "Rule": "This model has a ward of 5+."
+  },
+  {
+   "Name": "Tunnel Worm",
+   "Fluff": "The Dread Maw grinds through rock and soil without resistance.",
+   "Rule": "When this model makes a move, it can pass across terrain features and other models in the same manner as a model that can fly."
+  },
+  {
+   "Name": "Yawning Maw",
+   "Fluff": "Their circular mouths studded with rows of sickle-shaped teeth, Dread Maws can swallow a fully armoured man whole.",
+   "Rule": "Add 1 wound rolls for attacks made a Cavernous Maw if the target unit has a Wounds characteristic of 2 or less."
+  }
+ ],
+ "Keywords": [
+  "Monster",
+  "Dread",
+  "Maw"
+ ],
+ "Profile": {
+  "Movement": "*",
+  "Wounds": "14",
+  "Save": "3+",
+  "Bravery": "6"
+ },
+ "Tables": [
+  [
+   [
+    "MISSILE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Slime Spray",
+    "12\"",
+    "1",
+    "4+",
+    "3+",
+    "-2",
+    "D6"
+   ]
+  ],
+  [
+   [
+    "MELEE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Cavernous Maw",
+    "3\"",
+    "3",
+    "3+",
+    "2+",
+    "*",
+    "D6"
+   ],
+   [
+    "Writhing Coils",
+    "2\"",
+    "*",
+    "4+",
+    "4+",
+    "-1",
+    "1"
+   ]
+  ],
+  [
+   [
+    "Wounds Suffered",
+    "Move",
+    "Cavernous Maw",
+    "Writhing Coils"
+   ],
+   [
+    "0-6",
+    "14\"",
+    "-3",
+    "3D6"
+   ],
+   [
+    "7-8",
+    "12\"",
+    "-2",
+    "2D6"
+   ],
+   [
+    "9-10",
+    "10\"",
+    "-2",
+    "D6"
+   ],
+   [
+    "11+",
+    "8\"",
+    "-1",
+    "D3"
+   ]
+  ]
+ ]
+}

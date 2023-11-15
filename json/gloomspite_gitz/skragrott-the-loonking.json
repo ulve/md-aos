@@ -1,0 +1,96 @@
+{
+ "IsLegends": false,
+ "Url": "https://wahapedia.ru/aos3/factions/gloomspite-gitz/Skragrott-the-Loonking",
+ "Faction": "Gloomspite Gitz",
+ "Title": "Skragrott, the Loonking",
+ "Legend": "Skragrott is the self-styled Loonking, the master of all subterranean grots and herald of the Everdank. His sinister presence upon the field of battle ensures the Gloomspite Gitz fight with greater spite and cunning than ever.",
+ "PitchBattleProfile": {
+  "UnitSize": "1",
+  "Points": "230",
+  "Role": "Leader",
+  "BaseSize": "60 x 35",
+  "Notes": "Single, Unique"
+ },
+ "Intro": "Skragrott, the Loonking, is armed with Da Moon Onna Stikk.",
+ "Rules": [
+  {
+   "Name": "Battalions",
+   "Fluff": "",
+   "Rule": "BATTALIONS: This warscroll can be used in the following warscroll battalions: • Bosses of the Skrap • Skulkmob Horde"
+  },
+  {
+   "Name": "Warmaster",
+   "Fluff": "",
+   "Rule": "WARMASTER: If this unit is included in a Gloomspite Gitz army, it is treated as a general even if it is not the model picked to be the army’s general."
+  },
+  {
+   "Name": "Wizard",
+   "Fluff": "",
+   "Rule": "WIZARD: This unit can attempt to cast 2 spells in your hero phase and attempt to unbind 2 spells in the enemy hero phase. If this unit is part of a Gloomspite Gitz army, it knows all of the spells from the Lore of the Moonclans in addition to the other spells it knows."
+  },
+  {
+   "Name": "Babbling Wand",
+   "Fluff": "This jabbering wand, topped with the skull of the great prophet Kaloth, channels the voices of Skragrott’s imprisoned scryers through clacking teeth.",
+   "Rule": "Once per turn, this unit can issue a command without a command point being spent."
+  },
+  {
+   "Name": "Da Moon Onna Stikk",
+   "Fluff": "The Loonking’s staff brings the lurid glow of the Bad Moon with him wherever he goes.",
+   "Rule": "If this unit is included in a Gloomspite Gitz army, friendly GLOOMSPITE GITZ units are affected by the Light of the Bad Moon while they are wholly within 12\" of this unit."
+  },
+  {
+   "Name": "Loonking’s Crown",
+   "Fluff": "Fungal roots burrow down from this crown into the wearer’s skull, imbuing them with heightened magical powers and unnatural resilience.",
+   "Rule": "This unit has a ward of 4+. In addition, add 1 to casting and unbinding rolls for this unit."
+  },
+  {
+   "Name": "The Loonking’s Entreaty",
+   "Fluff": "The captive seers and prophets of Skragrott’s asylum can sometimes predict when the Bad Moon will accelerate or slow in its erratic orbits of the Mortal Realms. Skragrott uses this information to convince his followers that the Bad Moon listens when he entreats it to halt or move to a specific location.",
+   "Rule": "Once per battle, before you roll a dice to determine if the Bad Moon moves at the start of a battle round, if this unit is on the battlefield, you can say that Skragrott will reveal his prediction. If you do so, do not roll a dice. Instead, you can choose if the Bad Moon moves to the next location or stays in its current location."
+  },
+  {
+   "Name": "Fangz Of Da Bad Moon",
+   "Fluff": "As Skragrott tells it, a single shrieked invocation from him - arms raised high into the air - can compel the Bad Moon to belch a rain of fiendishly accurate loonstone fangz over the enemy.",
+   "Rule": "Fangz of da Bad Moon: Fangz of da Bad Moon is a spell that has a casting value of 3 and a range of 24\". If successfully cast, pick 1 enemy unit within range and visible to the caster and roll a number of dice equal to the unmodified casting roll. For each 3+, that unit suffers 1 mortal wound."
+  }
+ ],
+ "Keywords": [
+  "Destruction",
+  "Gloomspite Gitz",
+  "Grot",
+  "Moonclan",
+  "King’s Gitz",
+  "Hero",
+  "Wizard",
+  "Loonboss",
+  "Skragrott"
+ ],
+ "Profile": {
+  "Movement": "5\"",
+  "Wounds": "6",
+  "Save": "5+",
+  "Bravery": "6"
+ },
+ "Tables": [
+  [
+   [
+    "MELEE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Da Moon Onna Stikk",
+    "2\"",
+    "3",
+    "3+",
+    "3+",
+    "-1",
+    "D3"
+   ]
+  ]
+ ]
+}

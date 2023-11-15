@@ -1,0 +1,142 @@
+{
+ "IsLegends": true,
+ "Url": "https://wahapedia.ru/aos3/factions/gloomspite-gitz/Troggoth-Hag",
+ "Faction": "Gloomspite Gitz",
+ "Title": "Troggoth Hag",
+ "Legend": "Unlike most of their race, Troggoth Hags are possessed of both arcane powers and a modicum of intelligence. They serve as leaders and envoys of the troggoth tribes, communicating in ways even the most dim-witted of their kin can understand.",
+ "PitchBattleProfile": {
+  "UnitSize": "1",
+  "Points": "405",
+  "Role": "Leader, Behemoth",
+  "BaseSize": "120 x 92",
+  "Notes": "Single"
+ },
+ "Intro": "A Troggoth Hag is armed with Copious Vomit, a Deadwood Staff and Crushing Bulk.",
+ "Rules": [
+  {
+   "Name": "Wizard",
+   "Fluff": "",
+   "Rule": "WIZARD: This model can attempt to cast 1 spell in your hero phase and attempt to unbind 1 spell in the enemy hero phase."
+  },
+  {
+   "Name": "Hag Regeneration",
+   "Fluff": "All troggoths have an innate ability to regenerate even the most grievous of injuries, and in the case of the Troggoth Hag, this trait is augmented further by the arcane energies coursing through her hulking physique.",
+   "Rule": "ABILITIES In your hero phase, you can heal up to D6 wounds allocated to this model."
+  },
+  {
+   "Name": "Spell-Spite",
+   "Fluff": "A Troggoth Hag carries with her sackfuls of strange fetishes and weird keepsakes, the most cursed of which are used to call down malignant hexes upon those that would dare wield hostile magic against her.",
+   "Rule": "Spell-spite: Each time this model successfully unbinds a spell, you can roll a dice. On a 4+, the caster of that spell suffers D3 mortal wounds."
+  },
+  {
+   "Name": "Terrible Stench",
+   "Fluff": "So foul is the dank swamp stench given off by Troggoth Hags that even the hardiest of warriors will retch uncontrollably in their presence.",
+   "Rule": "Subtract 1 from hit rolls for attacks made with melee weapons that target this model."
+  },
+  {
+   "Name": "Hag Curse",
+   "Fluff": "The cackling curses of the Troggoth Hag are insidious and vile, robbing her victims of strength and shackling them with ill fortune.",
+   "Rule": "Hag Curse is a spell that has a casting value of 7 and a range of 12\". If successfully cast, pick 1 enemy unit within range and visible to the caster. Until your next hero phase, subtract 1 from hit rolls for attacks made by that unit and subtract 1 from save rolls for attacks that target that unit."
+  }
+ ],
+ "Keywords": [
+  "Destruction",
+  "Gloomspite Gitz",
+  "Troggoth",
+  "Fellwater",
+  "Monster",
+  "Hero",
+  "Wizard",
+  "Troggoth",
+  "Hag"
+ ],
+ "Profile": {
+  "Movement": "*",
+  "Wounds": "16",
+  "Save": "4+",
+  "Bravery": "7"
+ },
+ "Tables": [
+  [
+   [
+    "MISSILE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Copious Vomit",
+    "10\"",
+    "*",
+    "3+",
+    "3+",
+    "-2",
+    "D3"
+   ]
+  ],
+  [
+   [
+    "MELEE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Deadwood Staff",
+    "2\"",
+    "4",
+    "4+",
+    "*",
+    "-1",
+    "3"
+   ],
+   [
+    "Crushing Bulk",
+    "1\"",
+    "D3",
+    "4+",
+    "3+",
+    "-",
+    "D6"
+   ]
+  ],
+  [
+   [
+    "Wounds Suffered",
+    "Move",
+    "Copious Vomit",
+    "Deadwood Staff"
+   ],
+   [
+    "0-8",
+    "8\"",
+    "6",
+    "2+"
+   ],
+   [
+    "9-11",
+    "7\"",
+    "5",
+    "3+"
+   ],
+   [
+    "12-13",
+    "6\"",
+    "4",
+    "3+"
+   ],
+   [
+    "14+",
+    "5\"",
+    "3",
+    "4+"
+   ]
+  ]
+ ]
+}

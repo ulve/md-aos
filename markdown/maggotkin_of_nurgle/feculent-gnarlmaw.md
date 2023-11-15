@@ -1,0 +1,43 @@
+# Feculent Gnarlmaw
+
+_Wherever Nurgle’s armies gather, Feculent Gnarlmaws take root. These disgusting trees ring with the tolling of entropic chimes, and shed rot-wet blossom to carpet the befouled earth beneath their boughs._
+
+
+| Movement | Wounds | Save | Bravery |
+|:--------:|:------:|:----:|:-------:|
+|  |  |  |  |
+
+* Points: **0**
+* Battlefield Role: **Faction Terrain Feature**
+
+_FACTION TERRAIN: Only Maggotkin of Nurgle armies can include this faction terrain feature._
+
+## Set-Up
+
+SET-UP: After territories are determined, you can set up this faction terrain feature wholly within your territory and more than 3" from all objectives, other terrain features, endless spells and invocations. If both players can set up faction terrain features at the same time, they must roll off and the winner chooses who sets up their faction terrain features first.
+
+## Impassable
+
+IMPASSABLE: You cannot move a model over this terrain feature unless it can fly, and you cannot move a model onto this terrain feature or set up a model on this terrain feature (even if it can fly).
+
+## Spreading Disease
+
+SPREADING DISEASE: This faction terrain feature can never be set up within 7" of another Feculent Gnarlmaw or within 3" of an objective or other terrain feature.
+
+## Uproot
+
+UPROOT: If this terrain feature is affected by a rule that says you cannot use the scenery rules on its warscroll for the rest of the battle, remove this terrain feature from play instead.
+
+## Encroaching Corruption
+
+_After a Feculent Gnarlmaw first emerges, its roots start to spread through the ground until they corrupt the landscape all around them._
+
+This terrain feature is treated as a friendly unit with the MAGGOTKIN OF NURGLE keyword for the purposes of the Diseased battle trait. In addition, at the start of your hero phase, you receive 1 extra contagion point for each Feculent Gnarlmaw in your army that is on the battlefield and has no enemy models within 3" of it.
+
+## Keywords
+
+
+
+## Source
+
+[Feculent Gnarlmaw](https://wahapedia.ru/aos3/factions/maggotkin-of-nurgle/Feculent-Gnarlmaw)

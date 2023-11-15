@@ -1,0 +1,81 @@
+{
+ "IsLegends": true,
+ "Url": "https://wahapedia.ru/aos3/factions/cities-of-sigmar/Dispossessed-Warriors",
+ "Faction": "Cities of Sigmar",
+ "Title": "Dispossessed Warriors",
+ "Legend": "",
+ "PitchBattleProfile": {
+  "UnitSize": "10",
+  "Points": "100",
+  "Role": "Battleline",
+  "BaseSize": "",
+  "Notes": ""
+ },
+ "Intro": "Each model in a Dispossessed Warriors unit is armed with one of the following weapon options: Duardin Axe or a Duardin Hammer; or Double-handed Duardin Axe. All models in the unit must be armed with the same weapon option.",
+ "Rules": [
+  {
+   "Name": "Champion",
+   "Fluff": "",
+   "Rule": "CHAMPION: 1 model in this unit can be a Veteran. Add 1 to the Attacks characteristic of that model’s melee weapon."
+  },
+  {
+   "Name": "Standard Bearer",
+   "Fluff": "",
+   "Rule": "STANDARD BEARER: 1 in every 10 models in this unit can be a Standard Bearer. Add 1 to the Bravery characteristic of this unit if it includes any Standard Bearers."
+  },
+  {
+   "Name": "Musician",
+   "Fluff": "",
+   "Rule": "MUSICIAN: 1 in every 10 models in this unit can be a Hornblower. You can add 1 to charge rolls for this unit if it includes any Hornblowers."
+  },
+  {
+   "Name": "Resolute In Defence",
+   "Fluff": "",
+   "Rule": "ABILITIESResolute in Defence: Add 1 to save rolls for attacks that target this unit if this unit has not made a charge move in the same turn."
+  }
+ ],
+ "Keywords": [
+  "Order",
+  "Cities Of Sigmar",
+  "Duardin",
+  "Dispossessed",
+  "Warriors"
+ ],
+ "Profile": {
+  "Movement": "4\"",
+  "Wounds": "1",
+  "Save": "4+",
+  "Bravery": "6"
+ },
+ "Tables": [
+  [
+   [
+    "MELEE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Duardin Axe or Duardin Hammer",
+    "1\"",
+    "1",
+    "3+",
+    "4+",
+    "-",
+    "1"
+   ],
+   [
+    "Double-handed Duardin Axe",
+    "1\"",
+    "1",
+    "4+",
+    "3+",
+    "-1",
+    "1"
+   ]
+  ]
+ ]
+}

@@ -1,0 +1,139 @@
+{
+ "IsLegends": true,
+ "Url": "https://wahapedia.ru/aos3/factions/cities-of-sigmar/Incarnate-Elemental-of-Beasts",
+ "Faction": "Cities of Sigmar",
+ "Title": "Incarnate Elemental of Beasts",
+ "Legend": "Elementals of Beasts are gruesome fusions of meat and bone, bound together and given will by the raw magic of Ghur. Savage beyond imagining, they slash and gore their way through whole armies, reducing their enemies to mutilated heaps of flesh.",
+ "PitchBattleProfile": {
+  "UnitSize": "1",
+  "Points": "325",
+  "Role": "Behemoth",
+  "BaseSize": "120 x 92",
+  "Notes": "Single"
+ },
+ "Intro": "An Incarnate Elemental of Beasts is armed with Savage Talons, Impaling Horns and Amber Breath.",
+ "Rules": [
+  {
+   "Name": "Monstrous Ally",
+   "Fluff": "",
+   "Rule": "MONSTROUS ALLY: This unit can be included as an allied unit in any army whose general has the DESTRUCTION or ORDER keyword."
+  },
+  {
+   "Name": "Savage Frenzy",
+   "Fluff": "These creatures are at their most dangerous in their final moments, lashing out at their enemies in vengeful hatred.",
+   "Rule": "ABILITIES If this model is slain, before removing it from play, it can fight. This model is then removed from play."
+  },
+  {
+   "Name": "Howl Of The Great Beast",
+   "Fluff": "The howl of an Incarnate Elemental of Beasts can freeze the blood of all who hear it.",
+   "Rule": "Howl of the Great Beast: Subtract 1 from the Bravery characteristic of enemy units while they are within 8\" of this model."
+  },
+  {
+   "Name": "Incarnate Of Ghur",
+   "Fluff": "Incarnate Elementals are able to draw upon the energies from their realm to increase their strength.",
+   "Rule": "Incarnate of Ghur: Add 1 to wound rolls for attacks made by this model if it is within 1\" of any terrain features with the Arcane or Mystical scenery rule from the Mysterious Terrain table (core rules, 28.1.3)."
+  },
+  {
+   "Name": "The Lure Of Spilt Blood",
+   "Fluff": "The potent aroma of freshly spilt blood sends these creatures into a frenzy.",
+   "Rule": "The Lure of Spilt Blood: You can re-roll charge rolls for this model if it is within 12\" of any enemy models that have any wounds allocated to them."
+  }
+ ],
+ "Keywords": [
+  "Ghur",
+  "Monster",
+  "Incarnate",
+  "Elemental",
+  "Of",
+  "Beasts"
+ ],
+ "Profile": {
+  "Movement": "*",
+  "Wounds": "14",
+  "Save": "",
+  "Bravery": "10"
+ },
+ "Tables": [
+  [
+   [
+    "MISSILE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Amber Breath",
+    "12\"",
+    "D6",
+    "5+",
+    "3+",
+    "-2",
+    "D3"
+   ]
+  ],
+  [
+   [
+    "MELEE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Savage Talons",
+    "2\"",
+    "*",
+    "3+",
+    "4+",
+    "-2",
+    "1"
+   ],
+   [
+    "Impaling Horns",
+    "2\"",
+    "4",
+    "4+",
+    "3+",
+    "-1",
+    "D3"
+   ]
+  ],
+  [
+   [
+    "Wounds Suffered",
+    "Move",
+    "Save",
+    "Savage Talons"
+   ],
+   [
+    "0-5",
+    "10\"",
+    "3+",
+    "12"
+   ],
+   [
+    "6-8",
+    "8\"",
+    "4+",
+    "10"
+   ],
+   [
+    "9-11",
+    "7\"",
+    "4+",
+    "8"
+   ],
+   [
+    "12+",
+    "6\"",
+    "5+",
+    "6"
+   ]
+  ]
+ ]
+}

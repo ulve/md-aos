@@ -1,0 +1,68 @@
+# Terradon Riders
+
+_Few creatures can hope to match a Terradon for speed. The skinks who ride them are gifted aerial warriors, directing their mounts to swoop low over the enemy lines before releasing the meteoric rocks that the beasts clasp in their powerful hind claws._
+
+
+| Movement | Wounds | Save | Bravery |
+|:--------:|:------:|:----:|:-------:|
+| 16" | 3 | 6+ | 5 |
+
+* Unit Size: **3**
+* Points: **110**
+* Battlefield Role: **None**
+* Base size: **50**
+
+| MISSILE WEAPONS | Range | Attacks | To Hit | To WoundTo Wnd | Rend | DamageDmg |
+|:---|:--:|:--:|:--:|:--:|:--:|:--:|
+| Starstrike Javelin | 12" | 2 | 4+ | 3+ | -1 | 1 |
+| Sunleech Bolas | 6" | 4 | 4+ | 4+ | - | 1 |
+
+
+| MELEE WEAPONS | Range | Attacks | To Hit | To WoundTo Wnd | Rend | DamageDmg |
+|:---|:--:|:--:|:--:|:--:|:--:|:--:|
+| Razor-sharp Jaws | 1" | 4 | 4+ | 4+ | - | 1 |
+
+
+_Each model in a Terradon Riders unit is armed with 1 of the following weapon options: Starstrike Javelin; or Sunleech Bolas. All models in the unit must be armed with the same weapon option._
+
+## Battalions
+
+BATTALIONS: This warscroll can be used in the following warscroll battalions: • Shadowstrike Starhost • Shadowstrike Temple-host
+
+## Fly
+
+FLY: This unit can fly.
+
+## Mount
+
+MOUNT: This unit’s Terradons are each armed with Razor-sharp Jaws.
+
+## Champion
+
+CHAMPION: 1 model in this unit can be a Terradon Rider Alpha. Add 1 to the Attacks characteristic of that model’s Starstrike Javelin or Sunleech Bolas.
+
+## Deadly Cargo
+
+_Terradons carry heavy boulders hewn from meteoric rock and carved with sigils of destruction. When these are dropped upon enemy lines, those not immediately crushed are sent flying in all directions._
+
+Once per battle, after this unit finishes a normal move or run, you can pick 1 enemy unit and roll a dice for each model in this unit that passed across any models in that enemy unit. For each 4+, that enemy unit suffers D3 mortal wounds. In addition, if any mortal wounds caused by this ability are allocated to that enemy unit, halve the Move characteristic of that enemy unit until your next hero phase.
+
+## Attack From On High
+
+_Terradons circle high in the sky, only darting down for a brief moment to launch a strafing run._
+
+Attack from On High: Subtract 1 from hit rolls for attacks made with missile weapons that target this unit.
+
+## Keywords
+
+* Order
+* Seraphon
+* Skink
+* Terradon
+* Terradon
+* Riders
+
+
+## Source
+
+[Terradon Riders](https://wahapedia.ru/aos3/factions/seraphon/Terradon-Riders)

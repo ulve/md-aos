@@ -1,0 +1,61 @@
+{
+ "IsLegends": true,
+ "Url": "https://wahapedia.ru/aos3/factions/cities-of-sigmar/Excelsior-Warpriest",
+ "Faction": "Cities of Sigmar",
+ "Title": "Excelsior Warpriest",
+ "Legend": "This courageous mortal man has taken up arms to protect Sigmar’s faithful from Chaos, and has been gifted with the power to summon forth the divine light of Sigmar. With this holy radiance he scours away the abominations of Chaos even as he heals the wounds of his comrades in battle.",
+ "PitchBattleProfile": {
+  "UnitSize": "1",
+  "Points": "90",
+  "Role": "Leader",
+  "BaseSize": "",
+  "Notes": "Single"
+ },
+ "Intro": "An Excelsior Warpriest is armed with a Warhammer.",
+ "Rules": [
+  {
+   "Name": "Loyal Companion",
+   "Fluff": "",
+   "Rule": "ABILITIES The first time this unit is set up on the battlefield, you can summon 1 FREE CITY GRYPH-HOUNDS unit consisting of 1 model to the battlefield and add it to your army. Set up the FREE CITY GRYPH-HOUNDS unit wholly within 3\" of this unit and more than 9\" from all enemy units."
+  }
+ ],
+ "Keywords": [
+  "Order",
+  "Cities Of Sigmar",
+  "Human",
+  "Celestial",
+  "Devoted Of Sigmar",
+  "Hero",
+  "Priest",
+  "Excelsior",
+  "Warpriest"
+ ],
+ "Profile": {
+  "Movement": "6\"",
+  "Wounds": "5",
+  "Save": "4+",
+  "Bravery": "8"
+ },
+ "Tables": [
+  [
+   [
+    "MELEE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Warhammer",
+    "1\"",
+    "4",
+    "4+",
+    "4+",
+    "-",
+    "1"
+   ]
+  ]
+ ]
+}

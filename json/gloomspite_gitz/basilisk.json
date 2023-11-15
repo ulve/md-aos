@@ -1,0 +1,126 @@
+{
+ "IsLegends": true,
+ "Url": "https://wahapedia.ru/aos3/factions/gloomspite-gitz/Basilisk",
+ "Faction": "Gloomspite Gitz",
+ "Title": "Basilisk",
+ "Legend": "Basilisks are creatures so inimical to life that they poison the very ground they walk on. They are a living blight that can swiftly reduce an area to ruinous wasteland, destroying crops and slaughtering livestock with venom that suffuses both body and spirit.",
+ "PitchBattleProfile": {
+  "UnitSize": "1",
+  "Points": "175",
+  "Role": "Behemoth",
+  "BaseSize": "120 x 92",
+  "Notes": "Single"
+ },
+ "Intro": "A Basilisk is armed with Acidic Spittle, a Venomous Bite and Clutching Claws.",
+ "Rules": [
+  {
+   "Name": "Monstrous Ally",
+   "Fluff": "",
+   "Rule": "MONSTROUS ALLY: This unit can be included as an allied unit in an army whose general has the DESTRUCTION keyword."
+  },
+  {
+   "Name": "Corrosive Miasma",
+   "Fluff": "The poisons that emanate from the Basilisk’s skin are so toxic that they leave anyone nearby choking on their own blood as they fall victim to their corrosive effects.",
+   "Rule": "ABILITIES At the start of the combat phase, roll a dice for each enemy unit within 3\" of this model. On a 2+, that unit suffers 1 mortal wound."
+  },
+  {
+   "Name": "Malignant Gaze",
+   "Fluff": "The Basilisk focuses its malice upon its intended victim, its eyes radiating with evil as the enemy slowly melts into a pile of steaming flesh and blistering metal.",
+   "Rule": "In your hero phase, you can pick 1 enemy unit within 12\" of this model and visible to it, and roll a dice. On a 1, nothing happens. On a 2-3, that unit suffers D3 mortal wounds. On a 4+, that unit suffers D3+1 mortal wounds."
+  }
+ ],
+ "Keywords": [
+  "Destruction",
+  "Monster",
+  "Basilisk"
+ ],
+ "Profile": {
+  "Movement": "*",
+  "Wounds": "10",
+  "Save": "5+",
+  "Bravery": "5"
+ },
+ "Tables": [
+  [
+   [
+    "MISSILE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Acidic Spittle",
+    "10\"",
+    "1",
+    "5+",
+    "*",
+    "-1",
+    "1"
+   ]
+  ],
+  [
+   [
+    "MELEE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Venomous Bite",
+    "2\"",
+    "1",
+    "3+",
+    "3+",
+    "*",
+    "3"
+   ],
+   [
+    "Clutching Claws",
+    "1\"",
+    "6",
+    "4+",
+    "4+",
+    "-1",
+    "1"
+   ]
+  ],
+  [
+   [
+    "Wounds Suffered",
+    "Move",
+    "Venomous Bite",
+    "Acidic Spittle"
+   ],
+   [
+    "0-3",
+    "10\"",
+    "-2",
+    "2+"
+   ],
+   [
+    "4-5",
+    "9\"",
+    "-2",
+    "3+"
+   ],
+   [
+    "6-7",
+    "8\"",
+    "-1",
+    "4+"
+   ],
+   [
+    "8+",
+    "7\"",
+    "-1",
+    "5+"
+   ]
+  ]
+ ]
+}

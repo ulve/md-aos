@@ -1,0 +1,102 @@
+{
+ "IsLegends": false,
+ "Url": "https://wahapedia.ru/aos3/factions/gloomspite-gitz/Grinkrak-s-Looncourt",
+ "Faction": "Gloomspite Gitz",
+ "Title": "Grinkrak’s Looncourt",
+ "Legend": "The motley band of greenskins that make up the Looncourt have entirely bought into Grinkrak’s claims of knighthood, believing themselves to be holy guardians of the Stinkhorn. The Madcap quests they embark on never end well for anyone in their way.",
+ "PitchBattleProfile": {
+  "UnitSize": "6",
+  "Points": "190",
+  "Role": "",
+  "BaseSize": "",
+  "Notes": "Single, Unique. Grinkrak the Great and Grinkrak’s Looncourt units must be taken as a set. Although taken as a set, each is a Grinkrak’s Looncourt separate unit."
+ },
+ "Intro": "The models in Grinkrak’s Looncourt are Grib, da Wonky Lance; Pokin’ Snark; Skolko and Pronk; Snorbo da Spore; Pointy Burk; and Moonface Naggz.Grib is armed with a Wonky Lance. Pokin’ Snark is armed with a Squig Spear. Skolko and Pronk are armed with a Squigapult and Jaggedy Blade. Snorbo da Spore, Pointy Burk and Moonface Naggz are each armed with a Jaggedy Blade.",
+ "Rules": [
+  {
+   "Name": "The Looncourt’s Quest",
+   "Fluff": "It only takes a word from Grinkrak to send these gitz out on some ill-advised errantry quest.",
+   "Rule": "After this unit has been set up on the battlefield for the first time, you can pick 1 objective or 1 terrain feature in enemy territory to be the object of this unit’s quest. If you gain control of that objective or terrain feature while this unit is contesting it, this unit completes its quest. Once the quest is complete, for the rest of the battle, this unit has a ward of 4+."
+  },
+  {
+   "Name": "Grinkrak’s Toadies",
+   "Fluff": "According to the Looncourt, it is their noble duty to defend Grinkrak from all comers. That suits the bossgrot fine, if it means they catch the occasional sword or arrow for him.",
+   "Rule": "Before you allocate a wound or mortal wound to a friendly GRINKRAK, or instead of making a ward roll for a wound or mortal wound that would be allocated to a friendly GRINKRAK, if this unit is within 3\" of that friendly GRINKRAK, you can roll a dice. On a 1-2, that wound or mortal wound is allocated to that GRINKRAK as normal. On a 3+, that wound or mortal wound is allocated to this unit instead."
+  }
+ ],
+ "Keywords": [
+  "Destruction",
+  "Gloomspite Gitz",
+  "Grot",
+  "Moonclan",
+  "King’s Gitz",
+  "Grinkrak’s",
+  "Looncourt"
+ ],
+ "Profile": {
+  "Movement": "5\"",
+  "Wounds": "2",
+  "Save": "5+",
+  "Bravery": "5"
+ },
+ "Tables": [
+  [
+   [
+    "MISSILE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Squigapult",
+    "16\"",
+    "1",
+    "4+",
+    "3+",
+    "-1",
+    "D3+2"
+   ]
+  ],
+  [
+   [
+    "MELEE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Wonky Lance",
+    "2\"",
+    "3",
+    "3+",
+    "3+",
+    "-",
+    "D3"
+   ],
+   [
+    "Squig Spear",
+    "2\"",
+    "3",
+    "4+",
+    "3+",
+    "-1",
+    "1"
+   ],
+   [
+    "Jaggedy Blade",
+    "1\"",
+    "2",
+    "4+",
+    "4+",
+    "-",
+    "1"
+   ]
+  ]
+ ]
+}

@@ -1,0 +1,78 @@
+{
+ "IsLegends": true,
+ "Url": "https://wahapedia.ru/aos3/factions/orruk-warclans/Orruk-Boar-Chariots",
+ "Faction": "Orruk Warclans",
+ "Title": "Orruk Boar Chariots",
+ "Legend": "",
+ "PitchBattleProfile": {
+  "UnitSize": "1",
+  "Points": "90",
+  "Role": "None",
+  "BaseSize": "",
+  "Notes": ""
+ },
+ "Intro": "Each model in an Orruk Boar Chariots unit is armed with Boarboy Spears.",
+ "Rules": [
+  {
+   "Name": "Mount",
+   "Fluff": "",
+   "Rule": "MOUNT: This unit’s War Boars are armed with Jagged Tusks."
+  },
+  {
+   "Name": "Boarboy Charge",
+   "Fluff": "",
+   "Rule": "ABILITIES Add 1 wound rolls for attacks made with Boarboy Spears or Jagged Tusks if the attacking unit made a charge move in the same turn."
+  },
+  {
+   "Name": "Scythed Wheels",
+   "Fluff": "",
+   "Rule": "After a model from this unit finishes a charge move, roll a dice for each enemy unit within 1\" of that model. On a 2+, that unit suffers D3 mortal wounds. If this unit has more than 1 model, roll to determine if mortal wounds are caused after each model finishes its charge move, but do not allocate the mortal wounds until all of the models in the unit have finished their charge moves."
+  }
+ ],
+ "Keywords": [
+  "Destruction",
+  "Orruk Warclans",
+  "Orruk",
+  "Greenskinz",
+  "Orruk",
+  "Boar",
+  "Chariots"
+ ],
+ "Profile": {
+  "Movement": "9\"",
+  "Wounds": "6",
+  "Save": "4+",
+  "Bravery": "6"
+ },
+ "Tables": [
+  [
+   [
+    "MELEE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Boarboy Spears",
+    "2\"",
+    "2",
+    "4+",
+    "4+",
+    "-",
+    "1"
+   ],
+   [
+    "Jagged Tusks",
+    "1\"",
+    "4",
+    "4+",
+    "4+",
+    "-",
+    "1"
+   ]
+  ]
+ ]
+}

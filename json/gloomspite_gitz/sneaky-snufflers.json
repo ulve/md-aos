@@ -1,0 +1,77 @@
+{
+ "IsLegends": false,
+ "Url": "https://wahapedia.ru/aos3/factions/gloomspite-gitz/Sneaky-Snufflers",
+ "Faction": "Gloomspite Gitz",
+ "Title": "Sneaky Snufflers",
+ "Legend": "Dragged along by their eager Snufflesquigs, Sneaky Snufflers harvest Looncaps and other valuable magic fungi from the battlefield. They slash up anyone that gets in their way, and dole out mind-altering fungal treats to nearby grots for the fun of it.",
+ "PitchBattleProfile": {
+  "UnitSize": "6",
+  "Points": "140",
+  "Role": "None",
+  "BaseSize": "32",
+  "Notes": ""
+ },
+ "Intro": "Each model in a Sneaky Snufflers unit is armed with a Loonfungus Sickle.",
+ "Rules": [
+  {
+   "Name": "Battalions",
+   "Fluff": "",
+   "Rule": "BATTALIONS: This warscroll can be used in the following warscroll battalions: • Squiggly Hangerz-on"
+  },
+  {
+   "Name": "Companions",
+   "Fluff": "",
+   "Rule": "COMPANIONS: Each model in this unit is accompanied by a Snufflesquig armed with Gnashers."
+  },
+  {
+   "Name": "Off Their ’Eads",
+   "Fluff": "These grots are known to occasionally snack on the various strains of fungi that their Snufflesquigs unearth. Before long they are oblivious to pain... and pretty much everything else to boot.",
+   "Rule": "This unit has a ward of 5+."
+  }
+ ],
+ "Keywords": [
+  "Destruction",
+  "Gloomspite Gitz",
+  "Grot",
+  "Moonclan",
+  "Sneaky",
+  "Snufflers"
+ ],
+ "Profile": {
+  "Movement": "5\"",
+  "Wounds": "2",
+  "Save": "6+",
+  "Bravery": "4"
+ },
+ "Tables": [
+  [
+   [
+    "MELEE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Loonfungus Sickle",
+    "2\"",
+    "3",
+    "4+",
+    "4+",
+    "-1",
+    "1"
+   ],
+   [
+    "Gnashers",
+    "1\"",
+    "2",
+    "4+",
+    "4+",
+    "-",
+    "1"
+   ]
+  ]
+ ]
+}

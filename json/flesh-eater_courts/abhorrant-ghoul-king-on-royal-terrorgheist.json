@@ -1,0 +1,178 @@
+{
+ "IsLegends": false,
+ "Url": "https://wahapedia.ru/aos3/factions/flesh-eater-courts/Abhorrant-Ghoul-King-on-Royal-Terrorgheist",
+ "Faction": "Flesh-eater Courts",
+ "Title": "Abhorrant Ghoul King on Royal Terrorgheist",
+ "Legend": "A spine-chilling shadow against the sky, the Abhorrant Ghoul King and his Terrorgheist embody the eternal darkness of undeath. From the gaping maw of the massive bat-beast, a shrill scream cuts across the battlefield, turning blood to ice.",
+ "PitchBattleProfile": {
+  "UnitSize": "1",
+  "Points": "450",
+  "Role": "Leader, Behemoth",
+  "BaseSize": "130",
+  "Notes": "Single"
+ },
+ "Intro": "BATTALIONSThis warscroll can be used in the following warscroll battalions: • Royal Family • Mortevell’s Helcourt",
+ "Rules": [
+  {
+   "Name": "",
+   "Fluff": "",
+   "Rule": "DESCRIPTIONAn Abhorrant Ghoul King on Royal Terrorgheist is a single model armed with Gory Talons and Fangs."
+  },
+  {
+   "Name": "Mount",
+   "Fluff": "",
+   "Rule": "MOUNT: This model’s Royal Terrorgheist attacks with its Death Shriek, Skeletal Claws and Fanged Maw."
+  },
+  {
+   "Name": "Fly",
+   "Fluff": "",
+   "Rule": "FLY: This model can fly."
+  },
+  {
+   "Name": "Death Shriek",
+   "Fluff": "The terrifying shriek of a Terrorgheist is enough to stop a warrior’s heart.",
+   "Rule": "ABILITIES Do not use the attack sequence for an attack made with this model’s Death Shriek. Instead roll a dice and add the Death Shriek value shown on this model’s damage table. If the total is higher than the target unit’s Bravery characteristic, the target unit suffers a number of mortal wounds equal to the difference between its Bravery characteristic and the total."
+  },
+  {
+   "Name": "Gaping Maw",
+   "Fluff": "This horrific creature bites a great chunk out of its prey, or even swallows it whole.",
+   "Rule": "If the unmodified hit roll for an attack made with this model’s Fanged Maw is 6, that attack inflicts 6 mortal wounds on the target unit and the attack sequence ends (do not make a wound or save roll)."
+  },
+  {
+   "Name": "Infested",
+   "Fluff": "When a Terrorgheist is finally destroyed, it explodes into a swarm of bats that feast on those nearby.",
+   "Rule": "If this model is slain, before this model is removed from play each unit within 3\" of this model suffers D3 mortal wounds."
+  },
+  {
+   "Name": "Royal Blood",
+   "Fluff": "The vampiric blood that courses through a Ghoul King’s veins can heal even the most terrible wounds.",
+   "Rule": "In your hero phase, you can heal up to D3 wounds allocated to this model."
+  },
+  {
+   "Name": "Unholy Vitality",
+   "Fluff": "",
+   "Rule": "MAGICThis model is a WIZARD. It can attempt to cast one spell in your hero phase, and attempt to unbind one spell in the enemy hero phase. It knows the Arcane Bolt, Mystic Shield and Unholy Vitality spells."
+  },
+  {
+   "Name": "Unholy Vitality",
+   "Fluff": "The Abhorrant Ghoul King infuses the crooked bodies of his minions with dark magic, making it nigh impossible for their enemies to stop their ravenous onslaught.",
+   "Rule": "Unholy Vitality has a casting value of 6. If successfully cast, pick 1 friendly FLESH-EATER COURTS unit wholly within 24\" of the caster and visible to them. Until your next hero phase, roll a dice each time you allocate a wound or mortal wound to that unit. On a 5+ that wound or mortal wound is negated."
+  },
+  {
+   "Name": "Summon Royal Guard",
+   "Fluff": "With a snarled command, the Ghoul King calls forth his most elite retainers.",
+   "Rule": "COMMAND ABILITIES You can use this command ability at the end of your movement phase. If you do so, pick 1 friendly model that has this command ability and has not used it before in the battle. That model summons 1 unit of up to 3 KNIGHTS to the battlefield. The summoned unit is added to your army, and must be set up wholly within 6\" of the edge of the battlefield and more than 9\" from any enemy units."
+  }
+ ],
+ "Keywords": [
+  "Death",
+  "Vampire",
+  "Flesh-Eater Courts",
+  "Abhorrant",
+  "Monster",
+  "Hero",
+  "Wizard",
+  "Abhorrant Ghoul King"
+ ],
+ "Profile": {
+  "Movement": "*",
+  "Wounds": "14",
+  "Save": "4+",
+  "Bravery": "10"
+ },
+ "Tables": [
+  [
+   [
+    "MISSILE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Death Shriek",
+    "10\"",
+    "1",
+    "See below"
+   ]
+  ],
+  [
+   [
+    "MELEE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Gory Talons and Fangs",
+    "1\"",
+    "5",
+    "3+",
+    "3+",
+    "-1",
+    "1"
+   ],
+   [
+    "Skeletal Claws",
+    "2\"",
+    "*",
+    "4+",
+    "3+",
+    "-1",
+    "D3"
+   ],
+   [
+    "Fanged Maw",
+    "3\"",
+    "3",
+    "4+",
+    "3+",
+    "-2",
+    "D6"
+   ]
+  ],
+  [
+   [
+    "Wounds Suffered",
+    "Move",
+    "Death Shriek",
+    "Skeletal Claws"
+   ],
+   [
+    "0-3",
+    "14\"",
+    "6",
+    "4"
+   ],
+   [
+    "4-6",
+    "12\"",
+    "5",
+    "4"
+   ],
+   [
+    "7-9",
+    "10\"",
+    "4",
+    "3"
+   ],
+   [
+    "10-12",
+    "8\"",
+    "3",
+    "3"
+   ],
+   [
+    "13+",
+    "6\"",
+    "2",
+    "2"
+   ]
+  ]
+ ]
+}

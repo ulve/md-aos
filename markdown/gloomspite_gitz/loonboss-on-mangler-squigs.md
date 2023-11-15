@@ -1,0 +1,87 @@
+# Loonboss on Mangler Squigs
+
+_It takes a particularly deranged loon to lead the charge whilst clinging on to a pair of Mangler Squigs, but this Loonboss - along with some of his most bonkers cronies - is only too eager to do so, crushing all in his path while he’s at it._
+
+
+| Movement | Wounds | Save | Bravery |
+|:--------:|:------:|:----:|:-------:|
+| * | 14 | 4+ | 10 |
+
+* Unit Size: **1**
+* Points: **340**
+* Battlefield Role: **Leader, Behemoth**
+* Base size: **80**
+* Notes: **Single**
+
+| MELEE WEAPONS | Range | Attacks | To Hit | To WoundTo Wnd | Rend | DamageDmg |
+|:---|:--:|:--:|:--:|:--:|:--:|:--:|
+| Moon-cutta | 1" | 5 | 3+ | 3+ | -1 | 2 |
+| Huge Fang-filled Gobs | 2" | 4 | * | 3+ | -1 | D6 |
+| Balls and Chains | 2" | * | 3+ | 3+ | -2 | D3 |
+| Bashin’ Stikks | 1" | 4 | 4+ | 4+ | - | 1 |
+
+
+| Wounds Suffered | Move | Huge Fang-filled Gobs | Balls and Chains |
+|:---|:--:|:--:|:--:|
+| 0-6 | D6+10" | 3+ | 7 |
+| 7-9 | D6+7" | 4+ | 6 |
+| 10-12 | D6+5" | 5+ | 5 |
+| 13+ | D6+10" | 2+ | 8 |
+
+
+_A Loonboss on Mangler Squigs is armed with a Moon-cutta._
+
+## Battalions
+
+BATTALIONS: This warscroll can be used in the following warscroll battalions: • Bosses of the Skrap • Skulkmob Horde • Squigalanche
+
+## Mount
+
+MOUNT: This unit’s Mangler Squigs are armed with Huge Fang-filled Gobs and Balls and Chains.
+
+## Crew
+
+CREW: This unit is accompanied by a grot crew armed with Bashin’ Stikks.
+
+## Fly
+
+FLY: This unit can fly.
+
+## Ker-Splat!
+
+_Mangler Squigs produce an impact that is nothing short of spectacular, sending severed body parts and splashes of gore skywards._
+
+Ker-splat!: After this unit makes a charge move, pick 1 enemy unit within 1" of this unit and roll a dice for each model in that unit, to a maximum of 10 dice. For each 4+, that unit suffers 1 mortal wound.
+
+## Watch Out!
+
+_Mangler Squigs are capable of great destruction even in their wildly bouncing death throes._
+
+If this model is slain, before it is removed from play, roll a dice for each other unit within 3" of this model. On a 4+, that unit suffers D3 mortal wounds.
+
+## Bite Da Moon!
+
+_A Mangler Squig Loonboss can inspire other squig riders and their mounts to fight all the harder, crashing through the enemy so they can continue their pursuit of the Bad Moon._
+
+Once per battle, at the start of the combat phase, you can say that this unit will use this ability. If you do so, until the end of the phase, add 1 to wound rolls for friendly SQUIG units while they are wholly within 18" of this unit.
+
+## Keywords
+
+* Destruction
+* Gloomspite Gitz
+* Grot
+* Squig
+* Moonclan
+* Monster
+* Hero
+* Loonboss
+* Mangler Squigs
+* Loonboss
+* On
+* Mangler
+* Squigs
+
+
+## Source
+
+[Loonboss on Mangler Squigs](https://wahapedia.ru/aos3/factions/gloomspite-gitz/Loonboss-on-Mangler-Squigs)

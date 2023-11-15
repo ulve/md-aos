@@ -1,0 +1,72 @@
+{
+ "IsLegends": false,
+ "Url": "https://wahapedia.ru/aos3/factions/stormcast-eternals/Lord-Ordinator",
+ "Faction": "Stormcast Eternals",
+ "Title": "Lord-Ordinator",
+ "Legend": "Proficient in arcane engineering and the reading of portents, the Lord-Ordinators are a potent force. Such traits make them excellent artillery commanders, and they expertly direct the war machinery of their allies to annihilate their foes.",
+ "PitchBattleProfile": {
+  "UnitSize": "1",
+  "Points": "110",
+  "Role": "Leader",
+  "BaseSize": "40",
+  "Notes": "Single"
+ },
+ "Intro": "A Lord-Ordinator is armed with 1 of the following weapon options: Astral Hammers; or Astral Grandhammer.",
+ "Rules": [
+  {
+   "Name": "Arcane Engineer",
+   "Fluff": "A Lord-Ordinator is a scryer of possibilities. Those under their command gain insights into the movements of the enemy.",
+   "Rule": "Add 1 to hit rolls for attacks made by friendly ORDER WAR MACHINES wholly within 9\" of any friendly units with this ability."
+  },
+  {
+   "Name": "Comet Strike",
+   "Fluff": "A blow from an astral weapon can shatter most types of armour.",
+   "Rule": "If the unmodified hit roll for an attack made with a melee weapon by this unit is 6, the target suffers 2 mortal wounds and the attack sequence ends (do not make a wound or save roll)."
+  }
+ ],
+ "Keywords": [
+  "Order",
+  "Stormcast Eternals",
+  "Sacrosanct",
+  "Hero",
+  "Lord",
+  "Lord-Ordinator"
+ ],
+ "Profile": {
+  "Movement": "5\"",
+  "Wounds": "6",
+  "Save": "3+",
+  "Bravery": "9"
+ },
+ "Tables": [
+  [
+   [
+    "MELEE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Astral Hammers",
+    "1\"",
+    "5",
+    "3+",
+    "3+",
+    "-1",
+    "2"
+   ],
+   [
+    "Astral Grandhammer",
+    "1\"",
+    "3",
+    "3+",
+    "2+",
+    "-2",
+    "2"
+   ]
+  ]
+ ]
+}

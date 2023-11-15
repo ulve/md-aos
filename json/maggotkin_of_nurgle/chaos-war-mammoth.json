@@ -1,0 +1,137 @@
+{
+ "IsLegends": true,
+ "Url": "https://wahapedia.ru/aos3/factions/maggotkin-of-nurgle/Chaos-War-Mammoth",
+ "Faction": "Maggotkin of Nurgle",
+ "Title": "Chaos War Mammoth",
+ "Legend": "A Chaos War Mammoth is an immense beast capable of crushing scores of lesser creatures to bloody paste beneath its trampling feet, and of goring foes with its huge tusks, each of which carries the force of a battering ram.",
+ "PitchBattleProfile": {
+  "UnitSize": "1",
+  "Points": "345",
+  "Role": "Behemoth",
+  "BaseSize": "280 x 210",
+  "Notes": "Single"
+ },
+ "Intro": "A Chaos War Mammoth is armed with Goring Tusks and Trampling Feet.",
+ "Rules": [
+  {
+   "Name": "Crew",
+   "Fluff": "",
+   "Rule": "CREW: This model has a Marauder crew, who are armed with Marauder Javelins and Axes."
+  },
+  {
+   "Name": "Monstrous Ally",
+   "Fluff": "",
+   "Rule": "MONSTROUS ALLY: This unit can be included as an allied unit in an army whose general has the CHAOS keyword."
+  },
+  {
+   "Name": "Mark Of Chaos",
+   "Fluff": "",
+   "Rule": "MARK OF CHAOS: When you select this model to be part of your army, you must give it one of the following Mark of Chaos keywords: KHORNE, TZEENTCH, NURGLE, SLAANESH or UNDIVIDED."
+  },
+  {
+   "Name": "Crushing Fall",
+   "Fluff": "To be caught under the falling bulk of a dying War Mammoth is to meet a horrible death.",
+   "Rule": "ABILITIES If this model is slain, before removing it from play, the players must roll off. The winner must pick a point on the battlefield 4\" from this model. Each unit within 4\" of that point suffers D6 mortal wounds. This model is then removed from play."
+  },
+  {
+   "Name": "Goring Tusks",
+   "Fluff": "The enormous tusks of the Chaos War Mammoth can impale the largest of monsters, leaving them with grievous wounds.",
+   "Rule": "Do not use the attack sequence for an attack made with Goring Tusks. Instead, roll a number of dice equal to the Goring Tusks value shown on the damage table above. Add 1 to the roll if the target unit is a MONSTER. For each 3+, the target unit suffers D3 mortal wounds."
+  }
+ ],
+ "Keywords": [
+  "Chaos",
+  "Mortal",
+  "Monster",
+  "Mark Of Chaos",
+  "Chaos",
+  "War",
+  "Mammoth"
+ ],
+ "Profile": {
+  "Movement": "*",
+  "Wounds": "22",
+  "Save": "4+",
+  "Bravery": "6"
+ },
+ "Tables": [
+  [
+   [
+    "MISSILE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Marauder Javelins and Axes",
+    "10\"",
+    "8",
+    "5+",
+    "5+",
+    "-",
+    "1"
+   ]
+  ],
+  [
+   [
+    "MELEE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Goring Tusks",
+    "3\"",
+    "1",
+    "See below"
+   ],
+   [
+    "Trampling Feet",
+    "1\"",
+    "*",
+    "4+",
+    "3+",
+    "-2",
+    "D3"
+   ]
+  ],
+  [
+   [
+    "Wounds Suffered",
+    "Move",
+    "Goring Tusks",
+    "Trampling Feet"
+   ],
+   [
+    "0-10",
+    "12\"",
+    "5",
+    "10"
+   ],
+   [
+    "11-14",
+    "10\"",
+    "4",
+    "8"
+   ],
+   [
+    "15-19",
+    "8\"",
+    "3",
+    "6"
+   ],
+   [
+    "20+",
+    "6\"",
+    "2",
+    "4"
+   ]
+  ]
+ ]
+}

@@ -1,0 +1,103 @@
+{
+ "IsLegends": false,
+ "Url": "https://wahapedia.ru/aos3/factions/cities-of-sigmar/Black-Ark-Corsairs",
+ "Faction": "Cities of Sigmar",
+ "Title": "Black Ark Corsairs",
+ "Legend": "Cruel-hearted and avaricious, Black Ark Corsairs are the footsoldiers of the Scourge Privateers. Wielding a variety of lethal weapons, they thrive in the chaos of a swirling melee, where their superior swordsmanship can be put to deadly use.",
+ "PitchBattleProfile": {
+  "UnitSize": "10",
+  "Points": "90",
+  "Role": "None",
+  "BaseSize": "25",
+  "Notes": "Battleline if general is SCOURGE PRIVATEERS"
+ },
+ "Intro": "Each model in a Black Ark Corsairs unit is armed with a 1 of the following weapon options: Vicious Blade and Repeater Handbow; or Paired Vicious Blades.",
+ "Rules": [
+  {
+   "Name": "Champion",
+   "Fluff": "",
+   "Rule": "CHAMPION: 1 model in this unit can be a Reaver. Add 1 to the Attacks characteristic of that model’s melee weapons."
+  },
+  {
+   "Name": "Standard Bearer",
+   "Fluff": "",
+   "Rule": "STANDARD BEARER: 1 in every 10 models in this unit can be a Standard Bearer. Add 1 to the Bravery characteristic of this unit while it includes any Standard Bearers."
+  },
+  {
+   "Name": "Musician",
+   "Fluff": "",
+   "Rule": "MUSICIAN: 1 in every 10 models in this unit can be a Hornblower. Add 1 to run rolls and charge rolls for this unit while it includes any Hornblowers."
+  },
+  {
+   "Name": "Skilled Swashbucklers",
+   "Fluff": "With a flash of steel, each ill-timed strike directed at a Corsair is paid for in blood as the aelf delivers a perfect riposte.",
+   "Rule": "If the unmodified hit roll for an attack made with a melee weapon that targets this unit is 1, the attacking unit suffers 1 mortal wound after all of its attacks have been resolved."
+  }
+ ],
+ "Keywords": [
+  "Order",
+  "Cities Of Sigmar",
+  "Aelf",
+  "Scourge Privateers",
+  "Black",
+  "Ark",
+  "Corsairs"
+ ],
+ "Profile": {
+  "Movement": "6\"",
+  "Wounds": "1",
+  "Save": "5+",
+  "Bravery": "6"
+ },
+ "Tables": [
+  [
+   [
+    "MISSILE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Repeater Handbow",
+    "9\"",
+    "2",
+    "4+",
+    "4+",
+    "-",
+    "1"
+   ]
+  ],
+  [
+   [
+    "MELEE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Vicious Blade",
+    "1\"",
+    "1",
+    "4+",
+    "4+",
+    "-",
+    "1"
+   ],
+   [
+    "Paired Vicious Blades",
+    "1\"",
+    "3",
+    "4+",
+    "4+",
+    "-",
+    "1"
+   ]
+  ]
+ ]
+}

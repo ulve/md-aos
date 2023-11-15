@@ -1,0 +1,152 @@
+{
+ "IsLegends": false,
+ "Url": "https://wahapedia.ru/aos3/factions/stormcast-eternals/Krondys-Son-of-Dracothion",
+ "Faction": "Stormcast Eternals",
+ "Title": "Krondys, Son of Dracothion",
+ "Legend": "The elder drake Krondys is lord to a broken people, but the Son of Dracothion remains unbowed. His magical prowess, aeons-old battlecraft and reptilian might is magnificent to behold, as is his conviction to restore his empire’s glory.",
+ "PitchBattleProfile": {
+  "UnitSize": "1",
+  "Points": "520",
+  "Role": "Leader, Behemoth",
+  "BaseSize": "160",
+  "Notes": "Single, Unique"
+ },
+ "Intro": "Krondys, Son of Dracothion, is armed with a Blazing Tempest, Apex Maw, Drake-lord’s Talons and Calamitous Tail.",
+ "Rules": [
+  {
+   "Name": "Wizard",
+   "Fluff": "",
+   "Rule": "WIZARD: This unit can attempt to cast 2 spells in your hero phase and attempt to unbind 2 spells in the enemy hero phase."
+  },
+  {
+   "Name": "Fly",
+   "Fluff": "",
+   "Rule": "FLY: This unit can fly."
+  },
+  {
+   "Name": "Ancient Master Of War",
+   "Fluff": "The lords of the Draconith empire have seen countless battles over the heady span of their lives, and the reptilian fury they display can soon overpower any foe.",
+   "Rule": "Ancient Master of War: Subtract 1 from the Attacks characteristic of melee weapons that target this unit (to a minimum of 1)."
+  },
+  {
+   "Name": "Blazing Tempest",
+   "Fluff": "The greatest Draconith lords can unleash vortexes of scouring flame that disintegrate any within the blast radius.",
+   "Rule": "Do not use the attack sequence for an attack made with a Blazing Tempest. Instead, roll a dice. On a 1-2, the target suffers 1 mortal wound. On a 3-4, the target suffers D3 mortal wounds. On a 5-6, the target suffers D6 mortal wounds."
+  },
+  {
+   "Name": "Calamitous Tail",
+   "Fluff": "With a sweep of its destructive tail, a Draconith can deliver a killing blow to all those in its path.",
+   "Rule": "The Attacks characteristic of a Calamitous Tail is equal to the number of enemy models within 3\" of the attacking model."
+  },
+  {
+   "Name": "Regalia Fulmentarus",
+   "Fluff": "This master-smithed halo symbolises the forging of the alliance between the Draconith and the Stormcast Eternals. Its divine power enhances the arcane strength of Krondys to even greater heights.",
+   "Rule": "Add the Regalia Fulmentarus value shown on this unit’s damage table to casting rolls for this unit."
+  }
+ ],
+ "Keywords": [
+  "Order",
+  "Stormcast Eternals",
+  "Draconith",
+  "Thunderstrike",
+  "Hero",
+  "Monster",
+  "Wizard",
+  "Krondys"
+ ],
+ "Profile": {
+  "Movement": "*",
+  "Wounds": "18",
+  "Save": "3+",
+  "Bravery": "10"
+ },
+ "Tables": [
+  [
+   [
+    "MISSILE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Blazing Tempest",
+    "18\"",
+    "1",
+    "See below"
+   ]
+  ],
+  [
+   [
+    "MELEE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Apex Maw",
+    "2\"",
+    "4",
+    "3+",
+    "*",
+    "-2",
+    "3"
+   ],
+   [
+    "Drake-lord’s Talons",
+    "1\"",
+    "3",
+    "3+",
+    "3+",
+    "-2",
+    "2"
+   ],
+   [
+    "Calamitous Tail",
+    "3\"",
+    "See below",
+    "3+",
+    "3+",
+    "-2",
+    "2"
+   ]
+  ],
+  [
+   [
+    "Wounds Suffered",
+    "Move",
+    "Apex Maw",
+    "Regalia Fulmentarus"
+   ],
+   [
+    "0-8",
+    "14\"",
+    "1+",
+    "+3"
+   ],
+   [
+    "9-11",
+    "12\"",
+    "2+",
+    "+2"
+   ],
+   [
+    "12-14",
+    "10\"",
+    "3+",
+    "+1"
+   ],
+   [
+    "15+",
+    "8\"",
+    "4+",
+    "+0"
+   ]
+  ]
+ ]
+}

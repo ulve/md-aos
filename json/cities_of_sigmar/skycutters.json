@@ -1,0 +1,125 @@
+{
+ "IsLegends": true,
+ "Url": "https://wahapedia.ru/aos3/factions/cities-of-sigmar/Skycutters",
+ "Faction": "Cities of Sigmar",
+ "Title": "Skycutters",
+ "Legend": "",
+ "PitchBattleProfile": {
+  "UnitSize": "1",
+  "Points": "135",
+  "Role": "None",
+  "BaseSize": "",
+  "Notes": ""
+ },
+ "Intro": "Each model in a Skycutters unit is armed with one of the following weapon options: Eagle Eye Bolt Thrower and Agents’ Blades and Spears; or Swifthawk Bows and Agents’ Blades and Spears. Each model in the unit must be armed with the same weapon option.",
+ "Rules": [
+  {
+   "Name": "Fly",
+   "Fluff": "",
+   "Rule": "FLY: This unit can fly."
+  },
+  {
+   "Name": "Mount",
+   "Fluff": "",
+   "Rule": "MOUNT: This unit’s Swiftfeather Hawks are each armed with Raking Talons."
+  },
+  {
+   "Name": "Aelven Shields",
+   "Fluff": "",
+   "Rule": "ABILITIES Add 1 to save rolls for attacks that target this unit."
+  },
+  {
+   "Name": "Agents’ Blades And Spears",
+   "Fluff": "",
+   "Rule": "Agents’ Blades and Spears: If this unit is armed with Swifthawk Bows and Agents’ Blades and Spears, add 1 to the Attacks characteristic of its Agents’ Blades and Spears."
+  },
+  {
+   "Name": "Fleet Of Wing",
+   "Fluff": "",
+   "Rule": "Fleet of Wing: Roll 2D6 instead of single dice when making a run roll for this unit."
+  },
+  {
+   "Name": "Sky Chariot",
+   "Fluff": "",
+   "Rule": "This unit can run and still shoot later in the turn."
+  },
+  {
+   "Name": "Swifthawk Discipline",
+   "Fluff": "",
+   "Rule": "If you fail a battleshock test for this unit whilst it is within 16\" of a friendly SWIFTHAWK AGENTS HERO, halve the number of models that flee (rounding up)."
+  }
+ ],
+ "Keywords": [
+  "Order",
+  "Cities Of Sigmar",
+  "Aelf",
+  "Swifthawk Agents",
+  "Skycutters"
+ ],
+ "Profile": {
+  "Movement": "16\"",
+  "Wounds": "8",
+  "Save": "5+",
+  "Bravery": "6"
+ },
+ "Tables": [
+  [
+   [
+    "MISSILE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Swifthawk Bows",
+    "16\"",
+    "3",
+    "4+",
+    "4+",
+    "-",
+    "1"
+   ],
+   [
+    "Eagle Eye Bolt Thrower",
+    "16\"",
+    "1",
+    "4+",
+    "3+",
+    "-1",
+    "D3"
+   ]
+  ],
+  [
+   [
+    "MELEE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Agents’ Blades and Spears",
+    "2\"",
+    "2",
+    "4+",
+    "4+",
+    "-",
+    "1"
+   ],
+   [
+    "Raking Talons",
+    "3\"",
+    "3",
+    "3+",
+    "4+",
+    "-1",
+    "1"
+   ]
+  ]
+ ]
+}

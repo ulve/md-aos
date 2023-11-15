@@ -1,0 +1,88 @@
+{
+ "IsLegends": true,
+ "Url": "https://wahapedia.ru/aos3/factions/gloomspite-gitz/Snotling-Pump-Wagons",
+ "Faction": "Gloomspite Gitz",
+ "Title": "Snotling Pump Wagons",
+ "Legend": "",
+ "PitchBattleProfile": {
+  "UnitSize": "1",
+  "Points": "70",
+  "Role": "None",
+  "BaseSize": "",
+  "Notes": ""
+ },
+ "Intro": "Each model in a Snotling Pump Wagons unit is armed with Explodin’ Spores, Pokin’ Sticks and Ram Spikes.",
+ "Rules": [
+  {
+   "Name": "Pump Harder, Ladz",
+   "Fluff": "",
+   "Rule": "ABILITIES If you roll a double when determing this unit’s Move characteristic in your movement phase, this unit is pumped up until the end of your turn. You can re-roll charge rolls for pumped-up units, and you can add 1 to hit rolls for attacks made with Ram Spikes by pumped-up units."
+  }
+ ],
+ "Keywords": [
+  "Destruction",
+  "Gloomspite Gitz",
+  "Snotling",
+  "War Machine",
+  "Snotling",
+  "Pump",
+  "Wagons"
+ ],
+ "Profile": {
+  "Movement": "2D6\"",
+  "Wounds": "4",
+  "Save": "6+",
+  "Bravery": "10"
+ },
+ "Tables": [
+  [
+   [
+    "MISSILE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Explodin’ Spores",
+    "6\"",
+    "4",
+    "5+",
+    "5+",
+    "-1",
+    "1"
+   ]
+  ],
+  [
+   [
+    "MELEE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Pokin’ Sticks",
+    "1\"",
+    "5",
+    "5+",
+    "6+",
+    "-",
+    "1"
+   ],
+   [
+    "Ram Spikes",
+    "1\"",
+    "2D6",
+    "5+",
+    "4+",
+    "-1",
+    "1"
+   ]
+  ]
+ ]
+}

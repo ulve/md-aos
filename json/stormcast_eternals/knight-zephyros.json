@@ -1,0 +1,87 @@
+{
+ "IsLegends": false,
+ "Url": "https://wahapedia.ru/aos3/factions/stormcast-eternals/Knight-Zephyros",
+ "Faction": "Stormcast Eternals",
+ "Title": "Knight-Zephyros",
+ "Legend": "The Knights-Zephyros serve as Sigmar’s assassins. Once a target is marked, they employ their god-wrought blessings to travel the winds aetheric and run down their prey, eventually overcoming them in a flurry of lightning-swift violence.",
+ "PitchBattleProfile": {
+  "UnitSize": "1",
+  "Points": "100",
+  "Role": "Leader",
+  "BaseSize": "40",
+  "Notes": "Single"
+ },
+ "Intro": "A Knight-Zephyros is armed with a Boltstorm Pistol and Tempest Axes.",
+ "Rules": [
+  {
+   "Name": "Battalions",
+   "Fluff": "",
+   "Rule": "BATTALIONS: This warscroll can be used in the following warscroll battalions: • Lords of the Exemplar Chamber • Lords of the Harbinger Chamber • Lords of the Warrior Chamber"
+  },
+  {
+   "Name": "Tireless Hunter",
+   "Fluff": "This determined warrior never stops moving in pursuit of their prey.",
+   "Rule": "This model can run and still shoot later in the same turn."
+  },
+  {
+   "Name": "Windrider",
+   "Fluff": "Knights-Zephyros require no aid from Gryph-chargers to ride the winds aetheric.",
+   "Rule": "Instead of picking this unit to make a normal move or retreat, you can say that it will ride the winds aetheric. If you do so, remove this unit from the battlefield and set it up again on the battlefield more than 1\" from all terrain features and objectives and more than 9\" from all enemy units."
+  }
+ ],
+ "Keywords": [
+  "Order",
+  "Stormcast Eternals",
+  "Hero",
+  "Knight",
+  "Knight-Zephyros"
+ ],
+ "Profile": {
+  "Movement": "6\"",
+  "Wounds": "5",
+  "Save": "3+",
+  "Bravery": "8"
+ },
+ "Tables": [
+  [
+   [
+    "MISSILE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Boltstorm Pistol",
+    "12\"",
+    "3",
+    "3+",
+    "3+",
+    "-1",
+    "1"
+   ]
+  ],
+  [
+   [
+    "MELEE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Tempest Axes",
+    "1\"",
+    "6",
+    "3+",
+    "3+",
+    "-1",
+    "1"
+   ]
+  ]
+ ]
+}

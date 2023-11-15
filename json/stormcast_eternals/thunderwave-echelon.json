@@ -1,0 +1,24 @@
+{
+ "IsLegends": false,
+ "Url": "https://wahapedia.ru/aos3/factions/stormcast-eternals/Thunderwave-Echelon",
+ "Faction": "Stormcast Eternals",
+ "Title": "Thunderwave Echelon",
+ "Legend": "",
+ "PitchBattleProfile": {
+  "UnitSize": "",
+  "Points": "",
+  "Role": "",
+  "BaseSize": "",
+  "Notes": ""
+ },
+ "Intro": "",
+ "Rules": null,
+ "Keywords": null,
+ "Profile": {
+  "Movement": "",
+  "Wounds": "",
+  "Save": "",
+  "Bravery": ""
+ },
+ "Tables": null
+}

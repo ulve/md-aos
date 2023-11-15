@@ -1,0 +1,90 @@
+{
+ "IsLegends": true,
+ "Url": "https://wahapedia.ru/aos3/factions/orruk-warclans/Orruk-Great-Shaman",
+ "Faction": "Orruk Warclans",
+ "Title": "Orruk Great Shaman",
+ "Legend": "",
+ "PitchBattleProfile": {
+  "UnitSize": "1",
+  "Points": "135",
+  "Role": "Leader",
+  "BaseSize": "",
+  "Notes": "Single"
+ },
+ "Intro": "An Orruk Great Shaman is armed with a Totemic Staff.",
+ "Rules": [
+  {
+   "Name": "Mount",
+   "Fluff": "",
+   "Rule": "MOUNT: This unit can have a War Boar mount that is armed with Jagged Tusks. A unit with a War Boar mount has a Move characteristic of 9\" instead of 5\"."
+  },
+  {
+   "Name": "Wizard",
+   "Fluff": "",
+   "Rule": "WIZARD: This unit can attempt to cast 1 spell in your hero phase and attempt to unbind 1 spell in the enemy hero phase."
+  },
+  {
+   "Name": "Waaagh! Energy",
+   "Fluff": "",
+   "Rule": "ABILITIES Add 1 to casting rolls for this unit if it is within 8\" of 20 or more ORRUK models."
+  },
+  {
+   "Name": "War Boar Charge",
+   "Fluff": "",
+   "Rule": "Add 1 to wound rolls for attacks made with Jagged Tusks if the attacking unit made a charge move in the same turn."
+  },
+  {
+   "Name": "Gaze Of Mork",
+   "Fluff": "",
+   "Rule": "Gaze of Mork: Gaze of Mork is a spell that has a casting value of 6 and a range of 20\". If successfully cast, pick up to 3 different enemy units within range and visible to the caster, and roll a dice for each of those units. On a 1, nothing happens. On a 2-5, that unit suffers 1 mortal wound. On a 6, that unit suffers D3 mortal wounds."
+  }
+ ],
+ "Keywords": [
+  "Destruction",
+  "Orruk Warclans",
+  "Greenskinz",
+  "Orruk",
+  "Hero",
+  "Wizard",
+  "Orruk",
+  "Great",
+  "Shaman"
+ ],
+ "Profile": {
+  "Movement": "5\"",
+  "Wounds": "5",
+  "Save": "5+",
+  "Bravery": "6"
+ },
+ "Tables": [
+  [
+   [
+    "MELEE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Totemic Staff",
+    "2\"",
+    "1",
+    "4+",
+    "3+",
+    "-",
+    "D3"
+   ],
+   [
+    "Jagged Tusks",
+    "1\"",
+    "2",
+    "4+",
+    "4+",
+    "-",
+    "1"
+   ]
+  ]
+ ]
+}

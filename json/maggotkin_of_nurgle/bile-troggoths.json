@@ -1,0 +1,89 @@
+{
+ "IsLegends": true,
+ "Url": "https://wahapedia.ru/aos3/factions/maggotkin-of-nurgle/Bile-Troggoths",
+ "Faction": "Maggotkin of Nurgle",
+ "Title": "Bile Troggoths",
+ "Legend": "Corrupt of flesh and cursed to a life of agony, Bile Troggoths are the vilest and most deformed creatures of all their kind. Their touch is lethal poison and their corrosive bile rots away living flesh in seconds.",
+ "PitchBattleProfile": {
+  "UnitSize": "3",
+  "Points": "195",
+  "Role": "None",
+  "BaseSize": "",
+  "Notes": ""
+ },
+ "Intro": "BATTALIONSThis warscroll can be used in the following warscroll battalions: • Sons of the Maggot Lord",
+ "Rules": [
+  {
+   "Name": "",
+   "Fluff": "",
+   "Rule": "DESCRIPTIONEach model in a Bile Troggoths unit is armed with Infected Vomit and Rusted Axes and Cleavers."
+  },
+  {
+   "Name": "Infected Vomit",
+   "Fluff": "Even more vile than the acidic vomit produced by their fellows, the gastric stew of plague-filth and meat-maggots festering within a Bile Troggoth’s stomach is their deadliest weapon. It can eat through metal and flesh, and dissolve disciplined shield walls into a mess of fused armour and flesh.",
+   "Rule": "ABILITIES If the unmodified hit roll for an attack made with this unit’s Infected Vomit is 6, that attacks causes 1 mortal wound to the target in addition to any damage it inflicts."
+  },
+  {
+   "Name": "Fecund Regeneration",
+   "Fluff": "Like all of their kind, Bile Troggoths heal at an astonishing rate, their rotting flesh knitting together before the eyes of their horrified prey.",
+   "Rule": "In your hero phase, you can heal up to D3 wounds allocated to this unit."
+  }
+ ],
+ "Keywords": [
+  "Chaos",
+  "Nurgle",
+  "Maggotkin Of Nurgle",
+  "Tamurkhan’s Horde",
+  "Troggoth",
+  "Bile",
+  "Troggoths"
+ ],
+ "Profile": {
+  "Movement": "5\"",
+  "Wounds": "5",
+  "Save": "4+",
+  "Bravery": "5"
+ },
+ "Tables": [
+  [
+   [
+    "MISSILE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Infected Vomit",
+    "7\"",
+    "1",
+    "3+",
+    "3+",
+    "-2",
+    "D3"
+   ]
+  ],
+  [
+   [
+    "MELEE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Rusted Axes and Cleavers",
+    "2\"",
+    "3",
+    "4+",
+    "3+",
+    "-1",
+    "2"
+   ]
+  ]
+ ]
+}

@@ -1,0 +1,120 @@
+{
+ "IsLegends": true,
+ "Url": "https://wahapedia.ru/aos3/factions/cities-of-sigmar/Skywarden",
+ "Faction": "Cities of Sigmar",
+ "Title": "Skywarden",
+ "Legend": "",
+ "PitchBattleProfile": {
+  "UnitSize": "1",
+  "Points": "175",
+  "Role": "Leader",
+  "BaseSize": "32",
+  "Notes": "Single"
+ },
+ "Intro": "A Skywarden is armed with an Ithilmar Blade and one of the following weapon options: Zephyr trident; or Swifthawk Pennant.",
+ "Rules": [
+  {
+   "Name": "Fly",
+   "Fluff": "",
+   "Rule": "FLY: This unit can fly."
+  },
+  {
+   "Name": "Mount",
+   "Fluff": "",
+   "Rule": "MOUNT: This unit can have a Skycutter mount that is pulled by a Swiftfeather Hawk armed with Raking Talons."
+  },
+  {
+   "Name": "Crew",
+   "Fluff": "",
+   "Rule": "CREW: If this unit has a Skycutter mount, it is crewed by a Swifthawk Agent armed with an Agent’s Blade and Spear."
+  },
+  {
+   "Name": "Enchanted Shield",
+   "Fluff": "",
+   "Rule": "ABILITIES You can add 1 to save rolls for attacks that target this unit."
+  },
+  {
+   "Name": "Swifthawk Pennant",
+   "Fluff": "",
+   "Rule": "If this unit is armed with a Swifthawk Pennant, it gains the TOTEM keyword and you can add 1 to wound rolls for attacks made by friendly SWIFTHAWK AGENTS units within 16\" of this unit."
+  },
+  {
+   "Name": "Windrider",
+   "Fluff": "",
+   "Rule": "If this unit has a Skycutter mount, in the shooting phase, it has a Save characteristic of 4+ instead of 5+."
+  },
+  {
+   "Name": "Fleet Of Wing",
+   "Fluff": "",
+   "Rule": "Fleet of Wing: If this unit has a Skycutter mount, roll 2D6 instead of single dice when making a run roll for it."
+  },
+  {
+   "Name": "Swoop And Attack!",
+   "Fluff": "",
+   "Rule": "Swoop and Attack!: Once per battle, in your charge phase, you can say that this unit will sound the attack. If you do so, friendly SWIFTHAWK AGENTS units can attempt a charge in that phase even if they ran in the same turn."
+  }
+ ],
+ "Keywords": [
+  "Order",
+  "Cities Of Sigmar",
+  "Aelf",
+  "Swifthawk Agents",
+  "Hero",
+  "Skywarden"
+ ],
+ "Profile": {
+  "Movement": "16\"",
+  "Wounds": "8",
+  "Save": "5+",
+  "Bravery": "7"
+ },
+ "Tables": [
+  [
+   [
+    "MELEE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Zephyr Trident",
+    "2\"",
+    "2",
+    "4+",
+    "3+",
+    "-",
+    "2"
+   ],
+   [
+    "Ithilmar Blade",
+    "1\"",
+    "3",
+    "4+",
+    "4+",
+    "-",
+    "1"
+   ],
+   [
+    "Agent’s Blade and Spear",
+    "2\"",
+    "1",
+    "4+",
+    "4+",
+    "-",
+    "1"
+   ],
+   [
+    "Raking Talons",
+    "3\"",
+    "3",
+    "3+",
+    "4+",
+    "-1",
+    "1"
+   ]
+  ]
+ ]
+}

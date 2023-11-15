@@ -1,0 +1,84 @@
+{
+ "IsLegends": false,
+ "Url": "https://wahapedia.ru/aos3/factions/gloomspite-gitz/Dankhold-Troggboss",
+ "Faction": "Gloomspite Gitz",
+ "Title": "Dankhold Troggboss",
+ "Legend": "Dankhold Troggbosses are ancient creatures that sometimes wake from their subterranean slumbers and go on the rampage. Though potent forces of destruction in their own right, Troggbosses also inspire any Gloomspite Gitz fighting in their shadow.",
+ "PitchBattleProfile": {
+  "UnitSize": "1",
+  "Points": "210",
+  "Role": "Leader",
+  "BaseSize": "60",
+  "Notes": "Single"
+ },
+ "Intro": "A Dankhold Troggboss is armed with a Boulder Club.",
+ "Rules": [
+  {
+   "Name": "Battalions",
+   "Fluff": "",
+   "Rule": "BATTALIONS: This warscroll can be used in the following warscroll battalions: • Troggherd"
+  },
+  {
+   "Name": "Greater Regeneration",
+   "Fluff": "As they get to eat all the best shrooms, a Troggboss’s regenerative capacity is more pronounced than that of the average troggoth.",
+   "Rule": "At the start of the hero phase, you can heal up to D6 wounds allocated to this unit."
+  },
+  {
+   "Name": "Magical Resistance",
+   "Fluff": "The realmstone-infused mushrooms that Dankhold Troggoths consume make them naturally resistant to the effects of magic.",
+   "Rule": "Each time this unit is affected by a spell or the abilities of an endless spell, you can roll a dice. On a 4+, ignore the effect of that spell or the effects of that endless spell’s abilities on this unit."
+  },
+  {
+   "Name": "Squiggly-Beast Followers",
+   "Fluff": "Dankhold Troggoths are accompanied by a horde of small, skittering cave-creatures that look to them for protection.",
+   "Rule": "Squiggly-beast Followers: At the start of the combat phase, roll 1 dice for each enemy unit within 3\" of any friendly units with this ability. If the roll is equal to or greater than the number of models in that enemy unit, that enemy unit suffers 1 mortal wound."
+  },
+  {
+   "Name": "Crushing Grip",
+   "Fluff": "The vice-like grasp of a Dankhold Troggoth can squeeze the life out of all but the largest opponent.",
+   "Rule": "At the end of the combat phase, pick 1 enemy model within 1\" of this unit and roll a dice. If the roll is equal to or greater than that model’s Wounds characteristic, it is slain."
+  },
+  {
+   "Name": "Shepherd Of Destruction",
+   "Fluff": "The Dankhold Troggboss bellows so loud that the beasts of their herd come dangerously close to actually focusing their brutish efforts.",
+   "Rule": "Shepherd of Destruction: When this unit issues the All-out Attack command to a friendly GLOOMSPITE GITZ TROGGOTH unit in the combat phase, until the end of that phase, add 1 to the Attacks characteristic of melee weapons used by that unit.Designer’s Note: This effect is in addition to the normal effect of All-out Attack."
+  }
+ ],
+ "Keywords": [
+  "Destruction",
+  "Gloomspite Gitz",
+  "Troggoth",
+  "Dankhold",
+  "Hero",
+  "Dankhold",
+  "Troggboss"
+ ],
+ "Profile": {
+  "Movement": "6\"",
+  "Wounds": "12",
+  "Save": "4+",
+  "Bravery": "7"
+ },
+ "Tables": [
+  [
+   [
+    "MELEE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Boulder Club",
+    "2\"",
+    "4",
+    "3+",
+    "3+",
+    "-2",
+    "D6"
+   ]
+  ]
+ ]
+}

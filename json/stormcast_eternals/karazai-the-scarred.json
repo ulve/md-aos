@@ -1,0 +1,141 @@
+{
+ "IsLegends": false,
+ "Url": "https://wahapedia.ru/aos3/factions/stormcast-eternals/Karazai-the-Scarred",
+ "Faction": "Stormcast Eternals",
+ "Title": "Karazai the Scarred",
+ "Legend": "The savagery of Ghur has wormed its way into the Draconith lord Karazai’s twisted soul. The Scarred Prince now fights only to deal vengeance to his - and, when their purposes align, Sigmar’s - ancestral enemies.",
+ "PitchBattleProfile": {
+  "UnitSize": "1",
+  "Points": "530",
+  "Role": "Leader, Behemoth",
+  "BaseSize": "160",
+  "Notes": "Single, Unique"
+ },
+ "Intro": "Karazai the Scarred is armed with a Blazing Tempest, Annihilating Jaws, Ruinous Talons and Calamitous Tail.",
+ "Rules": [
+  {
+   "Name": "Fly",
+   "Fluff": "",
+   "Rule": "FLY: This unit can fly."
+  },
+  {
+   "Name": "Ancient Master Of War",
+   "Fluff": "The lords of the Draconith empire have seen countless battles over the heady span of their lives, and the reptilian fury they display can soon overpower any foe.",
+   "Rule": "Ancient Master of War: Subtract 1 from the Attacks characteristic of melee weapons that target this unit (to a minimum of 1)."
+  },
+  {
+   "Name": "Blazing Tempest",
+   "Fluff": "The greatest Draconith lords can unleash vortexes of scouring flame that disintegrate any within the blast radius.",
+   "Rule": "Do not use the attack sequence for an attack made with a Blazing Tempest. Instead, roll a dice. On a 1-2, the target suffers 1 mortal wound. On a 3-4, the target suffers D3 mortal wounds. On a 5-6, the target suffers D6 mortal wounds."
+  },
+  {
+   "Name": "Calamitous Tail",
+   "Fluff": "With a sweep of its destructive tail, a Draconith can deliver a killing blow to all those in its path.",
+   "Rule": "The Attacks characteristic of a Calamitous Tail is equal to the number of enemy models within 3\" of the attacking model."
+  },
+  {
+   "Name": "Fires Of Vengeance",
+   "Fluff": "Retribution burns blinding and everlasting in Karazai’s eyes.",
+   "Rule": "Fires of Vengeance: Each time this unit destroys an enemy unit, you can apply the relevant effect below:If the enemy unit was a HERO or MONSTER, add 1 to the Attacks characteristic of melee weapons used by this unit for the rest of the battle.If the enemy unit had a Wounds characteristic of 3 or more and was not a HERO or MONSTER, add 1 to run and charge rolls for this unit for the rest of the battle.If the enemy unit had a Wounds characteristic of 2 or less, you can heal 1 wound allocated to this unit."
+  }
+ ],
+ "Keywords": [
+  "Order",
+  "Stormcast Eternals",
+  "Draconith",
+  "Thunderstrike",
+  "Hero",
+  "Monster",
+  "Karazai"
+ ],
+ "Profile": {
+  "Movement": "*",
+  "Wounds": "18",
+  "Save": "3+",
+  "Bravery": "10"
+ },
+ "Tables": [
+  [
+   [
+    "MISSILE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Blazing Tempest",
+    "18\"",
+    "1",
+    "See below"
+   ]
+  ],
+  [
+   [
+    "MELEE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Annihilating Jaws",
+    "2\"",
+    "6",
+    "3+",
+    "*",
+    "-3",
+    "3"
+   ],
+   [
+    "Ruinous Talons",
+    "1\"",
+    "4",
+    "3+",
+    "3+",
+    "-2",
+    "2"
+   ],
+   [
+    "Calamitous Tail",
+    "3\"",
+    "See below",
+    "3+",
+    "3+",
+    "-2",
+    "2"
+   ]
+  ],
+  [
+   [
+    "Wounds Suffered",
+    "Move",
+    "Annihilating Jaws"
+   ],
+   [
+    "0-8",
+    "14\"",
+    "1+"
+   ],
+   [
+    "9-11",
+    "12\"",
+    "2+"
+   ],
+   [
+    "12-14",
+    "10\"",
+    "3+"
+   ],
+   [
+    "15+",
+    "8\"",
+    "4+"
+   ]
+  ]
+ ]
+}

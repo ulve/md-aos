@@ -1,0 +1,112 @@
+{
+ "IsLegends": true,
+ "Url": "https://wahapedia.ru/aos3/factions/cities-of-sigmar/Freeguild-General-on-Warhorse",
+ "Faction": "Cities of Sigmar",
+ "Title": "Freeguild General on Warhorse",
+ "Legend": "",
+ "PitchBattleProfile": {
+  "UnitSize": "1",
+  "Points": "115",
+  "Role": "Leader",
+  "BaseSize": "",
+  "Notes": "Single"
+ },
+ "Intro": "A Freeguild General on Warhorse is armed with one of the following weapon options: Sigmarite Weapon and Freeguild Shield; Sigmarite Weapon and Pistol; Sigmarite Weapon and Stately War Banner; or Freeguild Lance and Freeguild Shield.",
+ "Rules": [
+  {
+   "Name": "Mount",
+   "Fluff": "",
+   "Rule": "MOUNT: This unit’s Warhorse attacks with its Steel-shod Hooves."
+  },
+  {
+   "Name": "Stately War Banner",
+   "Fluff": "",
+   "Rule": "STATELY WAR BANNER: If this unit is armed with a Stately War Banner, it gains the TOTEM keyword."
+  },
+  {
+   "Name": "Charging Lance",
+   "Fluff": "",
+   "Rule": "ABILITIES This unit’s Freeguild Lance has a Rend characteristic of -2 instead of -1 if this unit made a charge move in the same turn."
+  },
+  {
+   "Name": "Hold The Line",
+   "Fluff": "",
+   "Rule": "Hold the Line: You can use this command ability in your hero phase. This unit must issue the command and up to 3 friendly FREEGUILD units can receive the command. Until the start of your next hero phase, add 1 to hit and wound rolls for attacks made by the units that received the command if they have not made a normal move, run, retreat or charge move in the same turn."
+  }
+ ],
+ "Keywords": [
+  "Order",
+  "Cities Of Sigmar",
+  "Human",
+  "Free Peoples",
+  "Hero",
+  "Freeguild",
+  "General"
+ ],
+ "Profile": {
+  "Movement": "12\"",
+  "Wounds": "5",
+  "Save": "4+",
+  "Bravery": "7"
+ },
+ "Tables": [
+  [
+   [
+    "MISSILE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Pistol",
+    "9\"",
+    "1",
+    "3+",
+    "3+",
+    "-1",
+    "1"
+   ]
+  ],
+  [
+   [
+    "MELEE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Sigmarite Weapon",
+    "1\"",
+    "5",
+    "3+",
+    "4+",
+    "-1",
+    "1"
+   ],
+   [
+    "Freeguild Lance",
+    "2\"",
+    "3",
+    "3+",
+    "4+",
+    "-1",
+    "2"
+   ],
+   [
+    "Steel-shod Hooves",
+    "1\"",
+    "2",
+    "4+",
+    "4+",
+    "-",
+    "1"
+   ]
+  ]
+ ]
+}

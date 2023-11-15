@@ -1,0 +1,70 @@
+{
+ "IsLegends": false,
+ "Url": "https://wahapedia.ru/aos3/factions/gloomspite-gitz/Webspinner-Shaman",
+ "Faction": "Gloomspite Gitz",
+ "Title": "Webspinner Shaman",
+ "Legend": "Veins thick with venom, Webspinner Shamans live in vivid waking visions through which they interpret the Spider God’s will. They are blessed by their arachnid deity, protected by its sinister touch and sorcerously empowered by its malevolent might.",
+ "PitchBattleProfile": {
+  "UnitSize": "1",
+  "Points": "65",
+  "Role": "Leader",
+  "BaseSize": "25",
+  "Notes": "Single"
+ },
+ "Intro": "A Webspinner Shaman is armed with a Spider God Staff.",
+ "Rules": [
+  {
+   "Name": "Wizard",
+   "Fluff": "",
+   "Rule": "WIZARD: This unit can attempt to cast 1 spell in your hero phase and attempt to unbind 1 spell in the enemy hero phase."
+  },
+  {
+   "Name": "Touched By The Spider God",
+   "Fluff": "The tiny Skullback Spiders that constantly bite the shaman fill him with the mystical protective energy of the Spider God.",
+   "Rule": "Touched by the Spider God: This unit has a ward of 5+."
+  },
+  {
+   "Name": "Speed Of The Spider God",
+   "Fluff": "With a shriek, the shaman calls upon the Spider God to imbue its worshippers with preternatural speed.",
+   "Rule": "Speed of the Spider God: Speed of the Spider God is a spell that has a casting value of 4 and a range of 24\". If successfully cast, pick 1 friendly SPIDERFANG unit wholly within range and visible to the caster. Until your next hero phase, that unit can run and still shoot and/or charge later in the turn. If the casting roll was 8 or more, pick up to D3 friendly SPIDERFANG units instead of 1."
+  }
+ ],
+ "Keywords": [
+  "Destruction",
+  "Gloomspite Gitz",
+  "Grot",
+  "Spiderfang",
+  "Hero",
+  "Wizard",
+  "Webspinner",
+  "Shaman"
+ ],
+ "Profile": {
+  "Movement": "5\"",
+  "Wounds": "4",
+  "Save": "6+",
+  "Bravery": "5"
+ },
+ "Tables": [
+  [
+   [
+    "MELEE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Spider God Staff",
+    "1\"",
+    "1",
+    "4+",
+    "3+",
+    "-1",
+    "D3"
+   ]
+  ]
+ ]
+}

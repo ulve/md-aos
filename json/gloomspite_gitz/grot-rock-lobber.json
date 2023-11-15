@@ -1,0 +1,85 @@
+{
+ "IsLegends": true,
+ "Url": "https://wahapedia.ru/aos3/factions/gloomspite-gitz/Grot-Rock-Lobber",
+ "Faction": "Gloomspite Gitz",
+ "Title": "Grot Rock Lobber",
+ "Legend": "",
+ "PitchBattleProfile": {
+  "UnitSize": "1",
+  "Points": "110",
+  "Role": "Artillery",
+  "BaseSize": "",
+  "Notes": "Single"
+ },
+ "Intro": "A Grot Rock Lobber is armed with Big Rocks.",
+ "Rules": [
+  {
+   "Name": "Crew",
+   "Fluff": "",
+   "Rule": "CREW: A Grot Rock Lobber has a crew of 3 Grots and 1 Orruk Bully, who are armed with Slittas. The crew must remain within l\" of the Grot Rock Lobber. For rules purposes, the Grot Rock Lobber and its crew are treated as a single model."
+  },
+  {
+   "Name": "Flatten The Lot Of ’Em",
+   "Fluff": "",
+   "Rule": "ABILITIESFlatten the Lot of ’Em: Add 1 to hit rolls for attacks made with a Big Rock that target a unit with more than 5 models."
+  }
+ ],
+ "Keywords": [
+  "Destruction",
+  "Gloomspite Gitz",
+  "Orruk",
+  "Grot",
+  "War Machine",
+  "Grot",
+  "Rock",
+  "Lobber"
+ ],
+ "Profile": {
+  "Movement": "1\"",
+  "Wounds": "5",
+  "Save": "5+",
+  "Bravery": "4"
+ },
+ "Tables": [
+  [
+   [
+    "MISSILE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Big Rock",
+    "6-40\"",
+    "1",
+    "3+",
+    "3+",
+    "-2",
+    "3"
+   ]
+  ],
+  [
+   [
+    "MELEE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Slittas",
+    "1\"",
+    "4",
+    "5+",
+    "5+",
+    "-",
+    "1"
+   ]
+  ]
+ ]
+}

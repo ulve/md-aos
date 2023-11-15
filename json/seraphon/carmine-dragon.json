@@ -1,0 +1,135 @@
+{
+ "IsLegends": true,
+ "Url": "https://wahapedia.ru/aos3/factions/seraphon/Carmine-Dragon",
+ "Faction": "Seraphon",
+ "Title": "Carmine Dragon",
+ "Legend": "The Carmine Dragon is a creature saturated with the arcane power of Shyish, its claws and fangs rippling with amethyst magic. With every roar, it unleashes deadly blasts of dark energy that strip its terrified victims of their souls.",
+ "PitchBattleProfile": {
+  "UnitSize": "1",
+  "Points": "475",
+  "Role": "Behemoth",
+  "BaseSize": "100",
+  "Notes": "Single"
+ },
+ "Intro": "A Carmine Dragon is armed with Raking Claws, Amethyst Fangs and a Soul-sheering Blast.",
+ "Rules": [
+  {
+   "Name": "Fly",
+   "Fluff": "",
+   "Rule": "FLY: This model can fly."
+  },
+  {
+   "Name": "Monstrous Ally",
+   "Fluff": "",
+   "Rule": "MONSTROUS ALLY: This unit can be included as an allied unit in an army whose general has the ORDER keyword."
+  },
+  {
+   "Name": "Deathly Dark Scales",
+   "Fluff": "The Carmine Dragon’s hide is nigh-on impenetrable to all but the strongest of blows.",
+   "Rule": "ABILITIES This model has a ward of 5+."
+  },
+  {
+   "Name": "Soul-Sheering Blast",
+   "Fluff": "Gouts of amethyst flame erupt from the Carmine Dragon’s open maw, sheering souls from their mortal forms and leaving bodies rendered to nothing more than a purple-glowing pile of ash.",
+   "Rule": "Soul-sheering Blast: Do not use the attack sequence for an attack made with Soul-sheering Blast. Instead, roll a dice. On a 5+, the target unit suffers D6 mortal wounds."
+  },
+  {
+   "Name": "Spell Devourer",
+   "Fluff": "With the amethyst energies of the Realm of Endings coalescing through its body, the Carmine Dragon can force a magical effect to die off with a single pulse of thought.",
+   "Rule": "Each time this model is affected by a spell or the ability of an endless spell, you can roll a dice. On a 4+, ignore the effects of that spell or the ability of that endless spell on this model."
+  }
+ ],
+ "Keywords": [
+  "Order",
+  "Dragon",
+  "Monster",
+  "Carmine",
+  "Dragon"
+ ],
+ "Profile": {
+  "Movement": "*",
+  "Wounds": "14",
+  "Save": "3+",
+  "Bravery": "10"
+ },
+ "Tables": [
+  [
+   [
+    "MISSILE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Soul-sheering Blast",
+    "12\"",
+    "1",
+    "See below"
+   ]
+  ],
+  [
+   [
+    "MELEE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Raking Claws",
+    "2\"",
+    "*",
+    "4+",
+    "3+",
+    "-2",
+    "2"
+   ],
+   [
+    "Amethyst Fangs",
+    "3\"",
+    "3",
+    "3+",
+    "*",
+    "-2",
+    "D6"
+   ]
+  ],
+  [
+   [
+    "Wounds Suffered",
+    "Move",
+    "Raking Claws",
+    "Amethyst Fangs"
+   ],
+   [
+    "0-6",
+    "16\"",
+    "8",
+    "2+"
+   ],
+   [
+    "7-9",
+    "14\"",
+    "7",
+    "3+"
+   ],
+   [
+    "10-11",
+    "11\"",
+    "6",
+    "4+"
+   ],
+   [
+    "12+",
+    "9\"",
+    "5",
+    "5+"
+   ]
+  ]
+ ]
+}

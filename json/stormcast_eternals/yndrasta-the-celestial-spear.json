@@ -1,0 +1,97 @@
+{
+ "IsLegends": false,
+ "Url": "https://wahapedia.ru/aos3/factions/stormcast-eternals/Yndrasta-the-Celestial-Spear",
+ "Faction": "Stormcast Eternals",
+ "Title": "Yndrasta, the Celestial Spear",
+ "Legend": "Yndrasta is a warrior of Sigmar’s inner circle, Reforged by the God-King’s own hand and charged with serving as his winged beastslayer. She is the terror of the monstrous and an inspiring sight to the forces of civilisation.",
+ "PitchBattleProfile": {
+  "UnitSize": "1",
+  "Points": "260",
+  "Role": "Leader",
+  "BaseSize": "60",
+  "Notes": "Single, Unique"
+ },
+ "Intro": "Yndrasta, the Celestial Spear, is armed with Thengavar and the Blade of the High Heavens.",
+ "Rules": [
+  {
+   "Name": "Fly",
+   "Fluff": "",
+   "Rule": "FLY: This unit can fly."
+  },
+  {
+   "Name": "The Prime Huntress",
+   "Fluff": "Despite her angelic appearance, Yndrasta relishes hunting the mightiest and most terrifying quarry. Lifetimes of experience, celestial strength and the power of her spear Thengavar see even the most monolithic of terrors swiftly fall before her wrath.",
+   "Rule": "If any enemy MONSTERS are within 3\" of this unit, add 10 to the number of wounds suffered by those MONSTERS when determining which row on their damage table to use."
+  },
+  {
+   "Name": "Champion Of Sigmar",
+   "Fluff": "Forged by Sigmar's own hand, Yndrasta is protected by a divine aura so potent that swords and arrows simply rebound off her.",
+   "Rule": "Champion of Sigmar: This unit has a 4+ ward."
+  },
+  {
+   "Name": "Dazzling Radiance",
+   "Fluff": "Yndrasta’s god-touched brilliance can call stranded Stormcast souls into the fray once more.",
+   "Rule": "Once per turn in your hero phase, if this unit is on the battlefield, you can return 1 slain model to each friendly STORMCAST ETERNALS unit with a Wounds characteristic of 3 or less that is wholly within 12\" of this unit."
+  },
+  {
+   "Name": "Hawk Of The Celestial Skies",
+   "Fluff": "The sight of Yndrasta’s seraphic form soaring overhead inspires her warriors with immeasurable resolve.",
+   "Rule": "Hawk of the Celestial Skies: Do not take battleshock tests for friendly STORMCAST ETERNALS and CITIES OF SIGMAR units wholly within 12\" of this unit."
+  }
+ ],
+ "Keywords": [
+  "Order",
+  "Stormcast Eternals",
+  "Thunderstrike",
+  "Hero",
+  "Yndrasta"
+ ],
+ "Profile": {
+  "Movement": "12\"",
+  "Wounds": "8",
+  "Save": "3+",
+  "Bravery": "10"
+ },
+ "Tables": [
+  [
+   [
+    "MISSILE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Thengavar",
+    "18\"",
+    "1",
+    "2+",
+    "2+",
+    "-2",
+    "D6"
+   ]
+  ],
+  [
+   [
+    "MELEE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Blade of the High Heavens",
+    "1\"",
+    "4",
+    "3+",
+    "2+",
+    "-2",
+    "3"
+   ]
+  ]
+ ]
+}

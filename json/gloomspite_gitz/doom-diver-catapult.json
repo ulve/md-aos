@@ -1,0 +1,84 @@
+{
+ "IsLegends": true,
+ "Url": "https://wahapedia.ru/aos3/factions/gloomspite-gitz/Doom-Diver-Catapult",
+ "Faction": "Gloomspite Gitz",
+ "Title": "Doom Diver Catapult",
+ "Legend": "",
+ "PitchBattleProfile": {
+  "UnitSize": "1",
+  "Points": "135",
+  "Role": "Artillery",
+  "BaseSize": "",
+  "Notes": "Single"
+ },
+ "Intro": "A Doom Diver Catapult is armed with Divin’ Grots.",
+ "Rules": [
+  {
+   "Name": "Crew",
+   "Fluff": "",
+   "Rule": "CREW: A Doom Diver Catapult has a crew of 4 Grots, who are armed with Slittas. The crew must remain within l\" of the Doom Diver Catapult. For rules purposes, the Doom Diver Catapult and its crew are treated as a single model."
+  },
+  {
+   "Name": "Grot-Guided Missile",
+   "Fluff": "",
+   "Rule": "ABILITIESGrot-guided Missile: If the hit roll for an attack made with a Divin’ Grot is unsuccessful, roll a dice. On a 4+, you can pick a different enemy unit within 10\" of the original target. That unit is hit by the attack instead (make a wound roll and save roll as normal)."
+  }
+ ],
+ "Keywords": [
+  "Destruction",
+  "Gloomspite Gitz",
+  "Grot",
+  "War Machine",
+  "Doom",
+  "Diver",
+  "Catapult"
+ ],
+ "Profile": {
+  "Movement": "2\"",
+  "Wounds": "4",
+  "Save": "6+",
+  "Bravery": "4"
+ },
+ "Tables": [
+  [
+   [
+    "MISSILE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Divin’ Grot",
+    "30\"",
+    "1",
+    "3+",
+    "3+",
+    "-1",
+    "D3"
+   ]
+  ],
+  [
+   [
+    "MELEE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Slittas",
+    "1\"",
+    "4",
+    "5+",
+    "5+",
+    "-",
+    "1"
+   ]
+  ]
+ ]
+}

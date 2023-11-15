@@ -1,0 +1,98 @@
+{
+ "IsLegends": false,
+ "Url": "https://wahapedia.ru/aos3/factions/orruk-warclans/Hobgrot-Slittaz",
+ "Faction": "Orruk Warclans",
+ "Title": "Hobgrot Slittaz",
+ "Legend": "Mobs of Hobgrot Slittaz have often been witnessed accompanying the Kruleboy orruks to war. These malicious little brutes delight in eviscerating the foe with their slitta-knives and employing explosive devices pilfered from their duardin paymasters to blow unlucky enemies apart.",
+ "PitchBattleProfile": {
+  "UnitSize": "10",
+  "Points": "80",
+  "Role": "None",
+  "BaseSize": "25",
+  "Notes": ""
+ },
+ "Intro": "Each model in a Hobgrot Slittaz unit is armed with Slitta-knives and Sulphuric Scrap-grenades.",
+ "Rules": [
+  {
+   "Name": "Battalions",
+   "Fluff": "",
+   "Rule": "BATTALIONS: This warscroll can be used in the following warscroll battalions: • Light Finga"
+  },
+  {
+   "Name": "Champion",
+   "Fluff": "",
+   "Rule": "CHAMPION: 1 model in this unit can be a Hobgrot Boss. Add 1 to the Attacks characteristic of that model’s Slitta-knives."
+  },
+  {
+   "Name": "Standard Bearer",
+   "Fluff": "",
+   "Rule": "STANDARD BEARER: 1 in every 10 models in this unit can be a Scrap Totem Bearer. You can re-roll battleshock tests for a unit that includes any Scrap Totem Bearers."
+  },
+  {
+   "Name": "Musician",
+   "Fluff": "",
+   "Rule": "MUSICIAN: 1 in every 10 models in this unit can be a Noise-maker. This unit can run and still shoot later in the turn if it includes any Noise-makers."
+  },
+  {
+   "Name": "Stab ’Em Good!",
+   "Fluff": "Hobgrot Slittaz are surprisingly dexterous and are able to wield two weapons extremely effectively (for grots).",
+   "Rule": "If the unmodified hit roll for an attack made with Slitta-knives is 6, that attack scores 2 hits on the target instead of 1. Make a wound and save roll for each hit."
+  }
+ ],
+ "Keywords": [
+  "Destruction",
+  "Orruk Warclans",
+  "Hobgrot",
+  "Kruleboyz",
+  "Hobgrot",
+  "Slittaz"
+ ],
+ "Profile": {
+  "Movement": "5\"",
+  "Wounds": "1",
+  "Save": "6+",
+  "Bravery": "4"
+ },
+ "Tables": [
+  [
+   [
+    "MISSILE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Sulphuric Scrap-grenades",
+    "8\"",
+    "1",
+    "4+",
+    "3+",
+    "-1",
+    "1"
+   ]
+  ],
+  [
+   [
+    "MELEE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Slitta-knives",
+    "1\"",
+    "2",
+    "4+",
+    "5+",
+    "-",
+    "1"
+   ]
+  ]
+ ]
+}

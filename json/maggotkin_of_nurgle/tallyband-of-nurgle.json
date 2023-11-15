@@ -1,0 +1,24 @@
+{
+ "IsLegends": false,
+ "Url": "https://wahapedia.ru/aos3/factions/maggotkin-of-nurgle/Tallyband-of-Nurgle",
+ "Faction": "Maggotkin of Nurgle",
+ "Title": "Tallyband of Nurgle",
+ "Legend": "",
+ "PitchBattleProfile": {
+  "UnitSize": "",
+  "Points": "",
+  "Role": "",
+  "BaseSize": "",
+  "Notes": ""
+ },
+ "Intro": "",
+ "Rules": null,
+ "Keywords": null,
+ "Profile": {
+  "Movement": "",
+  "Wounds": "",
+  "Save": "",
+  "Bravery": ""
+ },
+ "Tables": null
+}

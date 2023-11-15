@@ -1,0 +1,24 @@
+{
+ "IsLegends": false,
+ "Url": "https://wahapedia.ru/aos3/factions/cities-of-sigmar/Grudgebound-War-Throng",
+ "Faction": "Cities of Sigmar",
+ "Title": "Grudgebound War Throng",
+ "Legend": "The warriors of the Dispossessed fight proudly in the reclamation of their ancient holds and in the settling of not-forgotten grudges.",
+ "PitchBattleProfile": {
+  "UnitSize": "",
+  "Points": "",
+  "Role": "",
+  "BaseSize": "",
+  "Notes": ""
+ },
+ "Intro": "",
+ "Rules": null,
+ "Keywords": null,
+ "Profile": {
+  "Movement": "",
+  "Wounds": "",
+  "Save": "",
+  "Bravery": ""
+ },
+ "Tables": null
+}

@@ -1,0 +1,68 @@
+{
+ "IsLegends": false,
+ "Url": "https://wahapedia.ru/aos3/factions/stormcast-eternals/Knight-Vexillor",
+ "Faction": "Stormcast Eternals",
+ "Title": "Knight-Vexillor",
+ "Legend": "To become a Knight-Vexillor, a Stormcast must pass repeated gruelling trials. Those who succeed are entrusted with the sacred banners of Azyr, relics that can transport warriors upon gale winds or call down rains of meteors.",
+ "PitchBattleProfile": {
+  "UnitSize": "1",
+  "Points": "120",
+  "Role": "Leader",
+  "BaseSize": "40",
+  "Notes": "Single"
+ },
+ "Intro": "A Knight-Vexillor is armed with a Warhammer. It can carry a Meteoric Standard or Pennant of the Stormbringer.",
+ "Rules": [
+  {
+   "Name": "Meteoric Standard",
+   "Fluff": "With a flourish of this heavy icon, the Knight-Vexillor pulls a comet down from the heavens and plunges it into the foe.",
+   "Rule": "If this unit carries a Meteoric Standard, once per battle, in your hero phase, you can pick 1 point on the battlefield within 24\" of this unit. Each enemy unit within 6\" of that point suffers D3 mortal wounds."
+  },
+  {
+   "Name": "Pennant Of The Stormbringer",
+   "Fluff": "This banner snaps in the tempest as the Knight-Vexillor draws powerful winds to carry allies across the field of battle.",
+   "Rule": "Pennant of the Stormbringer: If this unit carries a Pennant of the Stormbringer, once per battle, at the end of your movement phase, you can pick 1 friendly STORMCAST ETERNALS unit on the battlefield. Remove that unit from the battlefield and set it up again on the battlefield more than 9\" from all enemy units."
+  },
+  {
+   "Name": "Soul-Charged Icon",
+   "Fluff": "Those who fight in the shadow of this banner are filled with redoubled fervour.",
+   "Rule": "Soul-charged Icon: You can re-roll charge rolls for friendly STORMCAST ETERNALS units wholly within 12\" of this unit."
+  }
+ ],
+ "Keywords": [
+  "Order",
+  "Stormcast Eternals",
+  "Hero",
+  "Totem",
+  "Knight",
+  "Knight-Vexillor"
+ ],
+ "Profile": {
+  "Movement": "5\"",
+  "Wounds": "6",
+  "Save": "3+",
+  "Bravery": "8"
+ },
+ "Tables": [
+  [
+   [
+    "MELEE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Warhammer",
+    "1\"",
+    "4",
+    "3+",
+    "3+",
+    "-1",
+    "2"
+   ]
+  ]
+ ]
+}

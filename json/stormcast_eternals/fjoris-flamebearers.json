@@ -1,0 +1,24 @@
+{
+ "IsLegends": false,
+ "Url": "https://wahapedia.ru/aos3/factions/stormcast-eternals/Fjori-s-Flamebearers",
+ "Faction": "Stormcast Eternals",
+ "Title": "Fjori’s Flamebearers",
+ "Legend": "",
+ "PitchBattleProfile": {
+  "UnitSize": "",
+  "Points": "540",
+  "Role": "Warscroll Battalion",
+  "BaseSize": "",
+  "Notes": "Unique, Single. These units must be taken as a set referred to as Fjori’s Flamebearers. Although taken as a set, each is a separate unit."
+ },
+ "Intro": "",
+ "Rules": null,
+ "Keywords": null,
+ "Profile": {
+  "Movement": "",
+  "Wounds": "",
+  "Save": "",
+  "Bravery": ""
+ },
+ "Tables": null
+}

@@ -1,0 +1,70 @@
+{
+ "IsLegends": false,
+ "Url": "https://wahapedia.ru/aos3/factions/flesh-eater-courts/Duke-Crakmarrow",
+ "Faction": "Flesh-eater Courts",
+ "Title": "Duke Crakmarrow",
+ "Legend": "Duke Crakmarrow is the liege-lord of the Grymwatch. This cadaverous creature is seen as an exemplar of glorious gallantry by his kin, and a blood-spattered, carriondevouring monstrosity by the foes he meets in battle.",
+ "PitchBattleProfile": {
+  "UnitSize": "1",
+  "Points": "120",
+  "Role": "Leader",
+  "BaseSize": "32",
+  "Notes": "Single, Unique. Duke Crakmarrow and The Grymwatch must be taken as a set. Although taken as a set, each is a separate unit."
+ },
+ "Intro": "BATTALIONSThis warscroll can be used in the following warscroll battalions: • Mortevell’s Helcourt",
+ "Rules": [
+  {
+   "Name": "",
+   "Fluff": "",
+   "Rule": "DESCRIPTIONDuke Crakmarrow is a named character that is a single model. He is armed with a Halberd."
+  },
+  {
+   "Name": "Muster The Grymwatch",
+   "Fluff": "At the Duke’s beckoning, the Grymwatch are summoned forth.",
+   "Rule": "ABILITIESMuster the Grymwatch: In your hero phase, you can pick 1 friendly GRYMWATCH unit within 3\" of this model and roll 6 dice. For each 2+, you can return 1 slain model to that unit."
+  },
+  {
+   "Name": "Gallant Champion",
+   "Fluff": "Duke Crakmarrow has embarked upon a noble quest to slay the great beast that threatens his kingdom.",
+   "Rule": "Add 1 to the damage inflicted by each successful attack made by this model that targets a MONSTER."
+  }
+ ],
+ "Keywords": [
+  "Death",
+  "Mordant",
+  "Flesh-Eater Courts",
+  "Hollowmourne",
+  "Courtier",
+  "Hero",
+  "Duke",
+  "Crakmarrow"
+ ],
+ "Profile": {
+  "Movement": "6\"",
+  "Wounds": "4",
+  "Save": "5+",
+  "Bravery": "10"
+ },
+ "Tables": [
+  [
+   [
+    "MELEE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Halberd",
+    "2\"",
+    "3",
+    "3+",
+    "3+",
+    "-1",
+    "2"
+   ]
+  ]
+ ]
+}

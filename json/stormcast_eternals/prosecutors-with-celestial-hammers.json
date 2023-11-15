@@ -1,0 +1,132 @@
+{
+ "IsLegends": false,
+ "Url": "https://wahapedia.ru/aos3/factions/stormcast-eternals/Prosecutors-with-Celestial-Hammers",
+ "Faction": "Stormcast Eternals",
+ "Title": "Prosecutors with Celestial Hammers",
+ "Legend": "Prosecutors are winged heralds who soar above the battlefield upon wings of starlight. Wielding enchanted hammers that are summoned directly from the tempest, they rain down a constant barrage of death upon the foe.",
+ "PitchBattleProfile": {
+  "UnitSize": "3",
+  "Points": "110",
+  "Role": "None",
+  "BaseSize": "40",
+  "Notes": "Battleline in a Tempest Lords army"
+ },
+ "Intro": "Each model in a Prosecutors with Celestial Hammers unit is armed with 1 of the following weapon options: Pair of Celestial Hammers; or Celestial Hammer and Sigmarite Shield. All models in the unit must be armed with the same weapon option. 1 in every 3 models can replace their weapon option with a Grandweapon.",
+ "Rules": [
+  {
+   "Name": "Battalions",
+   "Fluff": "",
+   "Rule": "BATTALIONS: This warscroll can be used in the following warscroll battalions: • Hammerstrike Force • Vanguard Wing"
+  },
+  {
+   "Name": "Fly",
+   "Fluff": "",
+   "Rule": "FLY: This unit can fly."
+  },
+  {
+   "Name": "Champion",
+   "Fluff": "",
+   "Rule": "CHAMPION: 1 model in this unit can be a Prosecutor-Prime. Add 1 to the Attacks characteristic of that model’s Celestial Hammer or Pair of Celestial Hammers."
+  },
+  {
+   "Name": "Dispersed Formation",
+   "Fluff": "Prosecutors are trained to fight in a widely dispersed formation.",
+   "Rule": "If this unit has 2 to 5 models, it is coherent if each model in the unit is within 3\" horizontally of at least 1 other model in the unit instead of 1\". If this unit has more than 5 models, it is coherent if each model in the unit is within 3\" horizontally of at least 2 other models in the unit instead of 1\"."
+  },
+  {
+   "Name": "Heralds Of Righteousness",
+   "Fluff": "Prosecutors cross the battlefield in a blur of light.",
+   "Rule": "Heralds of Righteousness: You can attempt a charge with this unit if it is within 18\" of an enemy unit instead of 12\". Roll 3D6 instead of 2D6 when making a charge roll for this unit."
+  },
+  {
+   "Name": "Sigmarite Shields",
+   "Fluff": "Stormcast Eternals can use their sigmarite shields to create an impregnable shieldwall.",
+   "Rule": "Add 1 to save rolls for attacks that target this unit if at least half of the models in this unit (rounding down) are armed with Sigmarite Shields."
+  }
+ ],
+ "Keywords": [
+  "Order",
+  "Stormcast Eternals",
+  "Angelos",
+  "Prosecutors",
+  "Prosecutors",
+  "With",
+  "Celestial",
+  "Hammers"
+ ],
+ "Profile": {
+  "Movement": "12\"",
+  "Wounds": "2",
+  "Save": "4+",
+  "Bravery": "7"
+ },
+ "Tables": [
+  [
+   [
+    "MISSILE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Celestial Hammer",
+    "9\"",
+    "2",
+    "4+",
+    "4+",
+    "-1",
+    "1"
+   ],
+   [
+    "Pair of Celestial Hammers",
+    "9\"",
+    "3",
+    "4+",
+    "4+",
+    "-1",
+    "1"
+   ]
+  ],
+  [
+   [
+    "MELEE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Celestial Hammer",
+    "1\"",
+    "2",
+    "3+",
+    "3+",
+    "-1",
+    "1"
+   ],
+   [
+    "Pair of Celestial Hammers",
+    "1\"",
+    "3",
+    "3+",
+    "3+",
+    "-1",
+    "1"
+   ],
+   [
+    "Grandweapon",
+    "1\"",
+    "2",
+    "3+",
+    "3+",
+    "-1",
+    "2"
+   ]
+  ]
+ ]
+}

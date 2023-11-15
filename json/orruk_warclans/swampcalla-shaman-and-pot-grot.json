@@ -1,0 +1,92 @@
+{
+ "IsLegends": false,
+ "Url": "https://wahapedia.ru/aos3/factions/orruk-warclans/Swampcalla-Shaman-and-Pot-grot",
+ "Faction": "Orruk Warclans",
+ "Title": "Swampcalla Shaman and Pot-grot",
+ "Legend": "Even for Kruleboyz, Swampcalla Shamans are foul creatures. These spell-flingers have an innate connection to the mires they inhabit, which they channel into noisome spells of debilitation while brewing up vile elixirs to aid their green-skinned kin.",
+ "PitchBattleProfile": {
+  "UnitSize": "1",
+  "Points": "100",
+  "Role": "",
+  "BaseSize": "",
+  "Notes": "Single"
+ },
+ "Intro": "A Swampcalla Shaman and Pot-grot is armed with a Bogbark Staff.",
+ "Rules": [
+  {
+   "Name": "Battalions",
+   "Fluff": "",
+   "Rule": "BATTALIONS: This warscroll can be used in the following warscroll battalions: • Thumb"
+  },
+  {
+   "Name": "Wizard",
+   "Fluff": "",
+   "Rule": "WIZARD: This unit can attempt to cast 1 spell in your hero phase and attempt to unbind 1 spell in the enemy hero phase."
+  },
+  {
+   "Name": "Companion",
+   "Fluff": "",
+   "Rule": "COMPANION: This unit’s Pot-grot is armed with a Back-up Stabba. The Pot-grot must remain within 1\" of the Swampcalla Shaman. For rules purposes, the Swampcalla Shaman and Pot-grot are treated as a single model."
+  },
+  {
+   "Name": "",
+   "Fluff": "",
+   "Rule": "At the start of your hero phase, if this unit is more than 3\" from all enemy units you can say that it is brewing either a poison or an elixir. If you do so, pick 1 friendly KRULEBOYZ ORRUK unit wholly within 12\" of this unit, more than 3\" from all enemy units and that has at least 1 model within 3\" of this unit to be given that poison or elixir. A unit that has been given a poison or elixir cannot be given another poison or elixir in the same hero phase."
+  },
+  {
+   "Name": "Summon Boggy Mist",
+   "Fluff": "Raising their hands with a guttural belch, the Swampcalla transmutes the ground into marshland. As they do so, thick and foul-smelling swamp mists smother the field, distracting enemies and aiding the Kruleboyz in a stealthy advance.",
+   "Rule": "Summon Boggy Mist is a spell that has a casting value of 7. If successfully cast, until your next hero phase, add 1 to charge rolls for friendly KRULEBOYZ ORRUK units on the battlefield and subtract 1 from charge rolls for other units on the battlefield."
+  }
+ ],
+ "Keywords": [
+  "Destruction",
+  "Orruk Warclans",
+  "Orruk",
+  "Kruleboyz",
+  "Hero",
+  "Wizard",
+  "Swampcalla Shaman",
+  "Swampcalla",
+  "Shaman",
+  "And",
+  "Pot-Grot"
+ ],
+ "Profile": {
+  "Movement": "5\"",
+  "Wounds": "6",
+  "Save": "5+",
+  "Bravery": "6"
+ },
+ "Tables": [
+  [
+   [
+    "MELEE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Bogbark Staff",
+    "3\"",
+    "2",
+    "3+",
+    "3+",
+    "-1",
+    "D3"
+   ],
+   [
+    "Back-up Stabba",
+    "1\"",
+    "2",
+    "4+",
+    "4+",
+    "-",
+    "1"
+   ]
+  ]
+ ]
+}

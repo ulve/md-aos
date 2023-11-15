@@ -1,0 +1,113 @@
+{
+ "IsLegends": true,
+ "Url": "https://wahapedia.ru/aos3/factions/maggotkin-of-nurgle/Curs-d-Ettin",
+ "Faction": "Maggotkin of Nurgle",
+ "Title": "Curs’d Ettin",
+ "Legend": "A Curs’d Ettin is a hideous monstrosity of fused kinsmen, two souls trapped within one malformed body. Lured to battle with promises of meat and death, the bickering siblings crush their foes with ponderous swings of their single, club-like arm.",
+ "PitchBattleProfile": {
+  "UnitSize": "1",
+  "Points": "215",
+  "Role": "Behemoth",
+  "BaseSize": "120 x 92",
+  "Notes": "Single"
+ },
+ "Intro": "The Curs’d Ettin is armed with a Crushing Fist and Stomps.",
+ "Rules": [
+  {
+   "Name": "Monstrous Ally",
+   "Fluff": "",
+   "Rule": "MONSTROUS ALLY: This unit can be included as an allied unit in an army whose general has the CHAOS keyword."
+  },
+  {
+   "Name": "Cannibal Feast",
+   "Fluff": "Whatever the Curs’d Ettin crushes it feasts upon, its strange physiology enabling it to grow stronger with each kill.",
+   "Rule": "ABILITIES At the end of the combat phase, if any enemy models were slain by wounds inflicted by this model’s attacks in that combat phase, you can heal up to D3 wounds allocated to this model."
+  },
+  {
+   "Name": "Gibbering Curse",
+   "Fluff": "The incessant argumentative gibbering that comes from the Curs’d Ettin’s two heads carries the power of Chaos, driving those who hear it insane.",
+   "Rule": "At the start of your hero phase, roll 2D6 for each enemy unit within 3\" of this model. If the roll is greater than that unit’s Bravery characteristic, that unit suffers D3 mortal wounds."
+  },
+  {
+   "Name": "Two-Headed Horror",
+   "Fluff": "The Curs’d Ettin’s two heads eternally bicker with each other, but there is one thing they always agree upon – the need for fresh meat!",
+   "Rule": "Two-headed Horror: At the start of the combat phase, you can pick 1 enemy model that has a Wounds characteristic of 2 or less and that is within 3\" of this model, and roll a dice. On a 6, that model is slain."
+  }
+ ],
+ "Keywords": [
+  "Chaos",
+  "Mortal",
+  "Monster",
+  "Curs’d",
+  "Ettin"
+ ],
+ "Profile": {
+  "Movement": "*",
+  "Wounds": "13",
+  "Save": "5+",
+  "Bravery": "7"
+ },
+ "Tables": [
+  [
+   [
+    "MELEE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Crushing Fist",
+    "2\"",
+    "1",
+    "*",
+    "3+",
+    "-2",
+    "D6"
+   ],
+   [
+    "Stomp",
+    "1\"",
+    "*",
+    "4+",
+    "3+",
+    "-1",
+    "2"
+   ]
+  ],
+  [
+   [
+    "Wounds Suffered",
+    "Move",
+    "Crushing Fist",
+    "Stomp"
+   ],
+   [
+    "0-6",
+    "10\"",
+    "2+",
+    "5"
+   ],
+   [
+    "7-8",
+    "8\"",
+    "3+",
+    "4"
+   ],
+   [
+    "9-10",
+    "7\"",
+    "3+",
+    "3"
+   ],
+   [
+    "11+",
+    "6\"",
+    "4+",
+    "2"
+   ]
+  ]
+ ]
+}

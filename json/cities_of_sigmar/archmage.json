@@ -1,0 +1,73 @@
+{
+ "IsLegends": true,
+ "Url": "https://wahapedia.ru/aos3/factions/cities-of-sigmar/Archmage",
+ "Faction": "Cities of Sigmar",
+ "Title": "Archmage",
+ "Legend": "",
+ "PitchBattleProfile": {
+  "UnitSize": "1",
+  "Points": "110",
+  "Role": "Leader",
+  "BaseSize": "",
+  "Notes": "Single"
+ },
+ "Intro": "An Archmage is armed with a Seerstaff.",
+ "Rules": [
+  {
+   "Name": "Mount",
+   "Fluff": "",
+   "Rule": "MOUNT: This unit can have an Aelven Steed mount that is armed with Swift Hooves. If this unit has an Aelven Steed mount, it has a Move characteristic of 14\" instead of 6\"."
+  },
+  {
+   "Name": "Elemental Shield",
+   "Fluff": "",
+   "Rule": "ABILITIES Elemental Shield is a spell that has a casting value of 6 and a range of 18\". If successfully cast, until your next hero phase, the caster has a ward of 6+, and friendly units have a ward of 6+ while they are wholly within 18\" of the caster."
+  }
+ ],
+ "Keywords": [
+  "Order",
+  "Cities Of Sigmar",
+  "Aelf",
+  "Eldritch Council",
+  "Hero",
+  "Wizard",
+  "Archmage"
+ ],
+ "Profile": {
+  "Movement": "6\"",
+  "Wounds": "5",
+  "Save": "6+",
+  "Bravery": "7"
+ },
+ "Tables": [
+  [
+   [
+    "MELEE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Seerstaff",
+    "1\"",
+    "1",
+    "5+",
+    "5+",
+    "-",
+    "1"
+   ],
+   [
+    "Swift Hooves",
+    "1\"",
+    "2",
+    "4+",
+    "4+",
+    "-",
+    "1"
+   ]
+  ]
+ ]
+}

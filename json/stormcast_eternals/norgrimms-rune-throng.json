@@ -1,0 +1,24 @@
+{
+ "IsLegends": false,
+ "Url": "https://wahapedia.ru/aos3/factions/stormcast-eternals/Norgrimm-s-Rune-Throng",
+ "Faction": "Stormcast Eternals",
+ "Title": "Norgrimm’s Rune Throng",
+ "Legend": "Once, Clan Arzabul were nobles amongst the Khazalid Empire. Yet the fall of that kingdom quashed their fortunes. Rather than succumb to despair, the Runelord Norgrimm leads the survivors to search the ruined karaks for valuable rune-lore. Amongst this recovered knowledge is the Rune of Restored Hearth.",
+ "PitchBattleProfile": {
+  "UnitSize": "",
+  "Points": "340",
+  "Role": "Warscroll Battalion",
+  "BaseSize": "Notes: Unique, Single. These units must be taken as a set referred to as Norgri",
+  "Notes": "Unique, Single. These units must be taken as a set referred to as Norgrimm’s Rune Throng. Although taken as a set, each is a separate unit."
+ },
+ "Intro": "",
+ "Rules": null,
+ "Keywords": null,
+ "Profile": {
+  "Movement": "",
+  "Wounds": "",
+  "Save": "",
+  "Bravery": ""
+ },
+ "Tables": null
+}

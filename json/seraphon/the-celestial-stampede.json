@@ -1,0 +1,24 @@
+{
+ "IsLegends": false,
+ "Url": "https://wahapedia.ru/aos3/factions/seraphon/The-Celestial-Stampede",
+ "Faction": "Seraphon",
+ "Title": "The Celestial Stampede",
+ "Legend": "Few skinks possess as much knowledge of the Old Ones’ strange technologies as Iq-To, master of the Celestial Stampede. At the command of the slann, the venerable Starwarden leads forth thundering hosts of weapon-bearing warbeasts to purge the Seraphon’s foes.",
+ "PitchBattleProfile": {
+  "UnitSize": "",
+  "Points": "140",
+  "Role": "Warscroll Battalion",
+  "BaseSize": "",
+  "Notes": ""
+ },
+ "Intro": "",
+ "Rules": null,
+ "Keywords": null,
+ "Profile": {
+  "Movement": "",
+  "Wounds": "",
+  "Save": "",
+  "Bravery": ""
+ },
+ "Tables": null
+}

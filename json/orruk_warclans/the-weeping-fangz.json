@@ -1,0 +1,24 @@
+{
+ "IsLegends": false,
+ "Url": "https://wahapedia.ru/aos3/factions/orruk-warclans/The-Weeping-Fangz",
+ "Faction": "Orruk Warclans",
+ "Title": "The Weeping Fangz",
+ "Legend": "After the battle at Amberstone Watch, the Weeping Fangz were scattered into several splinter warbands. But a Kruleboy is most dangerous when backed into a corner - especially when that Kruleboy is the Killaboss Brokkagok.",
+ "PitchBattleProfile": {
+  "UnitSize": "",
+  "Points": "",
+  "Role": "",
+  "BaseSize": "",
+  "Notes": ""
+ },
+ "Intro": "",
+ "Rules": null,
+ "Keywords": null,
+ "Profile": {
+  "Movement": "",
+  "Wounds": "",
+  "Save": "",
+  "Bravery": ""
+ },
+ "Tables": null
+}

@@ -1,0 +1,59 @@
+{
+ "IsLegends": false,
+ "Url": "https://wahapedia.ru/aos3/factions/flesh-eater-courts/Marrowscroll-Herald",
+ "Faction": "Flesh-eater Courts",
+ "Title": "Marrowscroll Herald",
+ "Legend": "",
+ "PitchBattleProfile": {
+  "UnitSize": "1",
+  "Points": "115",
+  "Role": "Leader",
+  "BaseSize": "",
+  "Notes": "Single"
+ },
+ "Intro": "A Marrowscroll Herald is armed with a Bone Scythe.",
+ "Rules": [
+  {
+   "Name": "Don’t Shoot The Messenger",
+   "Fluff": "Marrowscroll Heralds are viewed as divine messengers by their ghoulish minions, who will go to any lengths to protect them.",
+   "Rule": "Don’t Shoot the Messenger: This unit is not visible to enemy models while it is wholly within 6\" of 5 or more other friendly FLESH-EATER COURTS models."
+  }
+ ],
+ "Keywords": [
+  "Death",
+  "Flesh-Eater Courts",
+  "Mordant",
+  "Courtier",
+  "Hero",
+  "Marrowscroll",
+  "Herald"
+ ],
+ "Profile": {
+  "Movement": "6\"",
+  "Wounds": "5",
+  "Save": "5+",
+  "Bravery": "10"
+ },
+ "Tables": [
+  [
+   [
+    "MELEE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Bone Scythe",
+    "2\"",
+    "5",
+    "3+",
+    "3+",
+    "-1",
+    "2"
+   ]
+  ]
+ ]
+}

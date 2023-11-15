@@ -1,0 +1,24 @@
+{
+ "IsLegends": false,
+ "Url": "https://wahapedia.ru/aos3/factions/orruk-warclans/Da-Bossfist",
+ "Faction": "Orruk Warclans",
+ "Title": "Da Bossfist",
+ "Legend": "At the head of the Ironsunz hordes comes Dakkbad Grotkicker, the grand overboss himself. Around him are assembled the ’ardest orruks he can muster, their prowess further enhanced by his formidable kunnin’.",
+ "PitchBattleProfile": {
+  "UnitSize": "",
+  "Points": "220",
+  "Role": "Warscroll Battalion",
+  "BaseSize": "",
+  "Notes": ""
+ },
+ "Intro": "",
+ "Rules": null,
+ "Keywords": null,
+ "Profile": {
+  "Movement": "",
+  "Wounds": "",
+  "Save": "",
+  "Bravery": ""
+ },
+ "Tables": null
+}

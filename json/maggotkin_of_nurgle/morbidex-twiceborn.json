@@ -1,0 +1,138 @@
+{
+ "IsLegends": false,
+ "Url": "https://wahapedia.ru/aos3/factions/maggotkin-of-nurgle/Morbidex-Twiceborn",
+ "Faction": "Maggotkin of Nurgle",
+ "Title": "Morbidex Twiceborn",
+ "Legend": "Morbidex Twiceborn is the champion of the Nurglings and has gained much of their unnatural resilience. In battle, swarms of the impish daemons trail after their living idol, drowning enemies in a filthy living tide.",
+ "PitchBattleProfile": {
+  "UnitSize": "1",
+  "Points": "290",
+  "Role": "Leader, Behemoth",
+  "BaseSize": "100",
+  "Notes": "Single, Unique"
+ },
+ "Intro": "Morbidex Twiceborn is armed with a Fleshreaper Scythe.",
+ "Rules": [
+  {
+   "Name": "Battalions",
+   "Fluff": "",
+   "Rule": "BATTALIONS: This warscroll can be used in the following warscroll battalions: • Contagium Overlord"
+  },
+  {
+   "Name": "Mount",
+   "Fluff": "",
+   "Rule": "MOUNT: 'This unit’s Pox Maggoth, Tripletongue, is armed with Slabrous Tongues and Monstrous Claws."
+  },
+  {
+   "Name": "Gigantic Nurgling-Kin",
+   "Fluff": "Twisted by the cruel attentions of manifold Nurglings, Morbidex has come to resemble them physically and has gained much of their unnatural resilience.",
+   "Rule": "Gigantic Nurgling-kin: At the end of the battleshock phase, heal half of the wounds that have been allocated to this unit (rounding up)."
+  },
+  {
+   "Name": "Lord Of Nurglings",
+   "Fluff": "Morbidex Twiceborn is the chosen mortal champion of the Nurglings, who follow him into battle with boundless enthusiasm.",
+   "Rule": "Lord of Nurglings: At the start of your hero phase, you can return 1 slain model to 1 friendly NURGLING SWARM within 7\" of this unit."
+  }
+ ],
+ "Keywords": [
+  "Chaos",
+  "Mortal",
+  "Nurgle",
+  "Maggotkin Of Nurgle",
+  "Monster",
+  "Hero",
+  "Maggoth Lord",
+  "Nurgling",
+  "Morbidex",
+  "Twiceborn"
+ ],
+ "Profile": {
+  "Movement": "*",
+  "Wounds": "12",
+  "Save": "3+",
+  "Bravery": "9"
+ },
+ "Tables": [
+  [
+   [
+    "MISSILE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Slabrous Tongues",
+    "7\"",
+    "3",
+    "3+",
+    "*",
+    "-1",
+    "1"
+   ]
+  ],
+  [
+   [
+    "MELEE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Fleshreaper Scythe",
+    "1\"",
+    "5",
+    "3+",
+    "3+",
+    "-1",
+    "2"
+   ],
+   [
+    "Monstrous Claws",
+    "1\"",
+    "*",
+    "3+",
+    "2+",
+    "-2",
+    "3"
+   ]
+  ],
+  [
+   [
+    "Wounds Suffered",
+    "Move",
+    "Slabrous Tongues",
+    "Monstrous Claws"
+   ],
+   [
+    "0-5",
+    "8\"",
+    "2+",
+    "5"
+   ],
+   [
+    "6-8",
+    "7\"",
+    "3+",
+    "4"
+   ],
+   [
+    "9-10",
+    "6\"",
+    "4+",
+    "3"
+   ],
+   [
+    "11+",
+    "5\"",
+    "5+",
+    "2"
+   ]
+  ]
+ ]
+}

@@ -1,0 +1,64 @@
+{
+ "IsLegends": false,
+ "Url": "https://wahapedia.ru/aos3/factions/gloomspite-gitz/Grinkrak-the-Great",
+ "Faction": "Gloomspite Gitz",
+ "Title": "Grinkrak the Great",
+ "Legend": "A denizen of the Gnarlwood, Grinkrak holds court around the ‘Great Stinkhorn’ – a particularly colossal mushroom. His latest scheme is to ‘knight’ his grot minions using his bossin’ stikk, filling the greenskins with a sort of bravery.",
+ "PitchBattleProfile": {
+  "UnitSize": "1",
+  "Points": "220",
+  "Role": "Leader",
+  "BaseSize": "32",
+  "Notes": "Single, Unique. Grinkrak the Great and Grinkrak’s Looncourt units must be taken as a set. Although taken as a set, each is a Grinkrak’s Looncourt separate unit."
+ },
+ "Intro": "Grinkrak the Great is armed with a Moon-slicer.",
+ "Rules": [
+  {
+   "Name": "Dead Tricksy",
+   "Fluff": "Loonbosses are masters at using cunning and tricks in order to survive.",
+   "Rule": "This unit has a ward of 6+."
+  },
+  {
+   "Name": "‘I Dub Thee…’",
+   "Fluff": "Grinkrak has fooled his followers into believing themselves actual knights, blessed by his bossin’ baton. In truth, he just needs some grots to do his bidding, and the accompanying pomp and ceremony ensures they give it their all.",
+   "Rule": "At the start of the combat phase, you can pick 1 other friendly MOONCLAN unit within 3\" of this unit to be dubbed. If you do so, until the end of that phase, if any models in that unit are slain, those models can fight before they are removed from play."
+  }
+ ],
+ "Keywords": [
+  "Destruction",
+  "Gloomspite Gitz",
+  "Grot",
+  "Moonclan",
+  "King’s Gitz",
+  "Hero",
+  "Grinkrak"
+ ],
+ "Profile": {
+  "Movement": "5\"",
+  "Wounds": "6",
+  "Save": "4+",
+  "Bravery": "5"
+ },
+ "Tables": [
+  [
+   [
+    "MELEE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Moon-slicer",
+    "2\"",
+    "5",
+    "3+",
+    "3+",
+    "-1",
+    "D3"
+   ]
+  ]
+ ]
+}

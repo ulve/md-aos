@@ -1,0 +1,72 @@
+{
+ "IsLegends": false,
+ "Url": "https://wahapedia.ru/aos3/factions/stormcast-eternals/Questor-Soulsworn",
+ "Faction": "Stormcast Eternals",
+ "Title": "Questor Soulsworn",
+ "Legend": "While the Questor Soulsworn still wear the colours of their Stormhost, they exist outside the chamber structure of Sigmar’s heavenly armies. Any Stormcast, be they lord or line warrior, may receive this call. Upon answering, they swear temporary fellowship to the Soulsworn, charged with missions of the grandest import.",
+ "PitchBattleProfile": {
+  "UnitSize": "6",
+  "Points": "230",
+  "Role": "None",
+  "BaseSize": "40",
+  "Notes": "Single"
+ },
+ "Intro": "Each model in a Questor Soulsworn unit is armed with Soulsworn Weapons.",
+ "Rules": [
+  {
+   "Name": "Champion",
+   "Fluff": "",
+   "Rule": "CHAMPION: 1 model in this unit can be a Questor-Prime. Add 1 to the Attacks characteristic of that model’s Soulsworn Weapons."
+  },
+  {
+   "Name": "Relictor Soulguide",
+   "Fluff": "",
+   "Rule": "SOULSWORN KNIGHT-RELICTOR: 1 model in this unit can be a Soulsworn Knight-Relictor. This unit can only use the Relictor Soulguide ability while it includes a Soulsworn Knight-Relictor."
+  },
+  {
+   "Name": "Relictor Soulguide",
+   "Fluff": "The Knight-Relictor that accompanies the Soulsworn is able to translocate the Stormcasts to where they are most needed.",
+   "Rule": "Once per battle, in your hero phase, you can say that this unit is being guided to glory. When you do so, remove this unit from the battlefield and set it up again anywhere on the battlefield more than 9\" from all enemy units. It cannot move in the following movement phase."
+  },
+  {
+   "Name": "Ordained Quest",
+   "Fluff": "Soulsworn often travel deep into enemy territory to gain control of a vital landmark that conceals valuable secrets.",
+   "Rule": "For the purposes of contesting objectives wholly outside your territory, each model in this unit counts as 3 models."
+  }
+ ],
+ "Keywords": [
+  "Order",
+  "Stormcast Eternals",
+  "Thunderstrike",
+  "Questor",
+  "Soulsworn"
+ ],
+ "Profile": {
+  "Movement": "5\"",
+  "Wounds": "3",
+  "Save": "3+",
+  "Bravery": "8"
+ },
+ "Tables": [
+  [
+   [
+    "MELEE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Soulsworn Weapons",
+    "2\"",
+    "3",
+    "3+",
+    "3+",
+    "-1",
+    "2"
+   ]
+  ]
+ ]
+}

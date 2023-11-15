@@ -1,0 +1,123 @@
+{
+ "IsLegends": true,
+ "Url": "https://wahapedia.ru/aos3/factions/stormcast-eternals/Lynus-Ghalmorian-on-Gryph-Charger",
+ "Faction": "Stormcast Eternals",
+ "Title": "Lynus Ghalmorian on Gryph Charger",
+ "Legend": "The Lord-Arcanum of the Sempiternals is a master of both aetheric and amethyst magic. Mounted on his Gryph-charger Katafalq he courses into battle, determined to atone for past failures and bring ruin to those who would prey on the innocent.",
+ "PitchBattleProfile": {
+  "UnitSize": "1",
+  "Points": "240",
+  "Role": "Leader",
+  "BaseSize": "",
+  "Notes": "Unique"
+ },
+ "Intro": "BATTALIONSThis warscroll can be used in the following warscroll battalions: • Grand Convocation • Sempiternals Grand Convocation",
+ "Rules": [
+  {
+   "Name": "",
+   "Fluff": "",
+   "Rule": "DESCRIPTIONLynus Ghalmorian is a named character that is a single model. He is armed with an Aetherstave."
+  },
+  {
+   "Name": "Mount",
+   "Fluff": "",
+   "Rule": "MOUNT: Lynus Gryph-charger, Katafalq, attacks with its Razor Beak and Claws."
+  },
+  {
+   "Name": "Aethereal Strike",
+   "Fluff": "A Gryph-charger’s claws are supernaturally sharp, tearing through armour with ease.",
+   "Rule": "ABILITIES If the unmodified hit roll for an attack made with a Gryph-charger’s Razor Beak and Claws is 6, that attack inflicts 1 mortal wound on the target and the attack sequence ends (do not make a wound or save roll)."
+  },
+  {
+   "Name": "Cycle Of The Storm",
+   "Fluff": "A Lord-Arcanum is capable of capturing the soul-stuff of a fallen Stormcast Eternal, returning it back to the battlefield to continue the fight.",
+   "Rule": "Cycle of the Storm: Once per turn, when a friendly STORMCAST ETERNAL model is slain within 18\" of this model, instead of removing the slain model, you can heal 1 wound allocated to it. This model cannot use this ability on itself."
+  },
+  {
+   "Name": "Ride The Winds Aetheric",
+   "Fluff": "Gryph-chargers can move faster than the eye can follow along the winds aetheric, though the shifting of these winds makes such movement perilous at times.",
+   "Rule": "Ride the Winds Aetheric: In your movement phase, this model can Ride the Winds Aetheric instead of moving normally. If it does so, choose the direction in which it will move, and roll 6D6. This model can move up to a number of inches equal to the result in the direction chosen, moving over terrain and other models as if it could fly. It must end the move more than 3\" from enemy models - if this is impossible, it cannot move at all. This model cannot charge in a turn in which it Rides the Winds Aetheric."
+  },
+  {
+   "Name": "Spirit Flask",
+   "Fluff": "As a desperate last resort, Lord Arcanums can smash open one or more of the filled spirit flasks that they carry, causing a deadly explosion of soul energy that engulfs the wizard and anybody that is nearby.",
+   "Rule": "Once per battle, at the start of the combat phase, you can say that this model will shatter 1, 2 or 3 spirit flasks. If you do so, each unit within 3\" of this model suffers 1 mortal wound for each spirit flask that was shattered. Units within 3\" with 10 or more models suffer D3 mortal wounds for each spirit flask that was shattered instead. Allocate the mortal wounds to this model last of all, after allocating them to any other units that are affected."
+  },
+  {
+   "Name": "Shield Of The Pale Knight",
+   "Fluff": "Embedded with the bones of a long-dead saint, this invictunite relic radiates protective power.",
+   "Rule": "Shield of the Pale Knight: You can re-roll save rolls of 1 for attacks made with missile weapons that target this model or any friendly ANVILS OF THE HELDENHAMMER units wholly within 12\" of this model."
+  },
+  {
+   "Name": "Prime Electrids",
+   "Fluff": "",
+   "Rule": "MAGICThis model is a WIZARD. He can attempt to cast one spell in your hero phase, and attempt to unbind one spell in the enemy hero phase. He knows the Arcane Bolt, Mystic Shield and Amethyst Gale spells. In addition, the Arcane Bolts that this model unleashes are fuelled by Prime Electrids."
+  },
+  {
+   "Name": "Amethyst Gale",
+   "Fluff": "A hurricane of deathly energy rushes from the Lord-Arcanums aetherstave, tearing through the enemy ranks and leaving them in terrified disarray.",
+   "Rule": "Amethyst Gale has a casting value of 6. If successfully cast, pick an enemy unit within 12\" of the caster that is visible to them. That unit suffers D3 mortal wounds. In addition, until your next hero phase, subtract 1 from hit rolls for attacks made by that unit."
+  },
+  {
+   "Name": "Arcane Bolt",
+   "Fluff": "With the power of Azyr crackling through them, Lord-Arcanums can summon lightning as easily as another mortal draws breath.",
+   "Rule": "Prime Electrids: If this model successfully casts Arcane Bolt and it is not unbound, then the spell inflicts D3 mortal wounds instead of 1, or D6 mortal wounds instead of D3 if the casting roll was 10+."
+  },
+  {
+   "Name": "Sombre Exemplar",
+   "Fluff": "Ghalmorian is master of the Sempiternals, leading his chamber from the front with a grave-cold devotion to duty.",
+   "Rule": "COMMAND ABILITIES You can use this command ability at the start of the combat phase. If you do so, until the end of that phase add 1 to hit rolls for attacks made by friendly ANVILS OF THE HELDENHAMMER units while they are wholly within 12\" of this model."
+  }
+ ],
+ "Keywords": [
+  "Order",
+  "Celestial",
+  "Human",
+  "Gryph-Charger",
+  "Stormcast Eternals",
+  "Anvils Of The Heldenhammer",
+  "Sacrosanct",
+  "Hero",
+  "Wizard",
+  "Lord-Arcanum",
+  "Lynus",
+  "Ghalmorian"
+ ],
+ "Profile": {
+  "Movement": "12\"",
+  "Wounds": "7",
+  "Save": "3+",
+  "Bravery": "9"
+ },
+ "Tables": [
+  [
+   [
+    "MELEE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Aetherstave",
+    "2\"",
+    "4",
+    "3+",
+    "3+",
+    "-1",
+    "D3"
+   ],
+   [
+    "Razor Beak and Claws",
+    "1\"",
+    "3",
+    "3+",
+    "3+",
+    "-2",
+    "1"
+   ]
+  ]
+ ]
+}

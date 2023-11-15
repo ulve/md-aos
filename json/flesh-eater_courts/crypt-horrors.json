@@ -1,0 +1,73 @@
+{
+ "IsLegends": false,
+ "Url": "https://wahapedia.ru/aos3/factions/flesh-eater-courts/Crypt-Horrors",
+ "Faction": "Flesh-eater Courts",
+ "Title": "Crypt Horrors",
+ "Legend": "Each sweep of a Crypt Horror’s claws ladles heaps of dripping meat into its gaping maw. Blessed by the abhorrant’s blood, their own flesh heals quickly, and even mortal wounds close over as if they never were.",
+ "PitchBattleProfile": {
+  "UnitSize": "3",
+  "Points": "110",
+  "Role": "None",
+  "BaseSize": "50",
+  "Notes": "Battleline in a Hollowmourne army or if general is a Crypt Haunter Courtier"
+ },
+ "Intro": "Each model in a Crypt Horrors unit is armed with a Club and Septic Talons",
+ "Rules": [
+  {
+   "Name": "Champion",
+   "Fluff": "",
+   "Rule": "CHAMPION: 1 model in this unit can be a Crypt Haunter. Add 1 to the Attacks characteristic of that model’s Club and Septic Talons."
+  },
+  {
+   "Name": "Chosen Of The King",
+   "Fluff": "Crypt Horrors are the most devoted servants in a Ghoul King’s army.",
+   "Rule": "Chosen of the King: Improve the Rend characteristic of this unit’s melee weapons by 1 while it is wholly within 9\" of any friendly COURTIERS or 18\" of any friendly ABHORRANTS."
+  },
+  {
+   "Name": "Noble Blood",
+   "Fluff": "The blood of their liege grants Crypt Horrors a supernatural ability to heal any damage that they suffer.",
+   "Rule": "In your hero phase, you can heal up to D3 wounds allocated to this unit."
+  },
+  {
+   "Name": "Warrior Elite",
+   "Fluff": "Crypt Horrors are amongst the most deadly warriors in a court.",
+   "Rule": "If the unmodified wound roll for an attack made with a Club and Septic Talons is 6, that weapon has a Damage characteristic of 3 instead of 2 for that attack."
+  }
+ ],
+ "Keywords": [
+  "Death",
+  "Flesh-Eater Courts",
+  "Mordant",
+  "Knights",
+  "Crypt",
+  "Horrors"
+ ],
+ "Profile": {
+  "Movement": "7\"",
+  "Wounds": "4",
+  "Save": "5+",
+  "Bravery": "10"
+ },
+ "Tables": [
+  [
+   [
+    "MELEE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Club and Septic Talons",
+    "2\"",
+    "4",
+    "4+",
+    "3+",
+    "-",
+    "2"
+   ]
+  ]
+ ]
+}

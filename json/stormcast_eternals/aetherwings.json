@@ -1,0 +1,70 @@
+{
+ "IsLegends": false,
+ "Url": "https://wahapedia.ru/aos3/factions/stormcast-eternals/Aetherwings",
+ "Faction": "Stormcast Eternals",
+ "Title": "Aetherwings",
+ "Legend": "Native to Azyr, Aetherwings hunt with terrific swiftness. Their bonds with the Storm casts are close, and in battle, they soar high above the fray before diving to savage their foes with flashing claws and beaks.",
+ "PitchBattleProfile": {
+  "UnitSize": "3",
+  "Points": "70",
+  "Role": "None",
+  "BaseSize": "32",
+  "Notes": ""
+ },
+ "Intro": "Each model in an Aetherwings unit is armed with a Beak and Claws.",
+ "Rules": [
+  {
+   "Name": "Battalions",
+   "Fluff": "",
+   "Rule": "BATTALIONS: This warscroll can be used in the following warscroll battalions: • Vanguard Justicar Conclave • Godsmaw’s Vanguard"
+  },
+  {
+   "Name": "Fly",
+   "Fluff": "",
+   "Rule": "FLY: This unit can fly."
+  },
+  {
+   "Name": "Swooping Hunters",
+   "Fluff": "Aetherwings dart back and forth, striking the foe before swooping away.",
+   "Rule": "This unit can retreat and still charge later in the turn."
+  },
+  {
+   "Name": "Marked For Destruction",
+   "Fluff": "Those who oppose the masters of these loyal beasts hear doom approaching in the beating of celestial wings.",
+   "Rule": "Marked for Destruction: Add 1 to hit rolls for attacks made with missile weapons by friendly VANGUARD-RAPTORS units if the target is within 12\" of any friendly units with this ability."
+  }
+ ],
+ "Keywords": [
+  "Order",
+  "Stormcast Eternals",
+  "Aetherwings"
+ ],
+ "Profile": {
+  "Movement": "12\"",
+  "Wounds": "2",
+  "Save": "-",
+  "Bravery": "6"
+ },
+ "Tables": [
+  [
+   [
+    "MELEE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Beak and Claws",
+    "1\"",
+    "2",
+    "4+",
+    "3+",
+    "-",
+    "1"
+   ]
+  ]
+ ]
+}

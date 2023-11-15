@@ -1,0 +1,102 @@
+{
+ "IsLegends": true,
+ "Url": "https://wahapedia.ru/aos3/factions/cities-of-sigmar/Waywatcher",
+ "Faction": "Cities of Sigmar",
+ "Title": "Waywatcher",
+ "Legend": "",
+ "PitchBattleProfile": {
+  "UnitSize": "1",
+  "Points": "135",
+  "Role": "Leader",
+  "BaseSize": "",
+  "Notes": "Single"
+ },
+ "Intro": "A Waywatcher is armed with a Waystalker Bow and Waystalker Blade.",
+ "Rules": [
+  {
+   "Name": "Invisible Hunter",
+   "Fluff": "",
+   "Rule": "ABILITIES Subtract 1 from hit rolls for attacks that target this unit in the enemy shooting phase."
+  },
+  {
+   "Name": "Hawk-Eyed Archer",
+   "Fluff": "",
+   "Rule": "Hawk-eyed Archer: Each time this unit shoots, choose either the Fast Shots or Precise Shots weapon characteristics for all the attacks it makes with its Waystalker Bow.Each time you make an unmodified hit roll of 6 for an attack made with Fast Shots, that attack scores 2 hits on the target. Make a wound roll and save roll for each hit.Each time you make an unmodified wound roll of 6 for Precise Shots, change the Rend characteristic for that attack to -2."
+  },
+  {
+   "Name": "Solitary Marksman",
+   "Fluff": "",
+   "Rule": "In your shooting phase, add 1 to hit rolls for attacks made by this unit if it remained stationary in the previous movement phase."
+  },
+  {
+   "Name": "See, But Do Not Be Seen",
+   "Fluff": "",
+   "Rule": "Once per battle, in the enemy shooting phase, you can say that this unit will direct fellow Wanderers to conceal their position. If you do so, subtract 1 from hit rolls for attacks that target other friendly WANDERERS units within 18\" of this unit in that phase."
+  }
+ ],
+ "Keywords": [
+  "Order",
+  "Cities Of Sigmar",
+  "Aelf",
+  "Wanderers",
+  "Hero",
+  "Waywatcher"
+ ],
+ "Profile": {
+  "Movement": "6\"",
+  "Wounds": "5",
+  "Save": "4+",
+  "Bravery": "8"
+ },
+ "Tables": [
+  [
+   [
+    "MISSILE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Waystalker Bow: Fast Shots",
+    "22\"",
+    "6",
+    "3+",
+    "3+",
+    "-1",
+    "1"
+   ],
+   [
+    "Waystalker Bow: Precise Shots",
+    "22\"",
+    "3",
+    "3+",
+    "3+",
+    "-1",
+    "2"
+   ]
+  ],
+  [
+   [
+    "MELEE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Waystalker Blade",
+    "1\"",
+    "2",
+    "3+",
+    "4+",
+    "-",
+    "1"
+   ]
+  ]
+ ]
+}

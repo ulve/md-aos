@@ -1,0 +1,81 @@
+{
+ "IsLegends": false,
+ "Url": "https://wahapedia.ru/aos3/factions/gloomspite-gitz/Squigboss-with-Gnasha-squig",
+ "Faction": "Gloomspite Gitz",
+ "Title": "Squigboss with Gnasha-squig",
+ "Legend": "Squigbosses command their fungal herds through the offering of prized mushrooms and occasional jabbings from their Squig-krooks. Most are accompanied by loyal Gnasha-squigs, who gleefully chomp at anything who gets too close.",
+ "PitchBattleProfile": {
+  "UnitSize": "1",
+  "Points": "110",
+  "Role": "Leader",
+  "BaseSize": "",
+  "Notes": "Single"
+ },
+ "Intro": "A Squigboss with Gnasha-squig is armed with a Squig-krook.",
+ "Rules": [
+  {
+   "Name": "Battalions",
+   "Fluff": "",
+   "Rule": "BATTALIONS: This warscroll can be used in the following warscroll battalions: • Squiggly Hangerz-on"
+  },
+  {
+   "Name": "Companion",
+   "Fluff": "",
+   "Rule": "COMPANION: This unit is accompanied by Gnasha-squig armed with a Fang-filled Gob."
+  },
+  {
+   "Name": "Release Da Squigs",
+   "Fluff": "The Squigboss chucks a handful of Looncaps into the path of nearby squigs, sending the beasts into a frenzy as they race to snack on the tasty shrooms.",
+   "Rule": "If you do so, each friendly SQUIG HERD unit wholly within 12\" of this unit that has not moved this phase can make a normal move."
+  }
+ ],
+ "Keywords": [
+  "Destruction",
+  "Gloomspite Gitz",
+  "Grot",
+  "Squig",
+  "Moonclan",
+  "Hero",
+  "Squigboss",
+  "Squigboss",
+  "With",
+  "Gnasha-Squig"
+ ],
+ "Profile": {
+  "Movement": "5\"",
+  "Wounds": "4",
+  "Save": "6+",
+  "Bravery": "5"
+ },
+ "Tables": [
+  [
+   [
+    "MELEE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Squig-krook",
+    "2\"",
+    "3",
+    "3+",
+    "3+",
+    "-1",
+    "2"
+   ],
+   [
+    "Fang-filled Gob",
+    "1\"",
+    "3",
+    "4+",
+    "3+",
+    "-1",
+    "1"
+   ]
+  ]
+ ]
+}

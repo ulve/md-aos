@@ -1,0 +1,24 @@
+{
+ "IsLegends": false,
+ "Url": "https://wahapedia.ru/aos3/factions/gloomspite-gitz/Big-Grikk-s-Kruleshots",
+ "Faction": "Gloomspite Gitz",
+ "Title": "Big Grikk’s Kruleshots",
+ "Legend": "Grikk swears that the massive, jagged bolt that buried itself in the back of his boss’s Corpse-rippa Vulcha had nothing to do with him. Few believed the treacherous Big Shot, so Grikk quickly took leave of his clan, taking with him a handful of crossbow-toting lackeys and some grots to drag his beloved killbow across the realms.",
+ "PitchBattleProfile": {
+  "UnitSize": "",
+  "Points": "290",
+  "Role": "Warscroll Battalion",
+  "BaseSize": "",
+  "Notes": "Unique, Single. These units must be taken as a set referred to as Big Grikk’s Kruleshots. Although taken as a set, each is a separate unit."
+ },
+ "Intro": "",
+ "Rules": null,
+ "Keywords": null,
+ "Profile": {
+  "Movement": "",
+  "Wounds": "",
+  "Save": "",
+  "Bravery": ""
+ },
+ "Tables": null
+}

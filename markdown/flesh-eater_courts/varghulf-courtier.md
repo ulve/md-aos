@@ -1,0 +1,65 @@
+# Varghulf Courtier
+
+_Blood gushing from its fanged maw and matting its fur, the Varghulf Courtier kills without restrain or reason. Even as enemies are heaped broken at its feet, it looses a piercing howl, calling the warriors of the court to its side._
+
+
+| Movement | Wounds | Save | Bravery |
+|:--------:|:------:|:----:|:-------:|
+| 10" | 8 | 5+ | 10 |
+
+* Unit Size: **1**
+* Points: **160**
+* Battlefield Role: **Leader**
+* Base size: **60**
+* Notes: **Single**
+
+| MELEE WEAPONS | Range | Attacks | To Hit | To WoundTo Wnd | Rend | DamageDmg |
+|:---|:--:|:--:|:--:|:--:|:--:|:--:|
+| Immense Claws | 2" | 4 | 3+ | 3+ | -1 | 2 |
+| Dagger-like Fangs | 1" | 1 | 3+ | 2+ | -2 | D3 |
+
+
+_BATTALIONSThis warscroll can be used in the following warscroll battalions: • Royal Mordants • Mortevell’s Helcourt_
+
+## Fly
+
+FLY: This model can fly.
+
+## Muster Royal Household
+
+_With a cry, the courtier calls forth more of the king’s minions._
+
+ABILITIES In your hero phase, roll 6 dice for each friendly VARGHULF COURTIER on the battlefield. For each 2+ you can return 1 slain model to a friendly SERFS unit within 10" of that VARGHULF COURTIER. For each 5+ you can return 1 slain model to a friendly KNIGHTS unit within 10" of that VARGHULF COURTIER instead. Slain models can be returned to more than one unit if you wish, but each successful dice roll can only be used to return a model to a single unit.
+
+## Feed On Dark Magic
+
+_These strange creatures can lap up dark magic from the air._
+
+Feed on Dark Magic: If a friendly ABHORRANT within 18" of this model successfully casts a spell, and it is not unbound, you can re-roll hit rolls for this model until the start of your next hero phase.
+
+## King’s Champion
+
+_A Varghulf enters a terrifying frenzy when surrounded by foes._
+
+Add 2 to the Attacks characteristic of this model’s Immense Claws if it is within 3" of 10 or more enemy models when you pick the target unit(s) for its attacks.
+
+## Victory Feast
+
+_When a Varghulf swallows chunks of flesh ripped from its foes, its own wounds disappear._
+
+At the end of the combat phase, if any enemy models were slain by wounds inflicted by this model’s attacks in that combat phase, you can heal up to D3 wounds allocated to this model.
+
+## Keywords
+
+* Death
+* Mordant
+* Flesh-Eater Courts
+* Courtier
+* Hero
+* Varghulf
+* Courtier
+
+
+## Source
+
+[Varghulf Courtier](https://wahapedia.ru/aos3/factions/flesh-eater-courts/Varghulf-Courtier)

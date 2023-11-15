@@ -1,0 +1,156 @@
+{
+ "IsLegends": true,
+ "Url": "https://wahapedia.ru/aos3/factions/maggotkin-of-nurgle/Tamurkhan-the-Maggot-Lord",
+ "Faction": "Maggotkin of Nurgle",
+ "Title": "Tamurkhan the Maggot Lord",
+ "Legend": "Arrogant, savage, and a bringer of death and decay, Tamurkhan the Maggot Lord is one of Nurgle’s most powerful mortal champions. Riding atop his mighty Toad Dragon, Bubebolos, he enacts the Plague God’s will throughout the Mortal Realms.",
+ "PitchBattleProfile": {
+  "UnitSize": "1",
+  "Points": "450",
+  "Role": "Leader, Behemoth",
+  "BaseSize": "",
+  "Notes": "Single, Unique"
+ },
+ "Intro": "BATTALIONSThis warscroll can be used in the following warscroll battalions: • Contagium Overlord • Sons of the Maggot Lord",
+ "Rules": [
+  {
+   "Name": "",
+   "Fluff": "",
+   "Rule": "DESCRIPTIONTamurkhan the Maggot Lord is armed with the Black Cleaver."
+  },
+  {
+   "Name": "Mount",
+   "Fluff": "",
+   "Rule": "MOUNT: This unit’s toad dragon, Bubebolos, is armed with a Lashing Tongue, Crushing Jaws and its Befouled Bulk."
+  },
+  {
+   "Name": "Feast Of The Maggot Lord",
+   "Fluff": "Tamurkhan’s true form is that of a hideous maggot-like parasite capable of burrowing into and possessing the bodies of his enemies in battle.",
+   "Rule": "ABILITIESFeast of the Maggot Lord: If the number of wounds allocated to this model equals it wounds characteristic, before it is slain, you can pick 1 enemy HERO within 3\" of this model. That enemy HERO suffers D3 mortal wounds. If that enemy HERO is not slain by those mortal wounds, then this model is slain. If that enemy HERO is slain by those mortal wounds, this model is not slain, any wounds and mortal wounds that remain to be allocated to this model are negated, and D6 wounds allocated to this model are healed."
+  },
+  {
+   "Name": "Killer Of Kings",
+   "Fluff": "Tamurkhan loves nothing better than the challenge of hacking apart an enemy lord.",
+   "Rule": "Killer of Kings: Add 1 to hit rolls for attacks made with the Black Cleaver that target a HERO."
+  },
+  {
+   "Name": "Nurgle’s Favoured Son",
+   "Fluff": "Papa Nurgle can be a fickle god, but Tamurkhan was once his most favoured son.",
+   "Rule": "In your hero phase, you can heal up to D3 wounds allocated to this model."
+  },
+  {
+   "Name": "Roar Of Command",
+   "Fluff": "Tamurkhan can unleash a great bellowing roar, calling upon the horde at his command to crash down relentlessly upon his enemies.",
+   "Rule": "Roar of Command: Once per battle, when this model issues a command, when you can pick up to 3 friendly TAMURKHAN’S HORDE units to receive the command instead of only 1 friendly unit."
+  }
+ ],
+ "Keywords": [
+  "Chaos",
+  "Nurgle",
+  "Maggotkin Of Nurgle",
+  "Tamurkhan’s Horde",
+  "Mortal",
+  "Dragon",
+  "Hero",
+  "Monster",
+  "Tamurkhan"
+ ],
+ "Profile": {
+  "Movement": "*",
+  "Wounds": "18",
+  "Save": "4+",
+  "Bravery": "10"
+ },
+ "Tables": [
+  [
+   [
+    "MISSILE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Lashing Tongue",
+    "14\"",
+    "3",
+    "3+",
+    "3+",
+    "-",
+    "1"
+   ]
+  ],
+  [
+   [
+    "MELEE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "The Black Cleaver",
+    "2\"",
+    "4",
+    "3+",
+    "3+",
+    "-2",
+    "2"
+   ],
+   [
+    "Crushing Jaws",
+    "3\"",
+    "2",
+    "*",
+    "2+",
+    "-3",
+    "D3"
+   ],
+   [
+    "Befouled Bulk",
+    "2\"",
+    "*",
+    "4+",
+    "3+",
+    "-1",
+    "1"
+   ]
+  ],
+  [
+   [
+    "Wounds Suffered",
+    "Move",
+    "Crushing Jaws",
+    "Befouled Bulk"
+   ],
+   [
+    "0-7",
+    "10\"",
+    "3+",
+    "12"
+   ],
+   [
+    "8-10",
+    "9\"",
+    "4+",
+    "10"
+   ],
+   [
+    "11-14",
+    "8\"",
+    "4+",
+    "8"
+   ],
+   [
+    "15+",
+    "7\"",
+    "5+",
+    "6"
+   ]
+  ]
+ ]
+}

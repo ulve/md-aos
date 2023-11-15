@@ -1,0 +1,68 @@
+{
+ "IsLegends": false,
+ "Url": "https://wahapedia.ru/aos3/factions/gloomspite-gitz/Loonboss",
+ "Faction": "Gloomspite Gitz",
+ "Title": "Loonboss",
+ "Legend": "A Loonboss never fights fair, ducking and weaving around his enemies and hurling mobs of cackling grots at them to wear them down, before finishing them off with a blade to the throat or between the shoulder blades.",
+ "PitchBattleProfile": {
+  "UnitSize": "1",
+  "Points": "90",
+  "Role": "Leader",
+  "BaseSize": "32",
+  "Notes": "Single"
+ },
+ "Intro": "A Loonboss is armed with a Moon-slicer.",
+ "Rules": [
+  {
+   "Name": "Battalions",
+   "Fluff": "",
+   "Rule": "BATTALIONS: This warscroll can be used in the following warscroll battalions: • Bosses of the Skrap • Skulkmob Horde"
+  },
+  {
+   "Name": "Dead Tricksy",
+   "Fluff": "Loonbosses are masters at using cunning and tricks in order to survive.",
+   "Rule": "This unit has a ward of 6+."
+  },
+  {
+   "Name": "I’m Da Boss, Now Stab ’Em Good!",
+   "Fluff": "Loonbosses prefer to make their minions do all the fighting.",
+   "Rule": "When this unit issues the All-out Attack command to a friendly MOONCLAN unit in the combat phase, until the end of that phase, if the unmodified wound roll for an attack made by that MOONCLAN unit is 6, the attack causes 1 mortal wound to the target in addition to any damage it inflicts.Designer’s Note: This effect is in addition to the normal effect of All-out Attack."
+  }
+ ],
+ "Keywords": [
+  "Destruction",
+  "Gloomspite Gitz",
+  "Grot",
+  "Moonclan",
+  "Hero",
+  "Loonboss"
+ ],
+ "Profile": {
+  "Movement": "5\"",
+  "Wounds": "5",
+  "Save": "4+",
+  "Bravery": "5"
+ },
+ "Tables": [
+  [
+   [
+    "MELEE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Moon-slicer",
+    "2\"",
+    "5",
+    "3+",
+    "3+",
+    "-1",
+    "D3"
+   ]
+  ]
+ ]
+}

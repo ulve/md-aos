@@ -1,0 +1,98 @@
+{
+ "IsLegends": false,
+ "Url": "https://wahapedia.ru/aos3/factions/gloomspite-gitz/Mollog",
+ "Faction": "Gloomspite Gitz",
+ "Title": "Mollog",
+ "Legend": "Mollog the ancient Dankhold Troggoth really just wants to find somewhere dark and damp to go back to sleep, but people keep disturbing him and getting in his way. Suffice it to say, this never ends well for them...",
+ "PitchBattleProfile": {
+  "UnitSize": "1",
+  "Points": "130",
+  "Role": "",
+  "BaseSize": "",
+  "Notes": "Single, Unique"
+ },
+ "Intro": "Mollog is armed with a Jabbertoad and Puff-fungus Club.",
+ "Rules": [
+  {
+   "Name": "Companions",
+   "Fluff": "",
+   "Rule": "COMPANIONS: Mollog is accompanied by a Bat Squig, Spiteshroom and Stalagsquig. Mollog and his companions are treated as a single model that uses the characteristics above. His companions must remain within 1\" of him.Before you allocate a wound or mortal wound to this unit, or instead of making a ward roll for a wound or mortal wound that would be allocated to this unit, you can choose to remove 1 of its companions. If you do so, that wound or mortal wound is negated."
+  },
+  {
+   "Name": "Regeneration",
+   "Fluff": "Troggoths are able to regrow injured flesh almost as quickly as it is harmed.",
+   "Rule": "At the start of the hero phase, you can heal up to D3 wounds allocated to this unit."
+  },
+  {
+   "Name": "Spiteshroom",
+   "Fluff": "The incessant high- pitched shrieking and shrill, idiot ditties of this weird creature can distract even the most veteran warrior.",
+   "Rule": "At the start of the combat phase, you can pick 1 enemy unit within 3\" of this unit and roll a dice. On a 5+, subtract 1 from hit rolls for attacks made by that unit in that phase. This ability cannot be used if the Spiteshroom companion has been removed."
+  },
+  {
+   "Name": "Bat Squig",
+   "Fluff": "Bat Squigs descend upon their victims in a flurry of gnashing jaws and spattering guano.",
+   "Rule": "At the start of your shooting phase, you can pick 1 enemy unit within 18\" of this unit and roll a dice. On a 2+, that enemy unit suffers 1 mortal wound. This ability cannot be used if the Bat Squig companion has been removed."
+  },
+  {
+   "Name": "Stalagsquig",
+   "Fluff": "Being coated in a solid rocky hide, the Stalagsquig is as likely to break an enemy’s blade as to be harmed itself.",
+   "Rule": "If you choose to remove this companion, roll a dice. On a 5+, this companion is not removed, but the wound or mortal wound is still negated. This roll is not a ward roll."
+  }
+ ],
+ "Keywords": [
+  "Destruction",
+  "Gloomspite Gitz",
+  "Troggoth",
+  "Dankhold",
+  "Hero",
+  "Mollog"
+ ],
+ "Profile": {
+  "Movement": "6\"",
+  "Wounds": "8",
+  "Save": "4+",
+  "Bravery": "7"
+ },
+ "Tables": [
+  [
+   [
+    "MISSILE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Jabbertoad",
+    "12\"",
+    "1",
+    "4+",
+    "4+",
+    "-",
+    "D3"
+   ]
+  ],
+  [
+   [
+    "MELEE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Puff-fungus Club",
+    "2\"",
+    "3",
+    "3+",
+    "2+",
+    "-2",
+    "3"
+   ]
+  ]
+ ]
+}

@@ -1,0 +1,50 @@
+# Kixi-Taka, the Diviner
+
+_Though only a lowly priest in the complex rungs of the skink hierarchy, Kixi-Taka is looked upon with favour by his slann masters. Entrusted with several relics of Old One technology, he faithfully leads the Starblood Stalkers, utterly committed to the Great Plan._
+
+
+| Movement | Wounds | Save | Bravery |
+|:--------:|:------:|:----:|:-------:|
+| 8" | 6 | 5+ | 6 |
+
+* Unit Size: **1**
+* Points: **290**
+* Battlefield Role: **Leader**
+* Base size: **25**
+* Notes: **Single, Unique. Kixi-Taka the Diviner, Klaq-Trok and The Starblood Stalkers must be taken as a set. Although taken as a set, each is a separate unit.**
+
+| MISSILE WEAPONS | Range | Attacks | To Hit | To WoundTo Wnd | Rend | DamageDmg |
+|:---|:--:|:--:|:--:|:--:|:--:|:--:|
+| Starbolt | 18" | 2 | 3+ | 3+ | -1 | D3 |
+
+
+| MELEE WEAPONS | Range | Attacks | To Hit | To WoundTo Wnd | Rend | DamageDmg |
+|:---|:--:|:--:|:--:|:--:|:--:|:--:|
+| Star-stone Staff | 2" | 1 | 3+ | 3+ | -1 | D3 |
+
+
+_Kixi-Taka, the Diviner, is armed with a Starbolt and Star-stone Staff._
+
+## Battalions
+
+BATTALIONS: This warscroll can be used in the following warscroll battalions: • Shadowstrike Starhost • Shadowstrike Temple-host
+
+## Servant Of The Starmasters
+
+_Tasked with a mission of vital importance, Kixi-Taka bears all manner of esoteric devices that he uses to shape reality in accordance with the Great Plan._
+
+Servant of the Starmasters: Once per battle, in your hero phase, you can pick 1 enemy unit within 6" of this unit and roll a dice. On a 2+, models in that unit cannot contest objectives until the start of the next turn.
+
+## Keywords
+
+* Order
+* Seraphon
+* Skink
+* Coalesced
+* Hero
+* Kixi-Taka
+
+
+## Source
+
+[Kixi-Taka, the Diviner](https://wahapedia.ru/aos3/factions/seraphon/Kixi-Taka-the-Diviner)

@@ -1,0 +1,171 @@
+{
+ "IsLegends": false,
+ "Url": "https://wahapedia.ru/aos3/factions/flesh-eater-courts/Abhorrant-Ghoul-King-on-Royal-Zombie-Dragon",
+ "Faction": "Flesh-eater Courts",
+ "Title": "Abhorrant Ghoul King on Royal Zombie Dragon",
+ "Legend": "Surrounded by an aura of potent dark magic, the Abhorrant Ghoul King and his Zombie Dragon are death incarnate. As the monster shreds foes with fangs the size of swords, the king pulls warriors apart with his bare hands.",
+ "PitchBattleProfile": {
+  "UnitSize": "1",
+  "Points": "430",
+  "Role": "Leader, Behemoth",
+  "BaseSize": "130",
+  "Notes": "Single"
+ },
+ "Intro": "BATTALIONSThis warscroll can be used in the following warscroll battalions: • Royal Family • Mortevell’s Helcourt",
+ "Rules": [
+  {
+   "Name": "",
+   "Fluff": "",
+   "Rule": "DESCRIPTIONAn Abhorrant Ghoul King on Royal Zombie Dragon is a single model armed with Gory Talons and Fangs."
+  },
+  {
+   "Name": "Mount",
+   "Fluff": "",
+   "Rule": "MOUNT: This model’s Royal Zombie Dragon attacks with its Pestilential Breath, a Snapping Maw and Sword-like Claws."
+  },
+  {
+   "Name": "Fly",
+   "Fluff": "",
+   "Rule": "FLY: This model can fly."
+  },
+  {
+   "Name": "Pestilential Breath",
+   "Fluff": "When a Zombie Dragon looses its breath, the killing miasma withers flesh and saps life from the living.",
+   "Rule": "ABILITIES When you attack with this model’s Pestilential Breath, roll a dice before making the hit roll for the attack. If the roll is less than or equal to the number of models in the target unit, the attack scores a hit without needing to make a hit roll."
+  },
+  {
+   "Name": "Royal Blood",
+   "Fluff": "The vampiric blood that courses through a Ghoul King’s veins can heal even the most terrible wounds.",
+   "Rule": "In your hero phase, you can heal up to D3 wounds allocated to this model."
+  },
+  {
+   "Name": "Malefic Hunger",
+   "Fluff": "",
+   "Rule": "MAGICThis model is a WIZARD. It can attempt to cast one spell in your hero phase, and attempt to unbind one spell in the enemy hero phase. It knows the Arcane Bolt, Mystic Shield and Malefic Hunger spells."
+  },
+  {
+   "Name": "Malefic Hunger",
+   "Fluff": "As the Abhorrant Ghoul King imposes his dark will upon his minions, they see a ripe banquet before them and descend upon it with ravening fury.",
+   "Rule": "Malefic Hunger has a casting value of 6. If successfully cast, until your next hero phase you can re-roll wound rolls for attacks made with melee weapons by friendly FLESH-EATER COURTS units wholly within 16\" of the caster."
+  },
+  {
+   "Name": "Summon Courtier",
+   "Fluff": "With a keening cry, the Ghoul King summons one of his most loyal servants to join the fray.",
+   "Rule": "COMMAND ABILITIES You can use this command ability at the end of your movement phase. If you do so, pick 1 friendly model that has this command ability and has not used it before in the battle. That model summons 1 COURTIER unit to the battlefield. The summoned unit is added to your army, and must be set up wholly within 6\" of the edge of the battlefield and more than 9\" from any enemy units."
+  }
+ ],
+ "Keywords": [
+  "Death",
+  "Vampire",
+  "Flesh-Eater Courts",
+  "Abhorrant",
+  "Monster",
+  "Hero",
+  "Wizard",
+  "Abhorrant Ghoul King"
+ ],
+ "Profile": {
+  "Movement": "*",
+  "Wounds": "14",
+  "Save": "4+",
+  "Bravery": "10"
+ },
+ "Tables": [
+  [
+   [
+    "MISSILE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Pestilential Breath",
+    "9\"",
+    "1",
+    "3+",
+    "*",
+    "-3",
+    "D6"
+   ]
+  ],
+  [
+   [
+    "MELEE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Gory Talons and Fangs",
+    "1\"",
+    "5",
+    "3+",
+    "3+",
+    "-1",
+    "1"
+   ],
+   [
+    "Snapping Maw",
+    "3\"",
+    "3",
+    "4+",
+    "3+",
+    "-2",
+    "D6"
+   ],
+   [
+    "Sword-like Claws",
+    "2\"",
+    "*",
+    "4+",
+    "3+",
+    "-1",
+    "2"
+   ]
+  ],
+  [
+   [
+    "Wounds Suffered",
+    "Move",
+    "Pestilential Breath",
+    "Sword-like Claws"
+   ],
+   [
+    "0-3",
+    "14\"",
+    "2+",
+    "7"
+   ],
+   [
+    "4-6",
+    "12\"",
+    "3+",
+    "6"
+   ],
+   [
+    "7-9",
+    "10\"",
+    "4+",
+    "5"
+   ],
+   [
+    "10-12",
+    "8\"",
+    "5+",
+    "4"
+   ],
+   [
+    "13+",
+    "6\"",
+    "6+",
+    "3"
+   ]
+  ]
+ ]
+}

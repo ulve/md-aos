@@ -1,0 +1,90 @@
+{
+ "IsLegends": true,
+ "Url": "https://wahapedia.ru/aos3/factions/maggotkin-of-nurgle/Kazyk-the-Befouled",
+ "Faction": "Maggotkin of Nurgle",
+ "Title": "Kazyk the Befouled",
+ "Legend": "The foetid rider known as Kazyk is a foul servant of Nurgle and one of Tamurkhan’s must trusted lieutenants. In body, mind and soul he serves as a living testament to the full horrors of Nurgle’s blessings.",
+ "PitchBattleProfile": {
+  "UnitSize": "1",
+  "Points": "130",
+  "Role": "Leader",
+  "BaseSize": "",
+  "Notes": "Single, Unique"
+ },
+ "Intro": "BATTALIONSThis warscroll can be used in the following warscroll battalions: • Contagium Overlord • Sons of the Maggot Lord",
+ "Rules": [
+  {
+   "Name": "",
+   "Fluff": "",
+   "Rule": "DESCRIPTIONKazyk the Befouled is armed with Noxious Blades."
+  },
+  {
+   "Name": "Mount",
+   "Fluff": "",
+   "Rule": "MOUNT: This model’s Rot Beast is armed with Slavering Fangs."
+  },
+  {
+   "Name": "Corrupted Flesh",
+   "Fluff": "Kazyk’s ravaged body is a rotting mockery of life, little more than a roughly humanoid bag of putrescent filth that feels neither pain nor injury. He must be torn limb from limb if he is to be stopped.",
+   "Rule": "ABILITIES This unit has a ward of 5+."
+  },
+  {
+   "Name": "Noxious Blades",
+   "Fluff": "The poisonous filth that encrusts Kazyk’s blades is so baleful, flesh sloughs and decays at its touch.",
+   "Rule": "If the unmodified hit roll for an attack made with this model’s Noxious Blades is 6, the Damage characteristic of that weapon for that attack is 3 instead of D3."
+  },
+  {
+   "Name": "Breath Of The Plague Pit",
+   "Fluff": "From his filthy carcass, Kazyk can pour forth a vile miasma which fills the devotees of the Plague God with appalling vigour.",
+   "Rule": "Breath of the Plague Pit: In the combat phase, after this model has fought in that phase for the first time, you can pick 1 friendly TAMURKHAN’S HORDE unit that has not fought in that combat phase, that is within 3\" of an enemy unit and that is wholly within 12\" of this unit. That friendly unit fights immediately."
+  }
+ ],
+ "Keywords": [
+  "Chaos",
+  "Nurgle",
+  "Maggotkin Of Nurgle",
+  "Tamurkhan’s Horde",
+  "Mortal",
+  "Hero",
+  "Kazyk",
+  "The",
+  "Befouled"
+ ],
+ "Profile": {
+  "Movement": "7\"",
+  "Wounds": "7",
+  "Save": "3+",
+  "Bravery": "7"
+ },
+ "Tables": [
+  [
+   [
+    "MELEE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Noxious Blades",
+    "2\"",
+    "3",
+    "3+",
+    "3+",
+    "-",
+    "D3"
+   ],
+   [
+    "Slavering Fangs",
+    "1\"",
+    "D6",
+    "4+",
+    "4+",
+    "-1",
+    "1"
+   ]
+  ]
+ ]
+}

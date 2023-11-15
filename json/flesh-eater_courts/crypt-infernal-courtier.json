@@ -1,0 +1,95 @@
+{
+ "IsLegends": false,
+ "Url": "https://wahapedia.ru/aos3/factions/flesh-eater-courts/Crypt-Infernal-Courtier",
+ "Faction": "Flesh-eater Courts",
+ "Title": "Crypt Infernal Courtier",
+ "Legend": "Leathery wings tucked against its body, the Crypt Infernal Courtier dives down from the sky, shrieking its rage. Plunging into the midst of its enemies with killing force, the vicious beast impales its prey in a shower of steaming gore.",
+ "PitchBattleProfile": {
+  "UnitSize": "1",
+  "Points": "130",
+  "Role": "Leader",
+  "BaseSize": "50",
+  "Notes": "Single"
+ },
+ "Intro": "BATTALIONSThis warscroll can be used in the following warscroll battalions: • Deadwatch • Mortevell’s Helcourt",
+ "Rules": [
+  {
+   "Name": "",
+   "Fluff": "",
+   "Rule": "DESCRIPTIONA Crypt Infernal Courtier is a single model armed with Foetid Breath and Skewering Talons."
+  },
+  {
+   "Name": "Fly",
+   "Fluff": "",
+   "Rule": "FLY: This model can fly."
+  },
+  {
+   "Name": "Skewering Strike",
+   "Fluff": "Sometimes a Crypt Infernal Courtier will strike with such force that the victim is skewered upon its piercing talons.",
+   "Rule": "ABILITIES If the unmodified hit roll for an attack made with Skewering Talons is 6, that attack inflicts 1 mortal wound on the target in addition to any normal damage."
+  },
+  {
+   "Name": "Muster Royal Guard",
+   "Fluff": "With a cry, the courtier calls forth more of the Ghoul King’s minions.",
+   "Rule": "In your hero phase, roll 6 dice for each friendly CRYPT INFERNAL COURTIER on the battlefield. For each 5+ you can return 1 slain model to a friendly CRYPT FLAYERS unit that is within 10\" of that CRYPT INFERNAL COURTIER. Slain models can be returned to more than one unit if you wish, but each successful dice roll can only be used to return a model to a single unit."
+  }
+ ],
+ "Keywords": [
+  "Death",
+  "Mordant",
+  "Flesh-Eater Courts",
+  "Courtier",
+  "Hero",
+  "Crypt",
+  "Infernal",
+  "Courtier"
+ ],
+ "Profile": {
+  "Movement": "12\"",
+  "Wounds": "6",
+  "Save": "4+",
+  "Bravery": "10"
+ },
+ "Tables": [
+  [
+   [
+    "MISSILE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Foetid Breath",
+    "9\"",
+    "1",
+    "4+",
+    "3+",
+    "-1",
+    "D3"
+   ]
+  ],
+  [
+   [
+    "MELEE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Skewering Talons",
+    "1\"",
+    "5",
+    "4+",
+    "3+",
+    "-1",
+    "2"
+   ]
+  ]
+ ]
+}

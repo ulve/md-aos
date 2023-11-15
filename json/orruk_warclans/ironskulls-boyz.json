@@ -1,0 +1,92 @@
+{
+ "IsLegends": false,
+ "Url": "https://wahapedia.ru/aos3/factions/orruk-warclans/Ironskull-s-Boyz",
+ "Faction": "Orruk Warclans",
+ "Title": "Ironskull’s Boyz",
+ "Legend": "Everyone agrees that Gurzag Ironskull’s Ardboys are the toughest orruks around. Anyone foolish enough to challenge this notion is likely to receive a bone-crushing headbutt from Gurzag, or otherwise be bashed and hacked to pieces by his warriors.",
+ "PitchBattleProfile": {
+  "UnitSize": "4",
+  "Points": "80",
+  "Role": "None",
+  "BaseSize": "32",
+  "Notes": "Single, Unique"
+ },
+ "Intro": "The models in Ironskull’s Boyz are Gurzag Ironskull, Bonekutta, Basha and Hakka. Gurzag Ironskull is armed with Boss Choppas. Bonekutta is armed with a Big Choppa. Basha is armed with Smashas. Hakka is armed with Choppas.",
+ "Rules": [
+  {
+   "Name": "Champion",
+   "Fluff": "",
+   "Rule": "CHAMPION: Gurzag Ironskull is the unit champion."
+  },
+  {
+   "Name": "Dead ’Ard",
+   "Fluff": "Whether through natural hardiness or sheer belligerence, Ironskull and his boys fight on through the most grievous wounds, hollering and cheering as they batter their foes into the ground.",
+   "Rule": "Gurzag Ironskull has a ward of 5+. The other models in this unit have a ward of 6+."
+  }
+ ],
+ "Keywords": [
+  "Destruction",
+  "Orruk Warclans",
+  "Orruk",
+  "Ironjawz",
+  "Ironsunz",
+  "Ardboys",
+  "Ironskull’s",
+  "Boyz"
+ ],
+ "Profile": {
+  "Movement": "4\"",
+  "Wounds": "2",
+  "Save": "4+",
+  "Bravery": "5"
+ },
+ "Tables": [
+  [
+   [
+    "MELEE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Boss Choppas",
+    "1\"",
+    "5",
+    "3+",
+    "3+",
+    "-1",
+    "1"
+   ],
+   [
+    "Big Choppa",
+    "1\"",
+    "2",
+    "4+",
+    "3+",
+    "-1",
+    "2"
+   ],
+   [
+    "Smashas",
+    "1\"",
+    "3",
+    "3+",
+    "3+",
+    "-1",
+    "1"
+   ],
+   [
+    "Choppas",
+    "1\"",
+    "3",
+    "3+",
+    "3+",
+    "-1",
+    "1"
+   ]
+  ]
+ ]
+}

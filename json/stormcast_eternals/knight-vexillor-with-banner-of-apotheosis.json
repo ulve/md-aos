@@ -1,0 +1,64 @@
+{
+ "IsLegends": false,
+ "Url": "https://wahapedia.ru/aos3/factions/stormcast-eternals/Knight-Vexillor-with-Banner-of-Apotheosis",
+ "Faction": "Stormcast Eternals",
+ "Title": "Knight-Vexillor with Banner of Apotheosis",
+ "Legend": "Knights-Vexillor clad in thunderstrike armour often bear a Banner of Apotheosis. Each of these holy standards is infused with the forge-magics of Grungni and can elevate the resilience of the Stormcasts to new heights.",
+ "PitchBattleProfile": {
+  "UnitSize": "1",
+  "Points": "140",
+  "Role": "Leader",
+  "BaseSize": "40",
+  "Notes": "Single"
+ },
+ "Intro": "A Knight-Vexillor with Banner of Apotheosis is armed with a Sigmarite Warblade.",
+ "Rules": [
+  {
+   "Name": "Soul-Charged Icon",
+   "Fluff": "Banners of Apotheosis are potent icons to the Stormhosts, and those who fight in their shadow are filled with redoubled fervour.",
+   "Rule": "Soul-charged Icon: You can re-roll charge rolls for friendly STORMCAST ETERNALS units wholly within 12\" of this unit."
+  }
+ ],
+ "Keywords": [
+  "Order",
+  "Stormcast Eternals",
+  "Thunderstrike",
+  "Hero",
+  "Totem",
+  "Knight",
+  "Knight-Vexillor",
+  "Knight-Vexillor",
+  "With",
+  "Banner",
+  "Of",
+  "Apotheosis"
+ ],
+ "Profile": {
+  "Movement": "5\"",
+  "Wounds": "6",
+  "Save": "3+",
+  "Bravery": "8"
+ },
+ "Tables": [
+  [
+   [
+    "MELEE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Sigmarite Warblade",
+    "1\"",
+    "4",
+    "3+",
+    "3+",
+    "-1",
+    "2"
+   ]
+  ]
+ ]
+}

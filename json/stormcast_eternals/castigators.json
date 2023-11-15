@@ -1,0 +1,92 @@
+{
+ "IsLegends": false,
+ "Url": "https://wahapedia.ru/aos3/factions/stormcast-eternals/Castigators",
+ "Faction": "Stormcast Eternals",
+ "Title": "Castigators",
+ "Legend": "When beings born of the aether rear their heads, it is the Castigators who put them down. Channelling celestial powers through their thunderhead greatbows, they provide covering fire to their kindred, projectiles detonating with blazing force.",
+ "PitchBattleProfile": {
+  "UnitSize": "3",
+  "Points": "90",
+  "Role": "None",
+  "BaseSize": "40",
+  "Notes": ""
+ },
+ "Intro": "Each model in a Castigators unit is armed with a Thunderhead Greatbow and Heavy Stock.",
+ "Rules": [
+  {
+   "Name": "Battalions",
+   "Fluff": "",
+   "Rule": "BATTALIONS: This warscroll can be used in the following warscroll battalions: • Hailstorm Battery • Sempiternals Hailstorm Battery"
+  },
+  {
+   "Name": "Champion",
+   "Fluff": "",
+   "Rule": "CHAMPION: 1 model in this unit can be a Castigator-Prime. Add 1 to the Attacks characteristic of that model’s Thunderhead Greatbow."
+  },
+  {
+   "Name": "Castigator Aetheric Channelling",
+   "Fluff": "Castigators can use their knowledge of the arcane to channel aetheric energy, making their weapons more accurate or more powerful.",
+   "Rule": "At the start of the shooting phase, you must say whether this unit will increase either the accuracy or the power of its Thunderhead Greatbows.If you pick accuracy, until the end of that phase, add 1 to hit rolls for attacks made with this unit’s Thunderhead Greatbows.If you pick power, until the end of that phase, this unit’s Thunderhead Greatbows have a Rend characteristic of -2 instead of-1."
+  },
+  {
+   "Name": "Burst Of Celestial Energy",
+   "Fluff": "When the bolt from a thunderhead greatbow hits its target, it releases a burst of celestial energy that is deadly to daemons and spirit creatures.",
+   "Rule": "Burst of Celestial Energy: If the unmodified hit roll for an attack made with a Thunderhead Greatbow that targets a MALIGNANT or DAEMON unit is 6, that attack scores 2 hits on the target instead of 1. Make a wound and save roll for each hit."
+  }
+ ],
+ "Keywords": [
+  "Order",
+  "Stormcast Eternals",
+  "Sacrosanct",
+  "Justicar",
+  "Castigators"
+ ],
+ "Profile": {
+  "Movement": "5\"",
+  "Wounds": "2",
+  "Save": "4+",
+  "Bravery": "7"
+ },
+ "Tables": [
+  [
+   [
+    "MISSILE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Thunderhead Greatbow",
+    "18\"",
+    "D3",
+    "3+",
+    "3+",
+    "-1",
+    "1"
+   ]
+  ],
+  [
+   [
+    "MELEE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Heavy Stock",
+    "1\"",
+    "2",
+    "4+",
+    "3+",
+    "-",
+    "1"
+   ]
+  ]
+ ]
+}

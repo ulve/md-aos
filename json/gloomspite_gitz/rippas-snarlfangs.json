@@ -1,0 +1,115 @@
+{
+ "IsLegends": false,
+ "Url": "https://wahapedia.ru/aos3/factions/gloomspite-gitz/Rippa-s-Snarlfangs",
+ "Faction": "Gloomspite Gitz",
+ "Title": "Rippa’s Snarlfangs",
+ "Legend": "Racing forth on fleet-pawed Snarlfang mounts come Rippa Narkbad and his ladz, whooping and hollering as they seek out fleeing prey to stick with spears and cruel, barbed arrows.",
+ "PitchBattleProfile": {
+  "UnitSize": "3",
+  "Points": "110",
+  "Role": "None",
+  "BaseSize": "25 × 50",
+  "Notes": "Single, Unique"
+ },
+ "Intro": "The models in Rippa’s Snarlfangs are Rippa, Stabbit and Mean-eye. Rippa is armed with a Boss Loppa. Stabbit is armed with a Stabbin’ Stikka. Mean-eye is armed with a Grot Bow.",
+ "Rules": [
+  {
+   "Name": "Mount",
+   "Fluff": "",
+   "Rule": "MOUNT: This unit’s Snarlfangs are each armed with Slavering Jaws."
+  },
+  {
+   "Name": "Ferocious Pounce",
+   "Fluff": "Snarlfangs strike with startling speed, falling upon their prey in a blur of claws and venomous jaws.",
+   "Rule": "This unit is eligible to fight in the combat phase if it is within 6\" of an enemy unit instead of 3\", and it can move an extra 3\" when it piles in."
+  },
+  {
+   "Name": "Vindictive Attackers",
+   "Fluff": "In spite of their constant bickering, Rippa and his ladz can at least all agree that there’s nothing more satisfying than attacking an already flagging enemy.",
+   "Rule": "Add 1 to hit rolls and wound rolls for attacks made by this unit that target a unit that has 1 or more wounds allocated to it."
+  }
+ ],
+ "Keywords": [
+  "Destruction",
+  "Gloomspite Gitz",
+  "Grot",
+  "Gitmob",
+  "Rippa’s",
+  "Snarlfangs"
+ ],
+ "Profile": {
+  "Movement": "12\"",
+  "Wounds": "3",
+  "Save": "5+",
+  "Bravery": "5"
+ },
+ "Tables": [
+  [
+   [
+    "MISSILE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Grot Bow",
+    "16\"",
+    "2",
+    "4+",
+    "4+",
+    "-",
+    "1"
+   ]
+  ],
+  [
+   [
+    "MELEE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Boss Loppa",
+    "1\"",
+    "5",
+    "3+",
+    "3+",
+    "-1",
+    "2"
+   ],
+   [
+    "Stabbin’ Stikka",
+    "2\"",
+    "2",
+    "4+",
+    "4+",
+    "-",
+    "1"
+   ],
+   [
+    "Grot Bow",
+    "2\"",
+    "1",
+    "4+",
+    "4+",
+    "-",
+    "1"
+   ],
+   [
+    "Slavering Jaws",
+    "2\"",
+    "2",
+    "3+",
+    "3+",
+    "-",
+    "2"
+   ]
+  ]
+ ]
+}

@@ -1,0 +1,51 @@
+# Drakespawn Chariots
+
+_Drakespawn Chariots are elegant yet cruel war machines that are highly manoeuvrable thanks to their single-wheel design. Fitted with an array of scything blades and crewed by skilled Order Serpentis knights, they cause dreadful carnage as they plough into the enemy lines._
+
+
+| Movement | Wounds | Save | Bravery |
+|:--------:|:------:|:----:|:-------:|
+| 10" | 6 | 4+ | 7 |
+
+* Unit Size: **1**
+* Points: **90**
+* Battlefield Role: **None**
+* Base size: **120 x 92**
+* Notes: **Single. Each time this unit is included in an army, it can have 3 models. If it has 1 model, the points value is 90. If it has 3 models, the points value is 270.**
+
+| MISSILE WEAPONS | Range | Attacks | To Hit | To WoundTo Wnd | Rend | DamageDmg |
+|:---|:--:|:--:|:--:|:--:|:--:|:--:|
+| Repeater Crossbow | 18" | 4 | 4+ | 4+ | - | 1 |
+
+
+| MELEE WEAPONS | Range | Attacks | To Hit | To WoundTo Wnd | Rend | DamageDmg |
+|:---|:--:|:--:|:--:|:--:|:--:|:--:|
+| Barbed Spear | 2" | 2 | 3+ | 4+ | -1 | 1 |
+| Ferocious Jaws | 1" | 6 | 3+ | 4+ | -1 | 1 |
+
+
+_Each model in a Drakespawn Chariots unit is armed with a Repeater Crossbow and Barbed Spear._
+
+## Mount
+
+MOUNT: This unit’s Drakespawn are armed with Ferocious Jaws.
+
+## Scythed Runners
+
+_Vicious blades are fitted to this chariot, carving apart anything that gets in its way. The deadliest attacks are delivered to the flanks of the enemy already beset by the Order's Drakespawn Knights._
+
+After this unit makes a charge move, pick 1 enemy unit and roll 2 dice for each model in this unit within 3" of a model in that enemy unit. For each roll of 2-4, that enemy unit suffers 1 mortal wound. For each roll of 5+, that enemy unit suffers 3 mortal wounds. If the enemy unit picked is within 3"of any friendly DRAKESPAWN KNIGHTS units, add 2 to each roll.
+
+## Keywords
+
+* Order
+* Cities Of Sigmar
+* Aelf
+* Order Serpentis
+* Drakespawn
+* Chariots
+
+
+## Source
+
+[Drakespawn Chariots](https://wahapedia.ru/aos3/factions/cities-of-sigmar/Drakespawn-Chariots)

@@ -1,0 +1,24 @@
+{
+ "IsLegends": false,
+ "Url": "https://wahapedia.ru/aos3/factions/flesh-eater-courts/Cannibal-Court",
+ "Faction": "Flesh-eater Courts",
+ "Title": "Cannibal Court",
+ "Legend": "Upon scenting the fresh meat of an enemy army, an entire court is roused to frenzy. Packs of mordants scrabble behind snarling courtiers, who in turn flock to the maddened howls of the abhorrants, and as one they surge across the land in search of their next gruesome feast.",
+ "PitchBattleProfile": {
+  "UnitSize": "",
+  "Points": "60",
+  "Role": "Warscroll Battalion",
+  "BaseSize": "",
+  "Notes": ""
+ },
+ "Intro": "",
+ "Rules": null,
+ "Keywords": null,
+ "Profile": {
+  "Movement": "",
+  "Wounds": "",
+  "Save": "",
+  "Bravery": ""
+ },
+ "Tables": null
+}

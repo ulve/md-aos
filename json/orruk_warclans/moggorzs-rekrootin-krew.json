@@ -1,0 +1,24 @@
+{
+ "IsLegends": false,
+ "Url": "https://wahapedia.ru/aos3/factions/orruk-warclans/Moggorz-s-Rekrootin-Krew",
+ "Faction": "Orruk Warclans",
+ "Title": "Moggorz’s Rekrootin’ Krew",
+ "Legend": "Under the steely gaze of Moggorz and his Rekrootin’ Krew, mobs of orruks from across the realms fight for the chance of becoming true-blue Ironsunz. Though not as kunnin’ as the warclan’s own, their desire to impress lends them a deadly courage in battle.",
+ "PitchBattleProfile": {
+  "UnitSize": "",
+  "Points": "150",
+  "Role": "Warscroll Battalion",
+  "BaseSize": "",
+  "Notes": ""
+ },
+ "Intro": "",
+ "Rules": null,
+ "Keywords": null,
+ "Profile": {
+  "Movement": "",
+  "Wounds": "",
+  "Save": "",
+  "Bravery": ""
+ },
+ "Tables": null
+}

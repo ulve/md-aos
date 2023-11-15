@@ -1,0 +1,58 @@
+{
+ "IsLegends": false,
+ "Url": "https://wahapedia.ru/aos3/factions/orruk-warclans/Orruk-Warchanter",
+ "Faction": "Orruk Warclans",
+ "Title": "Orruk Warchanter",
+ "Legend": "The booming rhythm of a Warchanter’s drumming draws orruks to battle from miles around. As the tempo of violence increases, so does the furious energy of a Warchanter’s beat, driving those Ironjawz nearby into a destructive frenzy.",
+ "PitchBattleProfile": {
+  "UnitSize": "1",
+  "Points": "120",
+  "Role": "Leader",
+  "BaseSize": "40",
+  "Notes": "Single"
+ },
+ "Intro": "An Orruk Warchanter is armed with a Gorkstikk and Morkstikk.",
+ "Rules": [
+  {
+   "Name": "Violent Fury",
+   "Fluff": "Warchanters excel at stoking a wanton destructive fury in their lads.",
+   "Rule": "In your hero phase, you can pick 1 friendly IRONJAWZ unit wholly within 15\" of this unit. Until your next hero phase, add 1 to the damage inflicted by attacks made with melee weapons by that unit. A unit cannot benefit from this ability more than once per phase."
+  }
+ ],
+ "Keywords": [
+  "Destruction",
+  "Orruk Warclans",
+  "Orruk",
+  "Ironjawz",
+  "Hero",
+  "Warchanter"
+ ],
+ "Profile": {
+  "Movement": "4\"",
+  "Wounds": "6",
+  "Save": "4+",
+  "Bravery": "7"
+ },
+ "Tables": [
+  [
+   [
+    "MELEE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Gorkstikk and Morkstikk",
+    "1\"",
+    "6",
+    "3+",
+    "3+",
+    "-",
+    "D3"
+   ]
+  ]
+ ]
+}

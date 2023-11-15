@@ -1,0 +1,122 @@
+{
+ "IsLegends": true,
+ "Url": "https://wahapedia.ru/aos3/factions/orruk-warclans/Rogue-Idol",
+ "Faction": "Orruk Warclans",
+ "Title": "Rogue Idol",
+ "Legend": "Crudely fashioned by orruk shamans from rocks and battlefield debris, Rogue Idols are daubed with sigils and animated by Waaagh! energy. They are drawn inexorably to the biggest battles, storming out of the wilderness to clobber their foes.",
+ "PitchBattleProfile": {
+  "UnitSize": "1",
+  "Points": "430",
+  "Role": "Behemoth",
+  "BaseSize": "170 x 105",
+  "Notes": "Single"
+ },
+ "Intro": "A Rogue Idol is armed with Boulder Fists and Stompin’ Feet.",
+ "Rules": [
+  {
+   "Name": "Avalanche!",
+   "Fluff": "Even in death, Rogue Idols cause widespread devastation, their stony forms collapsing in a rain of heavy boulders and rubble that has left more than one elated champion crushed flat by the remains of the very beast he just bested.",
+   "Rule": "ABILITIES If this model is slain, before removing it from play, roll a dice for each unit within 3\" of this model. On a 4+, that unit suffers D3 mortal wounds. This model is then removed from play."
+  },
+  {
+   "Name": "Livin’ Idol",
+   "Fluff": "The crackling spiritual power of the Waaagh! is the lifeblood of the Rogue Idol, such that orruk shamans can tap into it when casting their magic.",
+   "Rule": "Add 1 to casting rolls for friendly ORRUK WIZARDS while they are within 6\" of any friendly models with this ability. In addition, add 1 to the Bravery characteristic of friendly ORRUK units while they are wholly within 18\" of any friendly models with this ability."
+  },
+  {
+   "Name": "Da Big ’Un",
+   "Fluff": "Nothing more, in truth, than a monumental pile of rocks in motion, the Rogue Idol has few weaknesses and does not feel pain.",
+   "Rule": "This model has a ward of 5+."
+  },
+  {
+   "Name": "Rubble And Ruin",
+   "Fluff": "A Rogue Idol doesn’t particularly care about where it’s treading, and chunks of stone and bits of former victims are forever falling off its thunderous bulk.",
+   "Rule": "Rubble and Ruin: At the end of the combat phase, roll a dice for each enemy unit within 3\" of this model. On a 4+, that unit suffers 1 mortal wound."
+  },
+  {
+   "Name": "Spirit Of The Waaagh!",
+   "Fluff": "Rogue Idols storm relentlessly into battle, driven ever onwards by the will of Gorkamorka, smashing their enemies flat with one thunderous charge after another.",
+   "Rule": "Spirit of the Waaagh!: Add 1 to hit rolls for attacks made by this model if it made a charge move in the same turn."
+  }
+ ],
+ "Keywords": [
+  "Destruction",
+  "Orruk Warclans",
+  "Bonesplitterz",
+  "Ironjawz",
+  "Kruleboyz",
+  "Monster",
+  "Totem",
+  "Rogue",
+  "Idol"
+ ],
+ "Profile": {
+  "Movement": "*",
+  "Wounds": "16",
+  "Save": "4+",
+  "Bravery": "10"
+ },
+ "Tables": [
+  [
+   [
+    "MELEE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Boulder Fists",
+    "3\"",
+    "2",
+    "3+",
+    "*",
+    "-2",
+    "D6"
+   ],
+   [
+    "Stompin’ Feet",
+    "2\"",
+    "*",
+    "3+",
+    "3+",
+    "-2",
+    "2"
+   ]
+  ],
+  [
+   [
+    "Wounds Suffered",
+    "Move",
+    "Boulder Fists",
+    "Stompin’ Feet"
+   ],
+   [
+    "0-8",
+    "10\"",
+    "2+",
+    "10"
+   ],
+   [
+    "9-11",
+    "8\"",
+    "3+",
+    "8"
+   ],
+   [
+    "12-13",
+    "6\"",
+    "3+",
+    "6"
+   ],
+   [
+    "14+",
+    "4\"",
+    "4+",
+    "4"
+   ]
+  ]
+ ]
+}

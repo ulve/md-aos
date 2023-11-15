@@ -1,0 +1,85 @@
+{
+ "IsLegends": false,
+ "Url": "https://wahapedia.ru/aos3/factions/cities-of-sigmar/Doralia-ven-Denst",
+ "Faction": "Cities of Sigmar",
+ "Title": "Doralia ven Denst",
+ "Legend": "Despite her youth, Doralia ven Denst is a renowned agent of the Order of Azyr. Not only a hunter of witches and warlocks, she is a specialist in dispelling the endless spells they unleash, banishing them with consecrated blade and crossbow bolt alike.",
+ "PitchBattleProfile": {
+  "UnitSize": "1",
+  "Points": "160",
+  "Role": "None",
+  "BaseSize": "28.5",
+  "Notes": "Single, Unique. Doralia ven Denst and Galen ven Denst units must be taken as a set. Although taken as a set, each is a separate unit."
+ },
+ "Intro": "Doralia ven Denst is armed with an Anti-thaumic Crossbow and Consecrated Blade",
+ "Rules": [
+  {
+   "Name": "Grim Resolve",
+   "Fluff": "Witch hunters are tenacious opponents, ignoring the pain of wounds that would fell a lesser person.",
+   "Rule": "This unit has a ward of 5+."
+  },
+  {
+   "Name": "Weapons Of Banishment",
+   "Fluff": "Inscribed with the holy writ of Sigmar and inlaid with nullstone and silver, Doralia’s anti-thaumic crossbow bolts and consecrated blade are anathema to spellcasters and their works, banishing all forms of arcane energy in a flash.",
+   "Rule": "Weapons of Banishment: Double the Damage characteristic of an attack made with this model’s weapons if the target ofthat attack is a WIZARD or DAEMON. In addition, when this model fights or shoots, you can choose an endless spell to be the target of any of its attacks. If you do so, roll a dice to see if that attack scores a hit. If it does, do not make a wound or save roll. Instead, roll 2D6. Ifthe roll is greater than the casting value of that endless spell, that endless spell is dispelled."
+  }
+ ],
+ "Keywords": [
+  "Order",
+  "Cities Of Sigmar",
+  "Human",
+  "Order Of Azyr",
+  "Hero",
+  "Doralia",
+  "Ven",
+  "Denst"
+ ],
+ "Profile": {
+  "Movement": "5\"",
+  "Wounds": "5",
+  "Save": "4+",
+  "Bravery": "8"
+ },
+ "Tables": [
+  [
+   [
+    "MISSILE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Anti-thaumic Crossbow",
+    "24\"",
+    "2",
+    "3+",
+    "3+",
+    "-2",
+    "2"
+   ]
+  ],
+  [
+   [
+    "MELEE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Consecrated Blade",
+    "1\"",
+    "3",
+    "3+",
+    "3+",
+    "-1",
+    "2"
+   ]
+  ]
+ ]
+}

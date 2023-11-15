@@ -1,0 +1,24 @@
+{
+ "IsLegends": false,
+ "Url": "https://wahapedia.ru/aos3/factions/gloomspite-gitz/Troggherd",
+ "Faction": "Gloomspite Gitz",
+ "Title": "Troggherd",
+ "Legend": "A Troggherd could be likened to a slow-moving avalanche, which starts with a lone Dankhold Troggboss setting off to points unknown and ends with a lumbering mass of violently stupid and single-minded monsters smashing their way through everything in their path.",
+ "PitchBattleProfile": {
+  "UnitSize": "",
+  "Points": "170",
+  "Role": "Warscroll Battalion",
+  "BaseSize": "",
+  "Notes": ""
+ },
+ "Intro": "",
+ "Rules": null,
+ "Keywords": null,
+ "Profile": {
+  "Movement": "",
+  "Wounds": "",
+  "Save": "",
+  "Bravery": ""
+ },
+ "Tables": null
+}

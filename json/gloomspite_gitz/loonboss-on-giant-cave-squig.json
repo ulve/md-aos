@@ -1,0 +1,102 @@
+{
+ "IsLegends": false,
+ "Url": "https://wahapedia.ru/aos3/factions/gloomspite-gitz/Loonboss-on-Giant-Cave-Squig",
+ "Faction": "Gloomspite Gitz",
+ "Title": "Loonboss on Giant Cave Squig",
+ "Legend": "Giant Cave Squigs are especially huge and ferocious beasts that make excellent steeds for the more daring grot Loonbosses. They hurtle into battle like rubbery meteors, all fangs, prodding spikes and shrieked war cries.",
+ "PitchBattleProfile": {
+  "UnitSize": "1",
+  "Points": "130",
+  "Role": "Leader",
+  "BaseSize": "40",
+  "Notes": "Single"
+ },
+ "Intro": "A Loonboss on Giant Cave Squig is armed with 1 of the following weapon options: Moon-cutta; or Moonclan Stabba.",
+ "Rules": [
+  {
+   "Name": "Battalions",
+   "Fluff": "",
+   "Rule": "BATTALIONS: This warscroll can be used in the following warscroll battalions: • Bosses of the Skrap • Skulkmob Horde • Squigalanche"
+  },
+  {
+   "Name": "Mount",
+   "Fluff": "",
+   "Rule": "MOUNT: This unit’s Giant Cave Squig is armed with a Massive Fang-filled Gob."
+  },
+  {
+   "Name": "Fly",
+   "Fluff": "",
+   "Rule": "FLY: This unit can fly."
+  },
+  {
+   "Name": "Moonclan Stabba",
+   "Fluff": "With the enemy in sight, this Loonboss lowers their Moonclan Stabba and charges into the fray.",
+   "Rule": "If this unit made a charge move in the same turn, add 1 to the Damage characteristic of this unit’s Moonclan Stabba and improve the Rend characteristic of this unit’s Moonclan Stabba by 1."
+  },
+  {
+   "Name": "Let’s Get Bouncin’!",
+   "Fluff": "As his Giant Cave Squig leaps and bounds towards the enemy lines, the Loonboss signals the command for Boingrot Bounderz to join the fight and get stabbin’!",
+   "Rule": "In the combat phase, after this unit has fought for the first time in that phase, you can pick 1 friendly BOINGROT BOUNDERZ unit that has not yet fought in that phase, is within 3\" of an enemy unit, and is wholly within 12\" of this unit. That unit can fight immediately."
+  }
+ ],
+ "Keywords": [
+  "Destruction",
+  "Gloomspite Gitz",
+  "Grot",
+  "Squig",
+  "Moonclan",
+  "Hero",
+  "Loonboss",
+  "Loonboss",
+  "On",
+  "Giant",
+  "Cave",
+  "Squig"
+ ],
+ "Profile": {
+  "Movement": "D6+7\"",
+  "Wounds": "8",
+  "Save": "4+",
+  "Bravery": "6"
+ },
+ "Tables": [
+  [
+   [
+    "MELEE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Moon-cutta",
+    "1\"",
+    "5",
+    "3+",
+    "3+",
+    "-1",
+    "2"
+   ],
+   [
+    "Moonclan Stabba",
+    "2\"",
+    "4",
+    "4+",
+    "3+",
+    "-1",
+    "2"
+   ],
+   [
+    "Massive Fang-filled Gob",
+    "1\"",
+    "4",
+    "4+",
+    "3+",
+    "-1",
+    "D3"
+   ]
+  ]
+ ]
+}

@@ -1,0 +1,103 @@
+{
+ "IsLegends": true,
+ "Url": "https://wahapedia.ru/aos3/factions/maggotkin-of-nurgle/Chaos-Siege-Gargant",
+ "Faction": "Maggotkin of Nurgle",
+ "Title": "Chaos Siege Gargant",
+ "Legend": "Chaos Siege Gargants are towering, iron-clad brutes. Equipped with immense hooked blades and massive weighted chains, these monstrosities can tear through fortifications and enemy armies with contemptuous ease.",
+ "PitchBattleProfile": {
+  "UnitSize": "1",
+  "Points": "215",
+  "Role": "Behemoth",
+  "BaseSize": "",
+  "Notes": "Single"
+ },
+ "Intro": "A Chaos Siege Gargant is armed with Colossal Hook-blades and Lashing Chains.",
+ "Rules": [
+  {
+   "Name": "Monstrous Ally",
+   "Fluff": "",
+   "Rule": "MONSTROUS ALLY: This unit can be included as an allied unit in an army whose general has the CHAOS keyword."
+  },
+  {
+   "Name": "Scaling Spikes And Chains",
+   "Fluff": "Resembling a living war machine, Siege Gargants are covered in various hooks, spikes and chains that make it easy for them to clamber over high walls and crush obstacles.",
+   "Rule": "ABILITIESScaling Spikes and Chains: If you carry out a Smash To Rubble monstrous rampage with this model, the terrain feature is demolished on a 2+ instead of a 3+."
+  },
+  {
+   "Name": "Timber!",
+   "Fluff": "Should a gargant fall, it will likely crush anything in its path.",
+   "Rule": "If this model is slain, before removing it from play, the players must roll off. The winner must pick a point on the battlefield 4\" from this model. Each unit within 3\" of that point suffers D3 mortal wounds unless it is a GARGANT. This model is then removed from play."
+  }
+ ],
+ "Keywords": [
+  "Chaos",
+  "Gargant",
+  "Monster",
+  "Siege",
+  "Gargant"
+ ],
+ "Profile": {
+  "Movement": "*",
+  "Wounds": "12",
+  "Save": "3+",
+  "Bravery": "6"
+ },
+ "Tables": [
+  [
+   [
+    "MELEE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Colossal Hook-blades",
+    "3\"",
+    "*",
+    "4+",
+    "3+",
+    "-1",
+    "2"
+   ],
+   [
+    "Lashing Chains",
+    "2\"",
+    "D6",
+    "3+",
+    "5+",
+    "-",
+    "1"
+   ]
+  ],
+  [
+   [
+    "Wounds Suffered",
+    "Move",
+    "Colossal Hook-blades"
+   ],
+   [
+    "0-5",
+    "7\"",
+    "7"
+   ],
+   [
+    "6-7",
+    "6\"",
+    "6"
+   ],
+   [
+    "8-9",
+    "5\"",
+    "5"
+   ],
+   [
+    "10+",
+    "4\"",
+    "4"
+   ]
+  ]
+ ]
+}

@@ -1,0 +1,93 @@
+{
+ "IsLegends": true,
+ "Url": "https://wahapedia.ru/aos3/factions/cities-of-sigmar/Warrior-Priest",
+ "Faction": "Cities of Sigmar",
+ "Title": "Warrior Priest",
+ "Legend": "",
+ "PitchBattleProfile": {
+  "UnitSize": "1",
+  "Points": "90",
+  "Role": "Leader",
+  "BaseSize": "",
+  "Notes": "Single"
+ },
+ "Intro": "A Warrior Priest is armed with one of the following weapon options: Sigmarite Warhammer and Sigmarite Shield; Paired Sigmarite Warhammers; or Sigmarite Greathammer.",
+ "Rules": [
+  {
+   "Name": "Shield",
+   "Fluff": "",
+   "Rule": "SHIELD: If this unit is armed with a Sigmarite Shield, it has a Save characteristic of 3+ instead of 4+."
+  },
+  {
+   "Name": "Mount",
+   "Fluff": "",
+   "Rule": "MOUNT: This unit can be mounted on a Barded Warhorse that is armed with Steel-shod Hooves. If this unit is mounted on a Barded Warhorse, it has a Move characteristic of 12\" instead of 5\"."
+  }
+ ],
+ "Keywords": [
+  "Order",
+  "Cities Of Sigmar",
+  "Human",
+  "Celestial",
+  "Devoted Of Sigmar",
+  "Hero",
+  "Priest",
+  "Warrior",
+  "Priest"
+ ],
+ "Profile": {
+  "Movement": "5\"",
+  "Wounds": "5",
+  "Save": "4+",
+  "Bravery": "7"
+ },
+ "Tables": [
+  [
+   [
+    "MELEE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Sigmarite Warhammer",
+    "1\"",
+    "4",
+    "4+",
+    "4+",
+    "-",
+    "1"
+   ],
+   [
+    "Paired Sigmarite Warhammers",
+    "1\"",
+    "6",
+    "4+",
+    "4+",
+    "-",
+    "1"
+   ],
+   [
+    "Sigmarite Greathammer",
+    "1\"",
+    "2",
+    "4+",
+    "3+",
+    "-1",
+    "1"
+   ],
+   [
+    "Steel-shod Hooves",
+    "1\"",
+    "2",
+    "4+",
+    "4+",
+    "-",
+    "1"
+   ]
+  ]
+ ]
+}

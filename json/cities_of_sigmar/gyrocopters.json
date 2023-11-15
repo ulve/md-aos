@@ -1,0 +1,97 @@
+{
+ "IsLegends": false,
+ "Url": "https://wahapedia.ru/aos3/factions/cities-of-sigmar/Gyrocopters",
+ "Faction": "Cities of Sigmar",
+ "Title": "Gyrocopters",
+ "Legend": "Small and nimble singleduardin fighter craft, Gyrocopters roar over the heads of their targets in tight formation, strafing them with flames or scalding steam before wheeling away to begin another attack run.",
+ "PitchBattleProfile": {
+  "UnitSize": "1",
+  "Points": "80",
+  "Role": "None",
+  "BaseSize": "50",
+  "Notes": "Single. Each time this unit is included in an army, it can have 3 models. If it has 1 model, the points value is 80. If it has 3 models, the points value is 240."
+ },
+ "Intro": "Each model in a Gyrocopters unit is armed with Rotor Blades and 1 of the following weapon options: Brimstone Gun; or Steam Gun.",
+ "Rules": [
+  {
+   "Name": "Fly",
+   "Fluff": "",
+   "Rule": "FLY: This unit can fly."
+  },
+  {
+   "Name": "Champion",
+   "Fluff": "",
+   "Rule": "CHAMPION: If this unit has 2 or more models, 1 model in this unit can be a Squadron Leader. Add 1 to the Attacks characteristic of that model’s missile weapons."
+  },
+  {
+   "Name": "Guild Bombs",
+   "Fluff": "Every Gyrocopter goes to battle with a single payload of these volatile blackpowder explosives.",
+   "Rule": "Once per battle, after this unit has made a normal move, pick 1 enemy unit and roll 1 dice for each model in this unit that passed across any models in that enemy unit. For each roll of 2+, that enemy unit suffers D3 mortal wounds."
+  }
+ ],
+ "Keywords": [
+  "Order",
+  "Cities Of Sigmar",
+  "Duardin",
+  "Ironweld Arsenal",
+  "War Machine",
+  "Gyrocopters"
+ ],
+ "Profile": {
+  "Movement": "12\"",
+  "Wounds": "4",
+  "Save": "3+",
+  "Bravery": "6"
+ },
+ "Tables": [
+  [
+   [
+    "MISSILE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Brimstone Gun",
+    "15\"",
+    "3",
+    "3+",
+    "3+",
+    "-1",
+    "D3"
+   ],
+   [
+    "Steam Gun",
+    "12\"",
+    "2D6",
+    "3+",
+    "3+",
+    "-",
+    "1"
+   ]
+  ],
+  [
+   [
+    "MELEE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Rotor Blades",
+    "1\"",
+    "3",
+    "4+",
+    "4+",
+    "-1",
+    "2"
+   ]
+  ]
+ ]
+}

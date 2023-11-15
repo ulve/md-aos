@@ -1,0 +1,84 @@
+{
+ "IsLegends": true,
+ "Url": "https://wahapedia.ru/aos3/factions/gloomspite-gitz/Grot-Spear-Chukka",
+ "Faction": "Gloomspite Gitz",
+ "Title": "Grot Spear Chukka",
+ "Legend": "",
+ "PitchBattleProfile": {
+  "UnitSize": "1",
+  "Points": "135",
+  "Role": "Artillery",
+  "BaseSize": "",
+  "Notes": "Single"
+ },
+ "Intro": "A Grot Spear Chukka is armed with Chukkin’ Spears.",
+ "Rules": [
+  {
+   "Name": "Crew",
+   "Fluff": "",
+   "Rule": "CREW: A Grot Spear Chukka has a crew of 3 Grots, who are armed with Slittas. The crew must remain within l\" of the Grot Spear Chukka. For rules purposes, the Grot Spear Chukka and its crew are treated as a single model."
+  },
+  {
+   "Name": "Get The One With The Big Hat",
+   "Fluff": "",
+   "Rule": "ABILITIESGet the One with the Big Hat: Add 1 to hit rolls for attacks made with a Chukkin’ Spear that target a HERO."
+  }
+ ],
+ "Keywords": [
+  "Destruction",
+  "Gloomspite Gitz",
+  "Grot",
+  "War Machine",
+  "Grot",
+  "Spear",
+  "Chukka"
+ ],
+ "Profile": {
+  "Movement": "2\"",
+  "Wounds": "4",
+  "Save": "5+",
+  "Bravery": "4"
+ },
+ "Tables": [
+  [
+   [
+    "MISSILE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Chukkin’ Spear",
+    "36\"",
+    "3",
+    "4+",
+    "3+",
+    "-2",
+    "D3"
+   ]
+  ],
+  [
+   [
+    "MELEE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Slittas",
+    "1\"",
+    "3",
+    "5+",
+    "5+",
+    "-",
+    "1"
+   ]
+  ]
+ ]
+}

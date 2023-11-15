@@ -1,0 +1,78 @@
+{
+ "IsLegends": true,
+ "Url": "https://wahapedia.ru/aos3/factions/cities-of-sigmar/Spellweaver",
+ "Faction": "Cities of Sigmar",
+ "Title": "Spellweaver",
+ "Legend": "",
+ "PitchBattleProfile": {
+  "UnitSize": "1",
+  "Points": "110",
+  "Role": "Leader",
+  "BaseSize": "",
+  "Notes": "Single"
+ },
+ "Intro": "A Spellweaver is armed with one of the following weapon options: Blows of Mystic Power; or a Heartwood Staff.",
+ "Rules": [
+  {
+   "Name": "Wizard",
+   "Fluff": "",
+   "Rule": "WIZARD: This unit can attempt to cast 1 spell in your hero phase and attempt to unbind 1 spell in the enemy hero phase."
+  },
+  {
+   "Name": "Ancient Blessings",
+   "Fluff": "",
+   "Rule": "ABILITIES Once per battle, when you pick this unit to attempt to cast a spell, you can say that it will draw upon ancient blessings. If you do so, that spell is automatically with a casting roll equal to the casting value of the spell that cannot be modified."
+  },
+  {
+   "Name": "Blessing Of Life",
+   "Fluff": "",
+   "Rule": "Blessing of Life: Blessing of Life has a casting value of 5 and a range of 16\". If successfully cast, pick 1 friendly WANDERERS unit within range and visible to the caster. You can return up to D3 slain models to that unit."
+  }
+ ],
+ "Keywords": [
+  "Order",
+  "Cities Of Sigmar",
+  "Aelf",
+  "Wanderers",
+  "Hero",
+  "Wizard",
+  "Spellweaver"
+ ],
+ "Profile": {
+  "Movement": "6\"",
+  "Wounds": "5",
+  "Save": "6+",
+  "Bravery": "7"
+ },
+ "Tables": [
+  [
+   [
+    "MELEE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Blows of Mystic Power",
+    "1\"",
+    "3",
+    "4+",
+    "3+",
+    "-",
+    "1"
+   ],
+   [
+    "Heartwood Staff",
+    "2\"",
+    "1",
+    "4+",
+    "3+",
+    "-1",
+    "D3"
+   ]
+  ]
+ ]
+}

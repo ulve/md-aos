@@ -1,0 +1,24 @@
+{
+ "IsLegends": false,
+ "Url": "https://wahapedia.ru/aos3/factions/flesh-eater-courts/Veremord-s-Shamblers",
+ "Faction": "Flesh-eater Courts",
+ "Title": "Veremord’s Shamblers",
+ "Legend": "Crypt-keepers dread the coming of Veremord. This foul student of necromancy has a talent for appropriating and twisting the wards that protect the dead to enhance his rotting minions. Just as dangerous is the smoke that billows from his Corpse Cart’s brazier, which has been enchanted to corrode a foe’s arcane defences.",
+ "PitchBattleProfile": {
+  "UnitSize": "",
+  "Points": "190",
+  "Role": "Warscroll Battalion",
+  "BaseSize": "",
+  "Notes": "Unique, Single. These units must be taken as a set referred to as Veremord’s Shamblers. Although taken as a set, each is a separate unit."
+ },
+ "Intro": "",
+ "Rules": null,
+ "Keywords": null,
+ "Profile": {
+  "Movement": "",
+  "Wounds": "",
+  "Save": "",
+  "Bravery": ""
+ },
+ "Tables": null
+}

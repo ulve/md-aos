@@ -1,0 +1,106 @@
+{
+ "IsLegends": true,
+ "Url": "https://wahapedia.ru/aos3/factions/gloomspite-gitz/Grot-Mob",
+ "Faction": "Gloomspite Gitz",
+ "Title": "Grot Mob",
+ "Legend": "",
+ "PitchBattleProfile": {
+  "UnitSize": "20",
+  "Points": "110",
+  "Role": "Battleline",
+  "BaseSize": "",
+  "Notes": ""
+ },
+ "Intro": "Each model in a Grot Mob is armed with one of the following weapon options: Jabbin’ Spear and Grot Shield; or Grot Bow and Slasha. All models in the unit must be armed with the same weapon option.",
+ "Rules": [
+  {
+   "Name": "Shield",
+   "Fluff": "",
+   "Rule": "SHIELD: If this unit is armed with Grot Shields, it has a Save characteristic of 5+ instead of 6+."
+  },
+  {
+   "Name": "Champion",
+   "Fluff": "",
+   "Rule": "CHAMPION: 1 model in this unit can be a Grot Boss. Add 1 to the Attacks characteristic of that model’s melee weapon."
+  },
+  {
+   "Name": "Standard Bearer",
+   "Fluff": "",
+   "Rule": "STANDARD BEARER: 1 in every 10 models in this unit can be a Flag Waver. Add 1 to the Bravery characteristic of this unit if it includes any Flag Wavers."
+  },
+  {
+   "Name": "Musician",
+   "Fluff": "",
+   "Rule": "MUSICIAN: 1 in every 10 models in this unit can be a Hornblower. Add 1 to charge rolls for this unit if it includes any Hornblowers."
+  },
+  {
+   "Name": "Unruly Mob",
+   "Fluff": "",
+   "Rule": "ABILITIES Add 1 to hit rolls for this unit if it has 10 or more models."
+  }
+ ],
+ "Keywords": [
+  "Destruction",
+  "Gloomspite Gitz",
+  "Grot",
+  "Grot",
+  "Mob"
+ ],
+ "Profile": {
+  "Movement": "5\"",
+  "Wounds": "1",
+  "Save": "6+",
+  "Bravery": "4"
+ },
+ "Tables": [
+  [
+   [
+    "MISSILE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Grot Bow",
+    "16\"",
+    "1",
+    "5+",
+    "5+",
+    "-",
+    "1"
+   ]
+  ],
+  [
+   [
+    "MELEE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Slasha",
+    "1\"",
+    "1",
+    "5+",
+    "4+",
+    "-",
+    "1"
+   ],
+   [
+    "Jabbin’ Spear",
+    "2\"",
+    "1",
+    "5+",
+    "4+",
+    "-",
+    "1"
+   ]
+  ]
+ ]
+}

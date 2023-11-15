@@ -1,0 +1,79 @@
+# Royal Terrorgheist
+
+_The Terrorgheist is a bloodthirsty undead beast whose piercing cry scythes through the enemy as it plunges into the fray. Should the creature be slain, another horror awaits its foes, as hundreds of shrieking bats burst from its remains to ravage those nearby._
+
+
+| Movement | Wounds | Save | Bravery |
+|:--------:|:------:|:----:|:-------:|
+| * | 14 | 4+ | 10 |
+
+* Unit Size: **1**
+* Points: **260**
+* Battlefield Role: **Behemoth**
+* Base size: **130**
+* Notes: **Single. Battleline in a Gristlegore army**
+
+| MISSILE WEAPONS | Range | Attacks | To Hit | To WoundTo Wnd | Rend | DamageDmg |
+|:---|:--:|:--:|:--:|:--:|:--:|:--:|
+| Death Shriek | 10" | 1 | See below |
+
+
+| MELEE WEAPONS | Range | Attacks | To Hit | To WoundTo Wnd | Rend | DamageDmg |
+|:---|:--:|:--:|:--:|:--:|:--:|:--:|
+| Skeletal Claws | 2" | * | 4+ | 3+ | -1 | D3 |
+| Fanged Maw | 3" | 3 | 4+ | 3+ | -2 | D6 |
+
+
+| Wounds Suffered | Move | Death Shriek | Skeletal Claws |
+|:---|:--:|:--:|:--:|
+| 0-3 | 14" | 6 | 4 |
+| 4-6 | 12" | 5 | 4 |
+| 7-9 | 10" | 4 | 3 |
+| 10-12 | 8" | 3 | 3 |
+| 13+ | 6" | 2 | 2 |
+
+
+_BATTALIONSThis warscroll can be used in the following warscroll battalions: • Royal Menagerie • Mortevell’s Helcourt_
+
+## Fly
+
+FLY: This model can fly.
+
+## Death Shriek
+
+_The terrifying shriek of a Terrorgheist is enough to stop a warrior’s heart._
+
+ABILITIES Do not use the attack sequence for an attack made with this model’s Death Shriek. Instead roll a dice and add the Death Shriek value shown on this model’s damage table. If the total is higher than the target unit’s Bravery characteristic, the target unit suffers a number of mortal wounds equal to the difference between its Bravery characteristic and the total.
+
+## Gaping Maw
+
+_This horrific creature bites a great chunk out of its prey, or even swallows it whole._
+
+If the unmodified hit roll for an attack made with this model’s Fanged Maw is 6, that attack inflicts 6 mortal wounds on the target unit and the attack sequence ends (do not make a wound or save roll).
+
+## Infested
+
+_When a Terrorgheist is finally destroyed, it explodes into a swarm of bats that feast on those nearby._
+
+If this model is slain, before this model is removed from play each unit within 3" of this model suffers D3 mortal wounds.
+
+## Royal Menagerie
+
+_A Royal Terrorgheist’s decrepit flesh seethes with dark magic, and reknits as the beast slaughters its way across the battlefield._
+
+In your hero phase, you can heal up to D3 wounds allocated to this model if this model is within 6" of a friendly ABHORRANT.
+
+## Keywords
+
+* Death
+* 
+* Flesh-Eater Courts
+* Menagerie
+* Monster
+* Royal
+* Terrorgheist
+
+
+## Source
+
+[Royal Terrorgheist](https://wahapedia.ru/aos3/factions/flesh-eater-courts/Royal-Terrorgheist)

@@ -1,0 +1,130 @@
+{
+ "IsLegends": true,
+ "Url": "https://wahapedia.ru/aos3/factions/maggotkin-of-nurgle/Warpfire-Dragon",
+ "Faction": "Maggotkin of Nurgle",
+ "Title": "Warpfire Dragon",
+ "Legend": "Twisted and malignant, these dragons are ruinous creatures that spit gouts of mutating warpfire. Should one of these spite-filled beasts be slain, its body will erupt in a nova of anarchic energy, reducing its foes to mounds of malformed flesh.",
+ "PitchBattleProfile": {
+  "UnitSize": "1",
+  "Points": "260",
+  "Role": "Behemoth",
+  "BaseSize": "",
+  "Notes": "Single"
+ },
+ "Intro": "A Warpfire Dragon is armed with Warpfire, Snapping Jaws and Twisted Claws.",
+ "Rules": [
+  {
+   "Name": "Monstrous Ally",
+   "Fluff": "",
+   "Rule": "MONSTROUS ALLY: This unit can be included as an allied unit in an army whose general has the CHAOS keyword."
+  },
+  {
+   "Name": "Fly",
+   "Fluff": "",
+   "Rule": "FLY: This model can fly."
+  },
+  {
+   "Name": "Deadly Demise",
+   "Fluff": "Even in their last moments, these creatures are deadly, and those arrogant enough to believe they have won victory are soon bloodily corrected.",
+   "Rule": "ABILITIES If this model is slain, before it is removed from play, roll a dice for each unit within 3\" of this model. On a 4+, that unit suffers D3 mortal wounds. This model is then removed from play."
+  },
+  {
+   "Name": "Warpfire",
+   "Fluff": "These scintillating flames cause flesh and bone to undergo rapid and grotesque mutations, reshaping those touched into utterly grotesque configurations of their former selves.",
+   "Rule": "Do not use the attack sequence for an attack made with this model’s Warpfire. Instead roll a dice. On a 1, nothing happens. On a 2-5, the target unit suffers D3 mortal wounds. On a 6, the target unit suffers D6 mortal wounds."
+  }
+ ],
+ "Keywords": [
+  "Chaos",
+  "Dragon",
+  "Monster",
+  "Warpfire",
+  "Dragon"
+ ],
+ "Profile": {
+  "Movement": "*",
+  "Wounds": "12",
+  "Save": "4+",
+  "Bravery": "6"
+ },
+ "Tables": [
+  [
+   [
+    "MISSILE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Warpfire",
+    "12\"",
+    "1",
+    "See below"
+   ]
+  ],
+  [
+   [
+    "MELEE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Snapping Jaws",
+    "2\"",
+    "D3",
+    "3+",
+    "*",
+    "-1",
+    "D6"
+   ],
+   [
+    "Twisted Claws",
+    "1\"",
+    "*",
+    "3+",
+    "3+",
+    "-1",
+    "2"
+   ]
+  ],
+  [
+   [
+    "Wounds Suffered",
+    "Move",
+    "Snapping Jaws",
+    "Twisted Claws"
+   ],
+   [
+    "0-5",
+    "12\"",
+    "3+",
+    "5"
+   ],
+   [
+    "6-7",
+    "10\"",
+    "3+",
+    "4"
+   ],
+   [
+    "8-9",
+    "8\"",
+    "4+",
+    "3"
+   ],
+   [
+    "10+",
+    "6\"",
+    "4+",
+    "2"
+   ]
+  ]
+ ]
+}

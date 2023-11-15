@@ -1,0 +1,24 @@
+{
+ "IsLegends": false,
+ "Url": "https://wahapedia.ru/aos3/factions/cities-of-sigmar/Castelite-Formation",
+ "Faction": "Cities of Sigmar",
+ "Title": "Castelite Formation",
+ "Legend": "With a shieldwall of heavy pavises planted into the mud, the soldiers of a Castelite Formation become a living stronghold, ready to withstand the brunt of the enemy assault and mete out retribution in turn.",
+ "PitchBattleProfile": {
+  "UnitSize": "",
+  "Points": "",
+  "Role": "",
+  "BaseSize": "",
+  "Notes": ""
+ },
+ "Intro": "",
+ "Rules": null,
+ "Keywords": null,
+ "Profile": {
+  "Movement": "",
+  "Wounds": "",
+  "Save": "",
+  "Bravery": ""
+ },
+ "Tables": null
+}

@@ -1,0 +1,126 @@
+{
+ "IsLegends": true,
+ "Url": "https://wahapedia.ru/aos3/factions/cities-of-sigmar/Drakeseer",
+ "Faction": "Cities of Sigmar",
+ "Title": "Drakeseer",
+ "Legend": "",
+ "PitchBattleProfile": {
+  "UnitSize": "1",
+  "Points": "330",
+  "Role": "Leader, Behemoth",
+  "BaseSize": "",
+  "Notes": "Single"
+ },
+ "Intro": "A Drakeseer is armed with a Sunstaff.",
+ "Rules": [
+  {
+   "Name": "Mount",
+   "Fluff": "",
+   "Rule": "MOUNT: This unit’s Dragon is armed with Claws and Fearsome Jaws."
+  },
+  {
+   "Name": "Fly",
+   "Fluff": "",
+   "Rule": "FLY: This unit can fly."
+  },
+  {
+   "Name": "Dragonfire",
+   "Fluff": "",
+   "Rule": "ABILITIES In your shooting phase, this unit’s Dragon can unleash a blast of dragonfire. When it does so, pick 1 enemy unit within 12\" of this unit and visible to it, and roll a dice. On a 2+, that enemy unit suffers D3 mortal wounds."
+  },
+  {
+   "Name": "Flames Of The Phoenix",
+   "Fluff": "",
+   "Rule": "Flames of the Phoenix: Flames of the Phoenix is a spell that has a casting value of 7 and a range of 18\". If successfully cast, pick 1 enemy unit within range and visible to the caster. That unit suffers D3 mortal wounds. Then, roll a dice. On a 1-3 the effect of this spell ends. On a 4+, that unit suffers an additional D3 mortal wounds. Keep rolling in this way until either the effect of the spell ends or the unit is destroyed."
+  }
+ ],
+ "Keywords": [
+  "Order",
+  "Cities Of Sigmar",
+  "Aelf",
+  "Dragon",
+  "Eldritch Council",
+  "Hero",
+  "Wizard",
+  "Monster",
+  "Drakeseer"
+ ],
+ "Profile": {
+  "Movement": "*",
+  "Wounds": "14",
+  "Save": "5+",
+  "Bravery": "7"
+ },
+ "Tables": [
+  [
+   [
+    "MELEE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Sunstaff",
+    "2\"",
+    "2",
+    "4+",
+    "3+",
+    "-1",
+    "D3"
+   ],
+   [
+    "Claws",
+    "2\"",
+    "*",
+    "4+",
+    "3+",
+    "-1",
+    "2"
+   ],
+   [
+    "Fearsome Jaws",
+    "3\"",
+    "3",
+    "4+",
+    "*",
+    "-2",
+    "D6"
+   ]
+  ],
+  [
+   [
+    "Wounds Suffered",
+    "Move",
+    "Claws",
+    "Fearsome Jaws"
+   ],
+   [
+    "0-5",
+    "14\"",
+    "6",
+    "2+"
+   ],
+   [
+    "6-8",
+    "12\"",
+    "5",
+    "3+"
+   ],
+   [
+    "9-11",
+    "10\"",
+    "4",
+    "3+"
+   ],
+   [
+    "12+",
+    "8\"",
+    "3",
+    "4+"
+   ]
+  ]
+ ]
+}

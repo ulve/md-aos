@@ -1,0 +1,75 @@
+{
+ "IsLegends": true,
+ "Url": "https://wahapedia.ru/aos3/factions/gloomspite-gitz/Snotlings",
+ "Faction": "Gloomspite Gitz",
+ "Title": "Snotlings",
+ "Legend": "",
+ "PitchBattleProfile": {
+  "UnitSize": "2",
+  "Points": "50",
+  "Role": "None",
+  "BaseSize": "",
+  "Notes": ""
+ },
+ "Intro": "Each model in a Snotlings unit is armed with Pokin’ Sticks and Explodin’ Spores.",
+ "Rules": [
+  {
+   "Name": "Enthusiastic Show-Offs",
+   "Fluff": "",
+   "Rule": "ABILITIESEnthusiastic Show-offs: You can add 1 to hit rolls for attacks made by this unit if it is wholly within 12\" of a friendly ORRUK unit."
+  }
+ ],
+ "Keywords": [
+  "Destruction",
+  "Gloomspite Gitz",
+  "Snotlings"
+ ],
+ "Profile": {
+  "Movement": "5\"",
+  "Wounds": "4",
+  "Save": "-",
+  "Bravery": "10"
+ },
+ "Tables": [
+  [
+   [
+    "MISSILE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Explodin’ Spores",
+    "6\"",
+    "4",
+    "5+",
+    "6+",
+    "-1",
+    "1"
+   ]
+  ],
+  [
+   [
+    "MELEE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Pokin’ Sticks",
+    "1\"",
+    "5",
+    "5+",
+    "6+",
+    "-",
+    "1"
+   ]
+  ]
+ ]
+}

@@ -1,0 +1,24 @@
+{
+ "IsLegends": false,
+ "Url": "https://wahapedia.ru/aos3/factions/cities-of-sigmar/Thrall-Warhost",
+ "Faction": "Cities of Sigmar",
+ "Title": "Thrall Warhost",
+ "Legend": "Ensorcelled by the unbreakable will of a Sorceress, the warriors of this warhost hurl themselves into battle, each aelf compelled to give their life for their dark and terrible mistress should she demand it.",
+ "PitchBattleProfile": {
+  "UnitSize": "",
+  "Points": "",
+  "Role": "",
+  "BaseSize": "",
+  "Notes": ""
+ },
+ "Intro": "",
+ "Rules": null,
+ "Keywords": null,
+ "Profile": {
+  "Movement": "",
+  "Wounds": "",
+  "Save": "",
+  "Bravery": ""
+ },
+ "Tables": null
+}

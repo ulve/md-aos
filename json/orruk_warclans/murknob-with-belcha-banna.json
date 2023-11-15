@@ -1,0 +1,72 @@
+{
+ "IsLegends": false,
+ "Url": "https://wahapedia.ru/aos3/factions/orruk-warclans/Murknob-with-Belcha-banna",
+ "Faction": "Orruk Warclans",
+ "Title": "Murknob with Belcha-banna",
+ "Legend": "Murknobs are champion warriors amongst the Kruleboyz, and they revel in taking the heads of their adversaries - honestly or otherwise. They alone are granted the honour of carrying the Belcha-bannas into battle, each a foul relic with all manner of strange powers.",
+ "PitchBattleProfile": {
+  "UnitSize": "1",
+  "Points": "70",
+  "Role": "Leader",
+  "BaseSize": "40",
+  "Notes": "Single"
+ },
+ "Intro": "A Murknob with Belcha-banna is armed with a Murknob Cleaver.",
+ "Rules": [
+  {
+   "Name": "Battalions",
+   "Fluff": "",
+   "Rule": "BATTALIONS: This warscroll can be used in the following warscroll battalions: • Middul Finga"
+  },
+  {
+   "Name": "Power Of Kragnos",
+   "Fluff": "Each Belcha-banna is said to be linked to the mighty Kragnos. Certainly, the terrible roars that emanate from these icons are capable of chasing away even the power of the arcane.",
+   "Rule": "Power of Kragnos: When a friendly KRULEBOYZ ORRUK unit wholly within 12\" of this unit is affected by a spell or the abilities of an endless spell, you can roll a dice. On a 5+, ignore the effect of that spell or the effects of that endless spell’s abilities on that unit."
+  },
+  {
+   "Name": "Breath Of The Mire-Drakes",
+   "Fluff": "Belcha-bannas are typically built around the severed tongue of a mire-drake, creatures so vile that even after death, their remains belch forth clouds of soul-shrivelling gas.",
+   "Rule": "Breath of the Mire-drakes: At the start of the combat phase, roll a dice for each enemy unit within 3\" of this unit. On a 1, nothing happens. On a 2-5, that enemy unit suffers 1 mortal wound. On a 6, that enemy unit suffers D3 mortal wounds."
+  }
+ ],
+ "Keywords": [
+  "Destruction",
+  "Orruk Warclans",
+  "Orruk",
+  "Kruleboyz",
+  "Hero",
+  "Totem",
+  "Murknob",
+  "Murknob",
+  "With",
+  "Belcha-Banna"
+ ],
+ "Profile": {
+  "Movement": "5\"",
+  "Wounds": "6",
+  "Save": "4+",
+  "Bravery": "7"
+ },
+ "Tables": [
+  [
+   [
+    "MELEE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Murknob Cleaver",
+    "1\"",
+    "3",
+    "3+",
+    "3+",
+    "-1",
+    "2"
+   ]
+  ]
+ ]
+}

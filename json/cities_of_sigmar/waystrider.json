@@ -1,0 +1,83 @@
+{
+ "IsLegends": true,
+ "Url": "https://wahapedia.ru/aos3/factions/cities-of-sigmar/Waystrider",
+ "Faction": "Cities of Sigmar",
+ "Title": "Waystrider",
+ "Legend": "",
+ "PitchBattleProfile": {
+  "UnitSize": "1",
+  "Points": "90",
+  "Role": "Leader",
+  "BaseSize": "",
+  "Notes": "Single"
+ },
+ "Intro": "A Waystrider is armed with a Longbow and Starlight Greatblade.",
+ "Rules": [
+  {
+   "Name": "Heartseeker Arrow",
+   "Fluff": "",
+   "Rule": "ABILITIES After deployment, roll a dice if the model chosen to be the enemy general is visible to any friendly units with this ability. On a 5+, that general suffers 1 mortal wound."
+  },
+  {
+   "Name": "Boldest Of The Bold",
+   "Fluff": "",
+   "Rule": "Boldest of the Bold: Once per battle, in the battleshock phase, you can say that this unit will inspire boldness in its fellow Wanderers. If you do so, when you take a battleshock test for a friendly WANDERERS unit within 18\" of this unit in that phase, use this unit’s Bravery characteristic. In addition, if you make a battleshock roll of 1 for any of those units, that unit can fight immediately. A unit cannot be affected by this ability more than once per phase."
+  }
+ ],
+ "Keywords": [
+  "Order",
+  "Cities Of Sigmar",
+  "Aelf",
+  "Wanderers",
+  "Hero",
+  "Waystrider"
+ ],
+ "Profile": {
+  "Movement": "6\"",
+  "Wounds": "5",
+  "Save": "4+",
+  "Bravery": "8"
+ },
+ "Tables": [
+  [
+   [
+    "MISSILE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Longbow",
+    "20\"",
+    "3",
+    "3+",
+    "4+",
+    "-",
+    "1"
+   ]
+  ],
+  [
+   [
+    "MELEE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Starlight Greatblade",
+    "1\"",
+    "3",
+    "3+",
+    "3+",
+    "-1",
+    "D3"
+   ]
+  ]
+ ]
+}

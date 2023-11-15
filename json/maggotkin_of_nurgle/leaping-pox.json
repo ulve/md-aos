@@ -1,0 +1,24 @@
+{
+ "IsLegends": true,
+ "Url": "https://wahapedia.ru/aos3/factions/maggotkin-of-nurgle/Leaping-Pox",
+ "Faction": "Maggotkin of Nurgle",
+ "Title": "Leaping Pox",
+ "Legend": "From the Garden of Nurgle spring countless horrors, yet few are as strangely macabre as the phenomena known as the Leaping Pox. Each a band of roving Plague Toads, some ridden by Nurgle’s favoured Pox Riders, they caper onto battlefields to bring disease and death before heading off to spread the Grandfather’s gifts to other ‘fortunate’ souls.",
+ "PitchBattleProfile": {
+  "UnitSize": "",
+  "Points": "",
+  "Role": "Warscroll Battalion",
+  "BaseSize": "",
+  "Notes": ""
+ },
+ "Intro": "",
+ "Rules": null,
+ "Keywords": null,
+ "Profile": {
+  "Movement": "",
+  "Wounds": "",
+  "Save": "",
+  "Bravery": ""
+ },
+ "Tables": null
+}

@@ -1,0 +1,110 @@
+{
+ "IsLegends": true,
+ "Url": "https://wahapedia.ru/aos3/factions/maggotkin-of-nurgle/Daemon-Pox-Riders-of-Nurgle",
+ "Faction": "Maggotkin of Nurgle",
+ "Title": "Daemon Pox Riders of Nurgle",
+ "Legend": "Daemon Pox Riders form the vanguard of the Plague Lord’s daemon armies. Consisting of repulsive Plaguebearers mounted on ravenous and wide-mawed Daemon Plague Toads, they crash into the ranks of the foe like bloated cannonballs.",
+ "PitchBattleProfile": {
+  "UnitSize": "3",
+  "Points": "175",
+  "Role": "None",
+  "BaseSize": "",
+  "Notes": ""
+ },
+ "Intro": "BATTALIONSThis warscroll can be used in the following warscroll battalions: • Leaping Pox",
+ "Rules": [
+  {
+   "Name": "",
+   "Fluff": "",
+   "Rule": "DESCRIPTIONEach model in a Daemon Pox Riders of Nurgle unit is armed with a Plaguesword."
+  },
+  {
+   "Name": "Mount",
+   "Fluff": "",
+   "Rule": "MOUNT: This unit’s Plague Toads are each armed with a Grasping Tongue and Yawning Maw."
+  },
+  {
+   "Name": "Fly",
+   "Fluff": "",
+   "Rule": "FLY: This unit can fly."
+  },
+  {
+   "Name": "Bloated Flesh",
+   "Fluff": "Most weapons simply slide harmlessly through the bloated, abscess-riddled flesh of a Daemon Plague Toad with little effect, the foul bulk of the thing swallowing up blades and arrows harmlessly.",
+   "Rule": "ABILITIES This unit has a ward of 5+."
+  },
+  {
+   "Name": "Rot-Eaters",
+   "Fluff": "A Daemon Plague Toad’s jag-toothed maw yawns impossibly wide as the abomination prepares to devour its victim.",
+   "Rule": "Rot-eaters: If the unmodified hit roll for an attack made with this unit’s Yawning Maws is 6, that attack inflicts 2 hits on the target instead of 1. Make a wound roll and save roll for each hit."
+  }
+ ],
+ "Keywords": [
+  "Chaos",
+  "Nurgle",
+  "Maggotkin Of Nurgle",
+  "Tamurkhan’s Horde",
+  "Daemon",
+  "Pox",
+  "Riders",
+  "Of",
+  "Nurgle"
+ ],
+ "Profile": {
+  "Movement": "7\"",
+  "Wounds": "5",
+  "Save": "5+",
+  "Bravery": "10"
+ },
+ "Tables": [
+  [
+   [
+    "MISSILE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Grasping Tongue",
+    "7\"",
+    "1",
+    "4+",
+    "4+",
+    "-",
+    "1"
+   ]
+  ],
+  [
+   [
+    "MELEE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Plaguesword",
+    "1\"",
+    "1",
+    "4+",
+    "3+",
+    "-",
+    "1"
+   ],
+   [
+    "Yawning Maw",
+    "1\"",
+    "2",
+    "4+",
+    "4+",
+    "-",
+    "D3"
+   ]
+  ]
+ ]
+}

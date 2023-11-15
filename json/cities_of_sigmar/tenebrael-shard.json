@@ -1,0 +1,77 @@
+{
+ "IsLegends": true,
+ "Url": "https://wahapedia.ru/aos3/factions/cities-of-sigmar/Tenebrael-Shard",
+ "Faction": "Cities of Sigmar",
+ "Title": "Tenebrael Shard",
+ "Legend": "A Tenebrael Shard is a killer of superlative skill. Fast beyond belief, supernaturally agile and ominously silent, the Shard closes upon his prey as fast as thought and ends their lives with callous efficiency. None know whether he is an assassin, a spy, or simply a terrifying force of nature, but to stand in his path means certain death.",
+ "PitchBattleProfile": {
+  "UnitSize": "1",
+  "Points": "110",
+  "Role": "Leader",
+  "BaseSize": "",
+  "Notes": "Single"
+ },
+ "Intro": "A Tenebrael Shard is armed with Bladed Barbs and Reaper Gauntlets.",
+ "Rules": [
+  {
+   "Name": "Shadowstrike",
+   "Fluff": "",
+   "Rule": "ABILITIES In your hero phase, you can roll a dice for this unit. If you do so, on a 4+, you can remove this unit from the battlefield and set it up anywhere on the battlefield that is within 3\" of any enemy units. If you do so, add 1 to hit rolls for attacks made by this unit until the end of the turn."
+  },
+  {
+   "Name": "Graceful Killer",
+   "Fluff": "",
+   "Rule": "Ignore Rend modifiers to save rolls for attacks that target this unit."
+  },
+  {
+   "Name": "Incredible Speed",
+   "Fluff": "",
+   "Rule": "At the end of the combat phase, if any enemy models were slain by wounds inflicted by this model’s attacks in that phase, this model can move up to 8\" but cannot finish that move within 3\" of an enemy unit."
+  }
+ ],
+ "Keywords": [
+  "Order",
+  "Cities Of Sigmar",
+  "Aelf",
+  "Hero",
+  "Tenebrael",
+  "Shard"
+ ],
+ "Profile": {
+  "Movement": "8\"",
+  "Wounds": "5",
+  "Save": "5+",
+  "Bravery": "8"
+ },
+ "Tables": [
+  [
+   [
+    "MELEE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Bladed Barbs",
+    "1\"",
+    "6",
+    "4+",
+    "4+",
+    "-",
+    "1"
+   ],
+   [
+    "Reaper Gauntlets",
+    "2\"",
+    "2",
+    "3+",
+    "3+",
+    "-1",
+    "D3"
+   ]
+  ]
+ ]
+}

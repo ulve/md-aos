@@ -1,0 +1,74 @@
+{
+ "IsLegends": false,
+ "Url": "https://wahapedia.ru/aos3/factions/seraphon/Saurus-Astrolith-Bearer",
+ "Faction": "Seraphon",
+ "Title": "Saurus Astrolith Bearer",
+ "Legend": "Inscribed with complex geometric and astrological symbols, an astrolith is a conduit for the power of Azyr. Those Seraphon in the presence of such an icon fight all the harder, empowered by the energies of the heavens radiating from the artefact.",
+ "PitchBattleProfile": {
+  "UnitSize": "1",
+  "Points": "140",
+  "Role": "Leader",
+  "BaseSize": "40",
+  "Notes": "Single"
+ },
+ "Intro": "A Saurus Astrolith Bearer is armed with a Celestite Warclub.",
+ "Rules": [
+  {
+   "Name": "Battalions",
+   "Fluff": "",
+   "Rule": "BATTALIONS: This warscroll can be used in the following warscroll battalions: • Coalesced Eternity Guardians • Shadowstrike Starhost • Shadowstrike Temple-host • Starborne Eternity Guardians"
+  },
+  {
+   "Name": "Celestial Conduit",
+   "Fluff": "An astrolith increases the flow of celestial magic in the vicinity.",
+   "Rule": "Add 1 to casting rolls for friendly SERAPHON WIZARDS within 12\" of any friendly units with this ability. In addition, add 6\" to the range of any spells cast by friendly SERAPHON WIZARDS within 12\" of any friendly units with this ability."
+  },
+  {
+   "Name": "Revivifying Energies",
+   "Fluff": "The cosmic energies emanating from an astrolith protect nearby Seraphon, sealing the most grievous wounds in flashes of cerulean light.",
+   "Rule": "Friendly SERAPHON units have a ward of 6+ while they are wholly within 12\" of any friendly units with this ability."
+  },
+  {
+   "Name": "Mighty Saurus Jaws",
+   "Fluff": "The powerful jaws of this saurus can tear apart the enemy in a brutal display until nothing is left but a bloody pulp.",
+   "Rule": "Each time this unit fights, after all of its attacks have been resolved, pick 1 enemy unit within 1\" of this unit and roll 3 dice. These dice rolls are referred to as bite rolls. For each bite roll of 6+, that enemy unit suffers 1 mortal wound."
+  }
+ ],
+ "Keywords": [
+  "Order",
+  "Seraphon",
+  "Saurus",
+  "Hero",
+  "Totem",
+  "Astrolith",
+  "Bearer"
+ ],
+ "Profile": {
+  "Movement": "5\"",
+  "Wounds": "6",
+  "Save": "4+",
+  "Bravery": "8"
+ },
+ "Tables": [
+  [
+   [
+    "MELEE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Celestite Warpick",
+    "2\"",
+    "4",
+    "3+",
+    "3+",
+    "-1",
+    "2"
+   ]
+  ]
+ ]
+}

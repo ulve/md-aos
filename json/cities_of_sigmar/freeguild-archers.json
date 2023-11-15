@@ -1,0 +1,83 @@
+{
+ "IsLegends": true,
+ "Url": "https://wahapedia.ru/aos3/factions/cities-of-sigmar/Freeguild-Archers",
+ "Faction": "Cities of Sigmar",
+ "Title": "Freeguild Archers",
+ "Legend": "",
+ "PitchBattleProfile": {
+  "UnitSize": "10",
+  "Points": "110",
+  "Role": "Battleline",
+  "BaseSize": "",
+  "Notes": ""
+ },
+ "Intro": "Each model in a Freeguild Archers unit is armed with a Bow and Shortsword.",
+ "Rules": [
+  {
+   "Name": "Champion",
+   "Fluff": "",
+   "Rule": "CHAMPION: 1 model in this unit can be a Marksman. Add 1 to the Attacks characteristic of that model’s Bow."
+  },
+  {
+   "Name": "Huntsmen",
+   "Fluff": "",
+   "Rule": "ABILITIES After deployment, you can move this unit up to 2D6\"."
+  }
+ ],
+ "Keywords": [
+  "Order",
+  "Cities Of Sigmar",
+  "Human",
+  "Free Peoples",
+  "Freeguild",
+  "Archers"
+ ],
+ "Profile": {
+  "Movement": "5\"",
+  "Wounds": "1",
+  "Save": "6+",
+  "Bravery": "5"
+ },
+ "Tables": [
+  [
+   [
+    "MISSILE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Bow",
+    "18\"",
+    "1",
+    "4+",
+    "4+",
+    "-",
+    "1"
+   ]
+  ],
+  [
+   [
+    "MELEE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Shortsword",
+    "1\"",
+    "1",
+    "5+",
+    "4+",
+    "-",
+    "1"
+   ]
+  ]
+ ]
+}

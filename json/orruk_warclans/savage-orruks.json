@@ -1,0 +1,87 @@
+{
+ "IsLegends": false,
+ "Url": "https://wahapedia.ru/aos3/factions/orruk-warclans/Savage-Orruks",
+ "Faction": "Orruk Warclans",
+ "Title": "Savage Orruks",
+ "Legend": "Savage Orruks cross the battlefield as a howling tide of tattooed green flesh. As more of these frenzied greenskins mob together, the Waaagh! energy flowing through them grows stronger, until they become akin to a raging storm of primal destruction.",
+ "PitchBattleProfile": {
+  "UnitSize": "10",
+  "Points": "160",
+  "Role": "Battleline",
+  "BaseSize": "32",
+  "Notes": ""
+ },
+ "Intro": "Each model in a Savage Orruks unit is armed with 1 of the following weapon options: Chompa; or Savage Stikka. All models in the unit must be armed with the same weapon option.",
+ "Rules": [
+  {
+   "Name": "Battalions",
+   "Fluff": "",
+   "Rule": "BATTALIONS: This warscroll can be used in the following warscroll battalions: • Brutal Rukk • Kunnin’ Rukk"
+  },
+  {
+   "Name": "Champion",
+   "Fluff": "",
+   "Rule": "CHAMPION: 1 model in this unit can be a Savage Boss. Add 1 to the Attacks characteristic of that model’s melee weapons."
+  },
+  {
+   "Name": "Standard Bearer",
+   "Fluff": "",
+   "Rule": "STANDARD BEARER: 1 in every 10 models in this unit can be a Bone Totem Bearer. Add 1 to the Bravery characteristic of a unit that includes any Bone Totem Bearers."
+  },
+  {
+   "Name": "Musician",
+   "Fluff": "",
+   "Rule": "MUSICIAN: 1 in every 10 models in this unit can be a Skull Thumper. You can add 1 to charge rolls for a unit that includes any Skull Thumpers."
+  },
+  {
+   "Name": "Primal Surge",
+   "Fluff": "Savage Orruks ride the wave ofWaaagh! energy that courses through their veins as they crash into the enemy.",
+   "Rule": "Add 1 to wound rolls for attacks made by this unit if this unit made a charge move in the same turn."
+  }
+ ],
+ "Keywords": [
+  "Destruction",
+  "Orruk Warclans",
+  "Orruk",
+  "Bonesplitterz",
+  "Savage",
+  "Orruks"
+ ],
+ "Profile": {
+  "Movement": "5\"",
+  "Wounds": "2",
+  "Save": "5+",
+  "Bravery": "5"
+ },
+ "Tables": [
+  [
+   [
+    "MELEE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Chompa",
+    "1\"",
+    "2",
+    "4+",
+    "3+",
+    "-",
+    "1"
+   ],
+   [
+    "Savage Stikka",
+    "2\"",
+    "2",
+    "4+",
+    "4+",
+    "-",
+    "1"
+   ]
+  ]
+ ]
+}

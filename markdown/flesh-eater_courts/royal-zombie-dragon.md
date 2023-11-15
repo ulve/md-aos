@@ -1,0 +1,61 @@
+# Royal Zombie Dragon
+
+_With a deafening roar, the Zombie Dragon dives into battle, eye sockets aglow with necromantic energy. The beast shreds flesh, bone and steel with equal ease, its talons and maw matched in their lethality only by its billowing pestilential breath._
+
+
+| Movement | Wounds | Save | Bravery |
+|:--------:|:------:|:----:|:-------:|
+| * | 14 | 4+ | 10 |
+
+* Unit Size: **1**
+* Points: **240**
+* Battlefield Role: **Behemoth**
+* Base size: **130**
+* Notes: **Single. Battleline in a Gristlegore army**
+
+| MISSILE WEAPONS | Range | Attacks | To Hit | To WoundTo Wnd | Rend | DamageDmg |
+|:---|:--:|:--:|:--:|:--:|:--:|:--:|
+| Pestilential Breath | 9" | 1 | 3+ | * | -3 | D6 |
+
+
+| MELEE WEAPONS | Range | Attacks | To Hit | To WoundTo Wnd | Rend | DamageDmg |
+|:---|:--:|:--:|:--:|:--:|:--:|:--:|
+| Snapping Maw | 3" | 3 | 4+ | 3+ | -2 | D6 |
+| Sword-like Claws | 2" | * | 4+ | 3+ | -1 | 2 |
+
+
+| Wounds Suffered | Move | Pestilential Breath | Sword-like Claws |
+|:---|:--:|:--:|:--:|
+| 0-3 | 14" | 2+ | 7 |
+| 4-6 | 12" | 3+ | 6 |
+| 7-9 | 10" | 4+ | 5 |
+| 10-12 | 8" | 5+ | 4 |
+| 13+ | 6" | 6+ | 3 |
+
+
+_BATTALIONSThis warscroll can be used in the following warscroll battalions: • Royal Menagerie • Mortevell’s Helcourt_
+
+## Fly
+
+FLY: This model can fly.
+
+## Pestilential Breath
+
+_When a Zombie Dragon looses its breath, the killing miasma withers flesh and saps life from the living._
+
+ABILITIES When you attack with this model’s Pestilential Breath, roll a dice before making the hit roll for the attack. If the roll is less than or equal to the number of models in the target unit, the attack scores a hit without needing to make a hit roll.
+
+## Keywords
+
+* Death
+* Flesh-Eater Courts
+* Menagerie
+* Monster
+* Royal
+* Zombie
+* Dragon
+
+
+## Source
+
+[Royal Zombie Dragon](https://wahapedia.ru/aos3/factions/flesh-eater-courts/Royal-Zombie-Dragon)

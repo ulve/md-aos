@@ -1,0 +1,86 @@
+{
+ "IsLegends": true,
+ "Url": "https://wahapedia.ru/aos3/factions/orruk-warclans/Fimirach-Noble",
+ "Faction": "Orruk Warclans",
+ "Title": "Fimirach Noble",
+ "Legend": "Marked for greatness at birth, a Fimirach Noble is raised to be a deadly killing machine in service to a stronghold’s Matriarch. Possessing a tougher hide and stouter build than its kin, the Noble has a cunning intellect, making it an ideal leader for bands of Fimir Warriors.",
+ "PitchBattleProfile": {
+  "UnitSize": "1",
+  "Points": "150",
+  "Role": "Leader",
+  "BaseSize": "50",
+  "Notes": "Single"
+ },
+ "Intro": "A Fimirach Noble is armed with a Baleglyph Maul and Club Tail.",
+ "Rules": [
+  {
+   "Name": "Monstrous Ally",
+   "Fluff": "",
+   "Rule": "MONSTROUS ALLY: This unit can be included as an allied unit in an army whose general has the DESTRUCTION keyword."
+  },
+  {
+   "Name": "Baleglyph Maul",
+   "Fluff": "Etched by Balefiends and imbued with vile magic, a weapon bearing these glyphs brings withering atrophy to anything it strikes.",
+   "Rule": "ABILITIES If the unmodified wound roll for an attack made with a Baleglyph Maul is 6, that attack causes 1 mortal wound to the target in addition to any damage it inflicts."
+  },
+  {
+   "Name": "Shrouding Mists",
+   "Fluff": "Fimir despise the light, wrapping themselves in sorcerous mists whenever they venture from their dank lairs. Such mist serves to hide them from their enemies’ sight.",
+   "Rule": "This model has a ward of 6+."
+  },
+  {
+   "Name": "Unnatural Flesh",
+   "Fluff": "Fimir are wholly unnatural creatures whose flesh twists and writhes, sealing wounds mere moments after they are inflicted.",
+   "Rule": "In your hero phase, you can heal 1 wound allocated to this model."
+  },
+  {
+   "Name": "Born To Lead",
+   "Fluff": "Fimirach Nobles are well-versed in the intricacies of warfare, able to direct their warriors to exploit their foes’ smallest weaknesses.",
+   "Rule": "Born to Lead: In the combat phase, after this model has fought in that phase for the first time, you can pick 1 friendly FIMIR unit that has not fought in that phase, that is within 3\" of an enemy unit and that is wholly within 12\" of this unit. That unit fights immediately."
+  }
+ ],
+ "Keywords": [
+  "Destruction",
+  "Fimir",
+  "Hero",
+  "Fimirach",
+  "Noble"
+ ],
+ "Profile": {
+  "Movement": "5\"",
+  "Wounds": "7",
+  "Save": "4+",
+  "Bravery": "9"
+ },
+ "Tables": [
+  [
+   [
+    "MELEE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Baleglyph Maul",
+    "2\"",
+    "5",
+    "3+",
+    "3+",
+    "-2",
+    "1"
+   ],
+   [
+    "Club Tail",
+    "1\"",
+    "1",
+    "4+",
+    "3+",
+    "-1",
+    "D3"
+   ]
+  ]
+ ]
+}

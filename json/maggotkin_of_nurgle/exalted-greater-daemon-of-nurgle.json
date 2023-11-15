@@ -1,0 +1,147 @@
+{
+ "IsLegends": true,
+ "Url": "https://wahapedia.ru/aos3/factions/maggotkin-of-nurgle/Exalted-Greater-Daemon-of-Nurgle",
+ "Faction": "Maggotkin of Nurgle",
+ "Title": "Exalted Greater Daemon of Nurgle",
+ "Legend": "Riddled with pestilence and disease, an Exalted Greater Daemon of Nurgle is a foul manifestation of Nurgle’s will. With each lumbering step and burbled word, it spreads more of its diseased blessings to those who stand before it.",
+ "PitchBattleProfile": {
+  "UnitSize": "1",
+  "Points": "430",
+  "Role": "Leader, Behemoth",
+  "BaseSize": "130",
+  "Notes": "Single"
+ },
+ "Intro": "BATTALIONSThis warscroll can be used in the following warscroll battalions: • Plague Legion Overlord • Rancid Retinue",
+ "Rules": [
+  {
+   "Name": "",
+   "Fluff": "",
+   "Rule": "DESCRIPTIONAn Exalted Greater Daemon of Nurgle is armed with a Massive Bilesword and Noxious Bile."
+  },
+  {
+   "Name": "Wizard",
+   "Fluff": "",
+   "Rule": "WIZARD: This model can attempt to cast 2 spells in your hero phase, and attempt to unbind 1 spell in the enemy hero phase."
+  },
+  {
+   "Name": "Blubber And Bile",
+   "Fluff": "The dubious reward for piercing the blubbery hide of an Exalted Greater Daemon of Nurgle is to be showered by acidic bile and putrid toxins.",
+   "Rule": "ABILITIESBlubber and Bile: This model has a ward of 5+. If an unmodified ward roll for this model is 6 and the attacking unit is within 3\" of this model, the attacking unit suffers 1 mortal wound after all of its attacks have been resolved."
+  },
+  {
+   "Name": "Corpulent Mass",
+   "Fluff": "An Exalted Greater Daemon of Nurgle is blessed with the Plaguefather’s gift of fecundity, enabling its body to swiftly regrow damaged flesh and tissue.",
+   "Rule": "In your hero phase, you can heal up to D3 wounds allocated to this model."
+  },
+  {
+   "Name": "Mountain Of Loathsome Flesh",
+   "Fluff": "Such is the size and girth of an Exalted Greater Daemon of Nurgle that it can simply run over its foes, crushing or asphyxiating them beneath its monstrous bulk as it does so.",
+   "Rule": "Mountain of Loathsome Flesh: Roll 1 dice for each enemy unit within 1\" of this model after this model finishes a charge move. On a 4+, that enemy unit suffers D3 mortal wounds."
+  },
+  {
+   "Name": "Plague Wind",
+   "Fluff": "The Exalted Greater Daemon of Nurgle summons a whirlwind of maggots and filth, basking in its feculence for a moment before sending it forth.",
+   "Rule": "Plague Wind is a spell that has a casting value of 7 and a range of 14\". If successfully cast, pick 1 point on the battlefield within range and visible to the caster and draw a straight line between that point and the closest point on the caster’s base. Each unit passed across by that line suffers D3 mortal wounds. If that line passes across a NURGLE unit, that unit’s commanding player can heal up to D3 wounds allocated to it instead."
+  },
+  {
+   "Name": "Grandfather’s Exalted Joy",
+   "Fluff": "At the Great Unclean One’s command, Nurgle’s children are inspired to fight with even greater exuberance.",
+   "Rule": "You can use this command ability in the combat phase. The command must be issued by this model and received by a friendly NURGLE DAEMON unit. Add 1 to the Attacks characteristic of that unit’s melee weapons until the end of that phase."
+  }
+ ],
+ "Keywords": [
+  "Chaos",
+  "Nurgle",
+  "Maggotkin Of Nurgle",
+  "Daemon",
+  "Great Unclean One",
+  "Monster",
+  "Hero",
+  "Wizard",
+  "Exalted",
+  "Greater",
+  "Daemon",
+  "Of",
+  "Nurgle"
+ ],
+ "Profile": {
+  "Movement": "*",
+  "Wounds": "16",
+  "Save": "4+",
+  "Bravery": "10"
+ },
+ "Tables": [
+  [
+   [
+    "MISSILE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Noxious Bile",
+    "7\"",
+    "D6",
+    "3+",
+    "*",
+    "-2",
+    "1"
+   ]
+  ],
+  [
+   [
+    "MELEE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Massive Bilesword",
+    "2\"",
+    "*",
+    "3+",
+    "3+",
+    "-2",
+    "3"
+   ]
+  ],
+  [
+   [
+    "Wounds Suffered",
+    "Move",
+    "Noxious Bile",
+    "Massive Bilesword"
+   ],
+   [
+    "0-8",
+    "7\"",
+    "2+",
+    "4"
+   ],
+   [
+    "9-11",
+    "6\"",
+    "3+",
+    "4"
+   ],
+   [
+    "12-13",
+    "5\"",
+    "3+",
+    "3"
+   ],
+   [
+    "14+",
+    "4\"",
+    "4+",
+    "3"
+   ]
+  ]
+ ]
+}

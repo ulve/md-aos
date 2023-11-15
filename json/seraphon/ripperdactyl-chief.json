@@ -1,0 +1,98 @@
+{
+ "IsLegends": false,
+ "Url": "https://wahapedia.ru/aos3/factions/seraphon/Ripperdactyl-Chief",
+ "Faction": "Seraphon",
+ "Title": "Ripperdactyl Chief",
+ "Legend": "Skink Chiefs who ride Ripperdactyls are fearsome, battle-scarred warriors that share much in common with their ferocious mounts. Under their direction, a pack of Ripperdactyls can unleash a truly hideous storm of violence.",
+ "PitchBattleProfile": {
+  "UnitSize": "1",
+  "Points": "110",
+  "Role": "Leader",
+  "BaseSize": "50",
+  "Notes": "Single"
+ },
+ "Intro": "A Ripperdactyl Chief is armed with a Skyblade.",
+ "Rules": [
+  {
+   "Name": "Battalions",
+   "Fluff": "",
+   "Rule": "BATTALIONS: This warscroll can be used in the following warscroll battalions: • Shadowstrike Starhost • Shadowstrike Temple-host"
+  },
+  {
+   "Name": "Fly",
+   "Fluff": "",
+   "Rule": "FLY: This unit can fly."
+  },
+  {
+   "Name": "Mount",
+   "Fluff": "",
+   "Rule": "MOUNT: This unit’s Ripperdactyl is armed with Tearing Jaws."
+  },
+  {
+   "Name": "Blot Toad",
+   "Fluff": "",
+   "Rule": "BLOT TOAD: You receive 1 Blot Toad marker for each RIPPERDACTYL CHIEF in your army. After the players have received their starting command points but before the start of the first turn, you can pick 1 enemy unit to have a Blot Toad for each Blot Toad marker you have. Place a Blot Toad marker next to that enemy unit.Designer’s Note: Blot Toads are not units; they are markers that are used to keep track of which enemy units have Blot Toads."
+  },
+  {
+   "Name": "Toad Rage",
+   "Fluff": "The mere scent of a blot toad sends Ripperdactyls into a frenzy.",
+   "Rule": "In the combat phase, add 1 to hit rolls and wound rolls for attacks made with this unit’s Tearing Jaws that target an enemy unit that has a Blot Toad."
+  },
+  {
+   "Name": "Swooping Dive",
+   "Fluff": "Ripperdactyls fly with such savage haste that it is almost impossible to draw a bead on them - and never more so than when they swoop down in a fit of rage.",
+   "Rule": "Subtract 1 from hit rolls from attacks made with missile weapons that target this unit. In addition, if this unit is targeted by attacks made by an enemy unit that received the Unleash Hell command in that phase, those attacks only score a hit on an unmodified hit roll of 6."
+  },
+  {
+   "Name": "Ripperdactyl Assault",
+   "Fluff": "A Ripperdactyl Chief is as ferocious as their mount, inspiring nearby Ripperdactyl Riders to attack with unbridled fury.",
+   "Rule": "Once per battle, at the start of your combat phase, you can pick 1 friendly unit with this ability on the battlefield to call a Ripperdactyl assault. If you do so, until the end of that phase, add 1 to the Attacks characteristic of melee weapons used by friendly RIPPERDACTYL units while they are wholly within 12\" of that unit."
+  }
+ ],
+ "Keywords": [
+  "Order",
+  "Seraphon",
+  "Skink",
+  "Hero",
+  "Ripperdactyl",
+  "Ripperdactyl",
+  "Chief"
+ ],
+ "Profile": {
+  "Movement": "12\"",
+  "Wounds": "6",
+  "Save": "5+",
+  "Bravery": "6"
+ },
+ "Tables": [
+  [
+   [
+    "MELEE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Skyblade",
+    "1\"",
+    "3",
+    "3+",
+    "3+",
+    "-1",
+    "2"
+   ],
+   [
+    "Tearing Jaws",
+    "1\"",
+    "3",
+    "4+",
+    "3+",
+    "-1",
+    "2"
+   ]
+  ]
+ ]
+}

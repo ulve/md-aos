@@ -1,0 +1,148 @@
+{
+ "IsLegends": false,
+ "Url": "https://wahapedia.ru/aos3/factions/maggotkin-of-nurgle/Bloab-Rotspawned",
+ "Faction": "Maggotkin of Nurgle",
+ "Title": "Bloab Rotspawned",
+ "Legend": "One of Nurgle’s most favoured sorcerers, Bloab Rotspawned is accompanied at all times by a swarm of daemonic flies that emerge from his bubotic flesh, to the detriment of any who dare draw too close.",
+ "PitchBattleProfile": {
+  "UnitSize": "1",
+  "Points": "310",
+  "Role": "Leader, Behemoth",
+  "BaseSize": "100",
+  "Notes": "Single, Unique"
+ },
+ "Intro": "Bloab Rotspawned is armed with a Harvestman’s Scythe.",
+ "Rules": [
+  {
+   "Name": "Battalions",
+   "Fluff": "",
+   "Rule": "BATTALIONS: This warscroll can be used in the following warscroll battalions: • Contagium Overlord"
+  },
+  {
+   "Name": "Mount",
+   "Fluff": "",
+   "Rule": "MOUNT: This unit’s Pox Maggoth, Bilespurter, is armed with Vile Bile and Monstrous Claws."
+  },
+  {
+   "Name": "Wizard",
+   "Fluff": "",
+   "Rule": "WIZARD: This unit can attempt to cast 1 spell in your hero phase and attempt to unbind 1 spell in the enemy hero phase."
+  },
+  {
+   "Name": "Daemon-Flies",
+   "Fluff": "The whirling fly-storm that surrounds Bloab blinds and chokes his victims.",
+   "Rule": "Daemon-flies: At the start of the combat phase and the enemy shooting phase, roll a dice for each enemy unit within 7\" of this unit. On a 4+, that enemy unit suffers 1 mortal wound and subtract 1 from hit rolls for attacks made by that enemy unit in that phase."
+  },
+  {
+   "Name": "Windspeaker Bells",
+   "Fluff": "The dolorous tolling of these bells disrupts the focus of enemy mages but helps Bloab to concentrate when he is weaving his own spells.",
+   "Rule": "Add 1 to casting rolls for this unit. In addition, subtract 1 from casting rolls for enemy WIZARDS that are within 14\" of this unit."
+  },
+  {
+   "Name": "Miasma Of Pestilence",
+   "Fluff": "Bloab Rotspawned completes a complicated gesture in the air and a vile mist rises from the ground around his target. While it lasts, even the lightest graze seems to turn gangrenous.",
+   "Rule": "Miasma of Pestilence: Miasma of Pestilence is a spell that has a casting value of 6 and a range of 14\". If successfully cast, pick 1 enemy unit within range and visible to the caster. Until your next hero phase, roll a dice at the end of each phase in which any wounds or mortal wounds were allocated to that unit. On a 2+, that unit suffers D3 mortal wounds."
+  }
+ ],
+ "Keywords": [
+  "Chaos",
+  "Mortal",
+  "Nurgle",
+  "Maggotkin Of Nurgle",
+  "Monster",
+  "Hero",
+  "Wizard",
+  "Maggoth Lord",
+  "Bloab",
+  "Rotspawned"
+ ],
+ "Profile": {
+  "Movement": "*",
+  "Wounds": "13",
+  "Save": "4+",
+  "Bravery": "9"
+ },
+ "Tables": [
+  [
+   [
+    "MISSILE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Vile Bile",
+    "14\"",
+    "D3",
+    "3+",
+    "*",
+    "-2",
+    "D3"
+   ]
+  ],
+  [
+   [
+    "MELEE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Harvestman’s Scythe",
+    "1\"",
+    "3",
+    "3+",
+    "3+",
+    "-1",
+    "2"
+   ],
+   [
+    "Monstrous Claws",
+    "1\"",
+    "*",
+    "3+",
+    "2+",
+    "-2",
+    "3"
+   ]
+  ],
+  [
+   [
+    "Wounds Suffered",
+    "Move",
+    "Vile Bile",
+    "Monstrous Claws"
+   ],
+   [
+    "0-6",
+    "8\"",
+    "2+",
+    "5"
+   ],
+   [
+    "7-9",
+    "7\"",
+    "3+",
+    "4"
+   ],
+   [
+    "10-11",
+    "6\"",
+    "4+",
+    "3"
+   ],
+   [
+    "12+",
+    "5\"",
+    "5+",
+    "2"
+   ]
+  ]
+ ]
+}

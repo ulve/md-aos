@@ -1,0 +1,135 @@
+{
+ "IsLegends": true,
+ "Url": "https://wahapedia.ru/aos3/factions/gloomspite-gitz/Colossal-Squig",
+ "Faction": "Gloomspite Gitz",
+ "Title": "Colossal Squig",
+ "Legend": "With their large, fleshy mouths and boundless energy, Colossal Squigs unleash untold havoc in battle. These insatiable fungoid beasts messily devour swathes of foes in an instant, squashing everything in their path as they careen towards their next meal.",
+ "PitchBattleProfile": {
+  "UnitSize": "1",
+  "Points": "325",
+  "Role": "Behemoth",
+  "BaseSize": "120 x 92",
+  "Notes": "Single"
+ },
+ "Intro": "A Colossal Squig is armed with Enormous Jaws, Trampling Feet and Puff Spores.",
+ "Rules": [
+  {
+   "Name": "Crazed Charge",
+   "Fluff": "Driven mad with hunger, the Colossal Squig bounds head-first into anything that it considers edible, wildly gnashing its jaws in the hope of finding a tasty morsel.",
+   "Rule": "ABILITIES Roll a dice for each enemy unit that is within 1\" of this model after this model makes a charge move. On a 2+, that enemy unit suffers D3 mortal wounds."
+  },
+  {
+   "Name": "Fungoid Squig Explosion",
+   "Fluff": "When these massive creatures meet their death, their body ripples with a build-up of fungal spore gas, and with an ear-splitting pop they burst into a mass of smaller Squigs.",
+   "Rule": "If this model is slain, before removing this model from play, roll a dice for each enemy unit within 3\" of it. On a 2+, that enemy unit suffers D3 mortal wounds. Then, you can add 1 SQUIG HERD unit of up to 5 models to your army. Set up the SQUIG HERD unit wholly within 9\" of this model and more than 3\" from all enemy models. This model is then removed from play."
+  },
+  {
+   "Name": "Puff Spores",
+   "Fluff": "When the Colossal Squig is threatened, its tiny fungal blisters begin to burst, spreading thick clouds of spores that blind and choke any who venture too close.",
+   "Rule": "Subtract 1 from hit rolls for attacks made with melee weapons that target this model."
+  },
+  {
+   "Name": "Swallowed Whole",
+   "Fluff": "A Colossal Squig’s enormous jaws can stretch wide enough to consume their enemy whole.",
+   "Rule": "If the unmodified hit roll for an attack made with this model’s Enormous Jaws is 6, that attack causes D3 mortal wounds to the target and the attack sequence ends (do not make a wound or save roll)."
+  }
+ ],
+ "Keywords": [
+  "Destruction",
+  "Gloomspite Gitz",
+  "Moonclan",
+  "Squig",
+  "Monster",
+  "Colossal",
+  "Squig"
+ ],
+ "Profile": {
+  "Movement": "*",
+  "Wounds": "16",
+  "Save": "5+",
+  "Bravery": "10"
+ },
+ "Tables": [
+  [
+   [
+    "MISSILE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Puff Spores",
+    "8\"",
+    "1",
+    "5+",
+    "5+",
+    "-",
+    "D3"
+   ]
+  ],
+  [
+   [
+    "MELEE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Enormous Jaws",
+    "3\"",
+    "8",
+    "*",
+    "3+",
+    "-2",
+    "D3"
+   ],
+   [
+    "Trampling Feet",
+    "1\"",
+    "*",
+    "5+",
+    "3+",
+    "-1",
+    "1"
+   ]
+  ],
+  [
+   [
+    "Wounds Suffered",
+    "Move",
+    "Enormous Jaws",
+    "Trampling Feet"
+   ],
+   [
+    "0-7",
+    "4D6\"",
+    "2+",
+    "10"
+   ],
+   [
+    "8-10",
+    "3D6\"",
+    "3+",
+    "8"
+   ],
+   [
+    "11-13",
+    "2D6\"",
+    "4+",
+    "6"
+   ],
+   [
+    "14+",
+    "2D6\"",
+    "5+",
+    "4"
+   ]
+  ]
+ ]
+}

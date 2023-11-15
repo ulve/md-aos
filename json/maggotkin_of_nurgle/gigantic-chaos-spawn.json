@@ -1,0 +1,109 @@
+{
+ "IsLegends": true,
+ "Url": "https://wahapedia.ru/aos3/factions/maggotkin-of-nurgle/Gigantic-Chaos-Spawn",
+ "Faction": "Maggotkin of Nurgle",
+ "Title": "Gigantic Chaos Spawn",
+ "Legend": "Some monstrous creatures of the Mortal Realms have been twisted beyond all recognition by the energies of Chaos, becoming hulking abominations that exist only to satiate their uncontrollable urge for carnage and slaughter.",
+ "PitchBattleProfile": {
+  "UnitSize": "1",
+  "Points": "195",
+  "Role": "Behemoth",
+  "BaseSize": "",
+  "Notes": "Single"
+ },
+ "Intro": "BATTALIONSThis warscroll can be used in the following warscroll battalions: • Sons of the Maggot Lord",
+ "Rules": [
+  {
+   "Name": "",
+   "Fluff": "",
+   "Rule": "DESCRIPTIONA Gigantic Chaos Spawn is armed with Freakish Mutations and Slavering Maws."
+  },
+  {
+   "Name": "Monstrous Ally",
+   "Fluff": "",
+   "Rule": "MONSTROUS ALLY: This unit can be included as an allied unit in an army whose general has the CHAOS keyword."
+  },
+  {
+   "Name": "Mark Of Chaos",
+   "Fluff": "",
+   "Rule": "MARK OF CHAOS: When you select this model to be part of your army, you must give it one of the following Mark of Chaos keywords: KHORNE, TZEENTCH, NURGLE, SLAANESH or UNDIVIDED."
+  },
+  {
+   "Name": "Plaything Of The Dark Gods",
+   "Fluff": "Gifts bestowed by the Dark Gods can bless the receiver with a bounty of strength and stamina – or they can be the complete opposite, causing excruciating pain and anguish.",
+   "Rule": "ABILITIESPlaything of the Dark Gods: At the start of your hero phase, roll a dice. On a 1, this model suffers D3 mortal wounds. On a 2+, you can heal up to D3 wounds allocated to this model. If you roll a 2+ and no wounds are allocated to this model, add D3 to its Wounds characteristic for the rest of the battle instead of healing D3 wounds."
+  }
+ ],
+ "Keywords": [
+  "Chaos",
+  "Monster",
+  "Mark Of Chaos",
+  "Gigantic",
+  "Chaos",
+  "Spawn"
+ ],
+ "Profile": {
+  "Movement": "*",
+  "Wounds": "11",
+  "Save": "5+",
+  "Bravery": "10"
+ },
+ "Tables": [
+  [
+   [
+    "MELEE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Freakish Mutations",
+    "2\"",
+    "2D6",
+    "3+",
+    "3+",
+    "-",
+    "1"
+   ],
+   [
+    "Slavering Maws",
+    "1\"",
+    "D6",
+    "4+",
+    "3+",
+    "*",
+    "D3"
+   ]
+  ],
+  [
+   [
+    "Wounds Suffered",
+    "Move",
+    "Slavering Maws"
+   ],
+   [
+    "0-4",
+    "3D6\"",
+    "-2"
+   ],
+   [
+    "5-6",
+    "2D6\"",
+    "-2"
+   ],
+   [
+    "7-8",
+    "2D6\"",
+    "-1"
+   ],
+   [
+    "9+",
+    "D6\"",
+    "-1"
+   ]
+  ]
+ ]
+}

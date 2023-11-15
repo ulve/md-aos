@@ -1,0 +1,140 @@
+{
+ "IsLegends": true,
+ "Url": "https://wahapedia.ru/aos3/factions/seraphon/Incarnate-Elemental-of-Fire",
+ "Faction": "Seraphon",
+ "Title": "Incarnate Elemental of Fire",
+ "Legend": "An Incarnate Elemental of Fire is a magical creature formed from the wantonly destructive forces of Aqshy, the Realm of Fire. It appears as a great burning figure of cindered flesh engulfed in robes of furnace-hot flames.",
+ "PitchBattleProfile": {
+  "UnitSize": "1",
+  "Points": "325",
+  "Role": "Behemoth",
+  "BaseSize": "120 x 92",
+  "Notes": "Single"
+ },
+ "Intro": "An Incarnate Elemental of Fire is armed with Tendrils of Fire, a Burning Lance and Fiery Bolts.",
+ "Rules": [
+  {
+   "Name": "Monstrous Ally",
+   "Fluff": "",
+   "Rule": "MONSTROUS ALLY: This unit can be included as an allied unit in any army whose general has the DESTRUCTION or ORDER keyword."
+  },
+  {
+   "Name": "Ashes To Ashes",
+   "Fluff": "The burning power of an Incarnate Elemental of Fire is no natural flame, but an insidious and almost wilfully destructive arcane force that eats into anything it touches, destroying them from within.",
+   "Rule": "ABILITIESAshes to Ashes: If the unmodified hit roll for an attack made by this model is 6, double the weapon’s Damage characteristic for that attack."
+  },
+  {
+   "Name": "Gift Of Elemental Fire",
+   "Fluff": "The very presence of an Incarnate Elemental of Fire brings destruction, as the heat that radiates off its form is enough to scorch metal and kindle flesh into bright flame.",
+   "Rule": "Gift of Elemental Fire: At the end of the combat phase, roll a dice for each enemy unit within 3\" of this model. On a 2+, that unit suffers D3 mortal wounds."
+  },
+  {
+   "Name": "Incarnate Of Aqshy",
+   "Fluff": "Incarnate Elementals are able to draw upon the energies from their realm to heal their bodies and increase their strength.",
+   "Rule": "Incarnate of Aqshy: Add 1 to wound rolls for attacks made by this model if it is within 1\" of any terrain features with the Arcane or Mystical scenery rule from the Mysterious Terrain table (core rules, 28.1.3)."
+  }
+ ],
+ "Keywords": [
+  "Aqshy",
+  "Monster",
+  "Incarnate",
+  "Elemental",
+  "Of",
+  "Fire"
+ ],
+ "Profile": {
+  "Movement": "*",
+  "Wounds": "14",
+  "Save": "",
+  "Bravery": "10"
+ },
+ "Tables": [
+  [
+   [
+    "MISSILE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Fiery Bolts",
+    "18\"",
+    "*",
+    "4+",
+    "4+",
+    "-1",
+    "1"
+   ]
+  ],
+  [
+   [
+    "MELEE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Tendrils of Fire",
+    "2\"",
+    "6",
+    "3+",
+    "4+",
+    "-",
+    "1"
+   ],
+   [
+    "Burning Lance",
+    "3\"",
+    "3",
+    "3+",
+    "2+",
+    "-2",
+    "2"
+   ]
+  ],
+  [
+   [
+    "Wounds Suffered",
+    "Move",
+    "Save",
+    "Fiery Bolts"
+   ],
+   [
+    "0-3",
+    "8\"",
+    "3+",
+    "10"
+   ],
+   [
+    "4-6",
+    "7\"",
+    "4+",
+    "8"
+   ],
+   [
+    "7-9",
+    "6\"",
+    "4+",
+    "6"
+   ],
+   [
+    "10-12",
+    "5\"",
+    "5+",
+    "4"
+   ],
+   [
+    "13+",
+    "4\"",
+    "6+",
+    "2"
+   ]
+  ]
+ ]
+}

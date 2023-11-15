@@ -1,0 +1,100 @@
+{
+ "IsLegends": true,
+ "Url": "https://wahapedia.ru/aos3/factions/orruk-warclans/Orruk-Warboss",
+ "Faction": "Orruk Warclans",
+ "Title": "Orruk Warboss",
+ "Legend": "",
+ "PitchBattleProfile": {
+  "UnitSize": "10",
+  "Points": "155",
+  "Role": "Leader",
+  "BaseSize": "",
+  "Notes": "Single"
+ },
+ "Intro": "An Orruk Warboss is armed with one of the following weapon options: Boss Choppa and Boss Shield; Massive Choppa; or Pair of Boss Choppas.",
+ "Rules": [
+  {
+   "Name": "Shield",
+   "Fluff": "",
+   "Rule": "SHIELD: If this unit is armed with a Boss Choppa and Boss Shield, it has a Save characteristic of 3+ instead of 4+."
+  },
+  {
+   "Name": "Mount",
+   "Fluff": "",
+   "Rule": "MOUNT: This unit can have a War Boar mount that is armed with Jagged Tusks. If this unit has a War Boar mount, it has a Move characteristic of 9\" instead of 5\"."
+  },
+  {
+   "Name": "Great Waaagh! Banner",
+   "Fluff": "",
+   "Rule": "GREAT WAAAGH! BANNER: If this unit does not have a War Boar mount, it can have a Great Waaagh! Banner. If this unit has a Great Waaagh! Banner, it gains the TOTEM keyword."
+  },
+  {
+   "Name": "War Boar Charge",
+   "Fluff": "",
+   "Rule": "ABILITIES Add 1 to wound rolls for attacks made with Jagged Tusks if the attacking unit made a charge move in the same turn."
+  }
+ ],
+ "Keywords": [
+  "Destruction",
+  "Orruk Warclans",
+  "Greenskinz",
+  "Orruk",
+  "Hero",
+  "Orruk Warboss"
+ ],
+ "Profile": {
+  "Movement": "5\"",
+  "Wounds": "6",
+  "Save": "4+",
+  "Bravery": "7"
+ },
+ "Tables": [
+  [
+   [
+    "MELEE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Boss Choppa",
+    "1\"",
+    "6",
+    "3+",
+    "3+",
+    "-1",
+    "1"
+   ],
+   [
+    "Massive Choppa",
+    "1\"",
+    "3",
+    "4+",
+    "3+",
+    "-2",
+    "D3"
+   ],
+   [
+    "Pair of Boss Choppas",
+    "1\"",
+    "8",
+    "3+",
+    "3+",
+    "-1",
+    "1"
+   ],
+   [
+    "Jagged Tusks",
+    "1\"",
+    "2",
+    "4+",
+    "4+",
+    "-",
+    "1"
+   ]
+  ]
+ ]
+}

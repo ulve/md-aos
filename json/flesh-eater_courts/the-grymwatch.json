@@ -1,0 +1,76 @@
+{
+ "IsLegends": false,
+ "Url": "https://wahapedia.ru/aos3/factions/flesh-eater-courts/The-Grymwatch",
+ "Faction": "Flesh-eater Courts",
+ "Title": "The Grymwatch",
+ "Legend": "Believing themselves to be heroic paladins on a mission of the utmost import, the deluded cannibals of the Grymwatch scrabble forth to tear apart their foes in a flurry of fangs and grasping claws.",
+ "PitchBattleProfile": {
+  "UnitSize": "6",
+  "Points": "120",
+  "Role": "",
+  "BaseSize": "",
+  "Notes": "Single, Unique. Duke Crakmarrow and The Grymwatch must be taken as a set. Although taken as a set, each is a separate unit."
+ },
+ "Intro": "BATTALIONSThis warscroll can be used in the following warscroll battalions: • Mortevell’s Helcourt",
+ "Rules": [
+  {
+   "Name": "",
+   "Fluff": "",
+   "Rule": "DESCRIPTIONThe Grymwatch is a unit that has 6 models. Gristlewel, Valreek, the Night’s Herald, the Royal Butcher and Master Talon are each armed with Bone Weapons and Filthy Claws; and the Duke’s Harriers are armed with Fangs."
+  },
+  {
+   "Name": "Royal Retinue",
+   "Fluff": "To the Grymwatch, the Duke is their liege, the one to whom they have pledged their undying fealty.",
+   "Rule": "ABILITIES Roll a dice before you allocate a wound or mortal wound to a friendly DUKE CRAKMARROW while he is within 3\" of this unit. On a 4+, that wound or mortal wound is allocated to this unit instead of DUKE CRAKMARROW."
+  },
+  {
+   "Name": "Quest To Slay The Monster",
+   "Fluff": "Under the command Duke Crakmarrow, these ghouls believe themselves noble knights charged with slaying a great beast that threatens their kingdom.",
+   "Rule": "Quest to Slay the Monster: Add 1 to the damage inflicted by each successful attack made by this unit that targets a MONSTER."
+  }
+ ],
+ "Keywords": [
+  "Death",
+  "Mordant",
+  "Flesh-Eater Courts",
+  "Hollowmourne",
+  "Grymwatch"
+ ],
+ "Profile": {
+  "Movement": "6\"",
+  "Wounds": "1",
+  "Save": "6+",
+  "Bravery": "10"
+ },
+ "Tables": [
+  [
+   [
+    "MELEE WEAPONS",
+    "Range",
+    "Attacks",
+    "To Hit",
+    "To WoundTo Wnd",
+    "Rend",
+    "DamageDmg"
+   ],
+   [
+    "Bone Weapons and Filthy Claws",
+    "1\"",
+    "2",
+    "4+",
+    "4+",
+    "-",
+    "1"
+   ],
+   [
+    "Fangs",
+    "1\"",
+    "D6",
+    "4+",
+    "4+",
+    "-",
+    "1"
+   ]
+  ]
+ ]
+}

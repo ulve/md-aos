@@ -1,0 +1,24 @@
+{
+ "IsLegends": false,
+ "Url": "https://wahapedia.ru/aos3/factions/maggotkin-of-nurgle/Invidian-Plaguehost",
+ "Faction": "Maggotkin of Nurgle",
+ "Title": "Invidian Plaguehost",
+ "Legend": "Slumping, shuffling, and slouching comes the Plaguehost of Invidia, massed ranks of Plaguebearers tallying the new diseases they visit upon the foe. Lucky, then, they have Noddrack the Snitch to drive them on and Gortle Pulpskull to raise their spirits – or at the very least, incentivise them to finish the job quickly…",
+ "PitchBattleProfile": {
+  "UnitSize": "",
+  "Points": "120",
+  "Role": "Warscroll Battalion",
+  "BaseSize": "",
+  "Notes": ""
+ },
+ "Intro": "",
+ "Rules": null,
+ "Keywords": null,
+ "Profile": {
+  "Movement": "",
+  "Wounds": "",
+  "Save": "",
+  "Bravery": ""
+ },
+ "Tables": null
+}
